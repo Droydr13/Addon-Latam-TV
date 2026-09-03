@@ -9,7 +9,7 @@ const OUT_DIR = __dirname;
 const CANVAS_W = 800;
 const CANVAS_H = 450;
 
-const LOGO_MAX_FRACTION = 0.72;
+const LOGO_MAX_FRACTION = 0.82;
 
 const LIGHT_BG = 0xF2F2F2FF; 
 const DARK_BG = 0x161616FF;  
@@ -52,7 +52,7 @@ function parseM3U(content) {
         shape: (attrs['tvg-shape'] || 'landscape').toLowerCase()
       };
     } else if (line.startsWith('#')) {
-      continue; 
+      continue;
     } else {
       
       if (current) {
@@ -111,7 +111,7 @@ function averageLuminance(img) {
   let count = 0;
   img.scan(0, 0, img.bitmap.width, img.bitmap.height, function (x, y, idx) {
     const alpha = this.bitmap.data[idx + 3];
-    if (alpha < 40) return; 
+    if (alpha < 40) return;
     const r = this.bitmap.data[idx];
     const g = this.bitmap.data[idx + 1];
     const b = this.bitmap.data[idx + 2];
@@ -135,12 +135,20 @@ async function buildChannelImage(ch, id) {
   const luminance = averageLuminance(logoImg);
   const bg = luminance < 128 ? LIGHT_BG : DARK_BG;
 
+  
+  try {
+    logoImg.autocrop({ tolerance: 0.02, cropSymmetric: false, leaveBorder: 0 });
+  } catch (e) {
+   
+  }
+
   const canvas = new Jimp(CANVAS_W, CANVAS_H, bg);
 
   const maxW = CANVAS_W * LOGO_MAX_FRACTION;
   const maxH = CANVAS_H * LOGO_MAX_FRACTION;
-  const scale = Math.min(maxW / logoImg.bitmap.width, maxH / logoImg.bitmap.height, 1);
-  logoImg.scale(scale);
+ 
+  const scale = Math.min(maxW / logoImg.bitmap.width, maxH / logoImg.bitmap.height, 4);
+  logoImg.scale(scale, Jimp.RESIZE_BICUBIC);
 
   const x = Math.round((CANVAS_W - logoImg.bitmap.width) / 2);
   const y = Math.round((CANVAS_H - logoImg.bitmap.height) / 2);
@@ -159,7 +167,7 @@ async function main() {
 
   console.log(`Canales encontrados: ${channels.length}`);
 
-  
+ 
   fs.rmSync(path.join(OUT_DIR, 'meta'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'stream'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'catalog'), { recursive: true, force: true });
@@ -169,7 +177,7 @@ async function main() {
   fs.mkdirSync(path.join(OUT_DIR, 'catalog', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'logos'), { recursive: true });
 
-  
+ 
   const repoSlug = process.env.GITHUB_REPOSITORY; 
   const branch = process.env.GITHUB_REF_NAME || 'main';
   const RAW_BASE = repoSlug ? `https://raw.githubusercontent.com/${repoSlug}/${branch}` : null;
