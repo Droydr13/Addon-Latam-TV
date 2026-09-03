@@ -4,7 +4,7 @@
       "id": "addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx",
       "type": "tv",
       "name": "Las Estrellas",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx.png",
       "posterShape": "square",
       "genres": [
         "Mundo"
@@ -24,7 +24,7 @@
       "id": "addonlatam-canal-canal-adn-40-mx",
       "type": "tv",
       "name": "ADN40",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-adn-40-mx.png",
       "posterShape": "square",
       "genres": [
         "Noticias"
@@ -34,7 +34,7 @@
       "id": "addonlatam-canal-canal-5-de-mexico-xhgc-mx",
       "type": "tv",
       "name": "Canal 5",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-5-de-mexico-xhgc-mx.png",
       "posterShape": "square",
       "genres": [
         "Mundo"
@@ -44,7 +44,7 @@
       "id": "addonlatam-canal-canal-milenio-tv-mx",
       "type": "tv",
       "name": "Milenio Televisión",
-      "poster": "https://docdog.top/logo/countries/mexico/mileniotv.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-milenio-tv-mx.png",
       "posterShape": "square",
       "genres": [
         "Noticias"
@@ -54,7 +54,7 @@
       "id": "addonlatam-canal-canal-azteca-7-mx",
       "type": "tv",
       "name": "Azteca 7",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-azteca-7-mx.png",
       "posterShape": "square",
       "genres": [
         "Mundo"
@@ -64,7 +64,7 @@
       "id": "addonlatam-canal-run-time-latino",
       "type": "tv",
       "name": "Run Time Latino",
-      "poster": "https://files.catbox.moe/ao2zws.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-latino.png",
       "posterShape": "square",
       "genres": [
         "24/7"
@@ -74,7 +74,7 @@
       "id": "addonlatam-canal-run-time-films",
       "type": "tv",
       "name": "Run Time Films",
-      "poster": "https://files.catbox.moe/ao2zws.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-films.png",
       "posterShape": "square",
       "genres": [
         "24/7"
@@ -84,7 +84,7 @@
       "id": "addonlatam-canal-run-time-english",
       "type": "tv",
       "name": "Run Time English",
-      "poster": "https://files.catbox.moe/ao2zws.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-english.png",
       "posterShape": "square",
       "genres": [
         "24/7"
@@ -94,7 +94,7 @@
       "id": "addonlatam-canal-run-time-cine-y-series",
       "type": "tv",
       "name": "Run Time Cine y Series",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-cine-y-series.png",
       "posterShape": "landscape",
       "genres": [
         "24/7"
@@ -104,7 +104,7 @@
       "id": "addonlatam-canal-run-time-familia",
       "type": "tv",
       "name": "Run Time Familia",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-familia.png",
       "posterShape": "landscape",
       "genres": [
         "24/7"
@@ -114,7 +114,7 @@
       "id": "addonlatam-canal-run-time-terror",
       "type": "tv",
       "name": "Run Time Terror",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-terror.png",
       "posterShape": "landscape",
       "genres": [
         "24/7"
@@ -124,7 +124,7 @@
       "id": "addonlatam-canal-run-time-romance",
       "type": "tv",
       "name": "Run Time Romance",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-romance.png",
       "posterShape": "landscape",
       "genres": [
         "24/7"
@@ -134,7 +134,7 @@
       "id": "addonlatam-canal-run-time-crimen",
       "type": "tv",
       "name": "Run Time Crimen",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-crimen.png",
       "posterShape": "landscape",
       "genres": [
         "24/7"
@@ -144,7 +144,7 @@
       "id": "addonlatam-canal-run-time-comedia",
       "type": "tv",
       "name": "Run Time Comedia",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-comedia.png",
       "posterShape": "landscape",
       "genres": [
         "24/7"
@@ -154,7 +154,7 @@
       "id": "addonlatam-canal-run-time-accion",
       "type": "tv",
       "name": "Run Time Acción",
-      "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-accion.png",
       "posterShape": "square",
       "genres": [
         "24/7"
@@ -164,7 +164,7 @@
       "id": "addonlatam-canal-canal-maria-vision-mx",
       "type": "tv",
       "name": "María Visión",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-maria-vision-mx.png",
       "posterShape": "square",
       "genres": [
         "Religion"
@@ -174,7 +174,7 @@
       "id": "addonlatam-canal-canal-cine-sony-mx",
       "type": "tv",
       "name": "Cine Sony",
-      "poster": "https://i.imgur.com/bZWoDTg.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cine-sony-mx.png",
       "posterShape": "square",
       "genres": [
         "Peliculas"
@@ -184,7 +184,7 @@
       "id": "addonlatam-canal-canal-sony-channel-mx",
       "type": "tv",
       "name": "Sony Channel",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-sony-channel-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -194,7 +194,7 @@
       "id": "addonlatam-canal-canal-star-channel-mx",
       "type": "tv",
       "name": "Star Channel",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx.png",
       "posterShape": "square",
       "genres": [
         "Peliculas"
@@ -204,7 +204,7 @@
       "id": "addonlatam-canal-canal-tv-azteca-corazon-mx",
       "type": "tv",
       "name": "Azteca Corazon",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tv-azteca-corazon-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Mundo"
@@ -214,7 +214,7 @@
       "id": "addonlatam-canal-canal-nickelodeon-mexico-sv",
       "type": "tv",
       "name": "Nickelodeon",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-nickelodeon-mexico-sv.png",
       "posterShape": "landscape",
       "genres": [
         "Infantil"
@@ -224,7 +224,7 @@
       "id": "addonlatam-canal-canal-golden-mexico-mx",
       "type": "tv",
       "name": "Golden",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-golden-mexico-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -234,7 +234,7 @@
       "id": "addonlatam-canal-canal-paramount-channel-mexico-mx",
       "type": "tv",
       "name": "Paramount Channel",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -244,7 +244,7 @@
       "id": "addonlatam-canal-canal-tnt-mexico-sv",
       "type": "tv",
       "name": "TNT",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-mexico-sv.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -254,7 +254,7 @@
       "id": "addonlatam-canal-canal-cinecanal-mx",
       "type": "tv",
       "name": "Cinecanal",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -264,7 +264,7 @@
       "id": "addonlatam-canal-canal-cinemax-mx",
       "type": "tv",
       "name": "Cinemax",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinemax-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -274,7 +274,7 @@
       "id": "addonlatam-canal-canal-space-mx",
       "type": "tv",
       "name": "Space",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-space-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -284,7 +284,7 @@
       "id": "addonlatam-canal-canal-studio-universal-mx",
       "type": "tv",
       "name": "Studio Universal",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-studio-universal-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -294,7 +294,7 @@
       "id": "addonlatam-canal-canal-hbo-mx",
       "type": "tv",
       "name": "HBO",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -304,7 +304,7 @@
       "id": "addonlatam-canal-canal-hbo-2-latinoamerica-mx",
       "type": "tv",
       "name": "HBO 2",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -314,7 +314,7 @@
       "id": "addonlatam-canal-canal-hbo-family-latinoamerica-mx",
       "type": "tv",
       "name": "HBO Family",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -324,7 +324,7 @@
       "id": "addonlatam-canal-canal-hbo-plus-mx",
       "type": "tv",
       "name": "HBO Plus",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-plus-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"
@@ -334,7 +334,7 @@
       "id": "addonlatam-canal-canal-espn-mexico-mx",
       "type": "tv",
       "name": "ESPN",
-      "poster": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-mexico-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -344,7 +344,7 @@
       "id": "addonlatam-canal-canal-espn-2-mexico-mx",
       "type": "tv",
       "name": "ESPN 2",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-2-mexico-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -354,7 +354,7 @@
       "id": "addonlatam-canal-canal-espn-3-mexico-sv",
       "type": "tv",
       "name": "ESPN 3",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-3-mexico-sv.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -364,7 +364,7 @@
       "id": "addonlatam-canal-canal-tudn-mexico-mx",
       "type": "tv",
       "name": "TUDN",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tudn-mexico-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -374,7 +374,7 @@
       "id": "addonlatam-canal-canal-fox-sports-mexico-sv",
       "type": "tv",
       "name": "Fox Sports",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-mexico-sv.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -384,7 +384,7 @@
       "id": "addonlatam-canal-canal-fox-sports-2-mexico-sv",
       "type": "tv",
       "name": "Fox Sports 2",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-2-mexico-sv.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -394,7 +394,7 @@
       "id": "addonlatam-canal-canal-fox-sports-3-mexico-sv",
       "type": "tv",
       "name": "Fox Sports 3",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-3-mexico-sv.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -404,7 +404,7 @@
       "id": "addonlatam-canal-canal-aym-sports-mx",
       "type": "tv",
       "name": "AYM Sports",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-aym-sports-mx.png",
       "posterShape": "landscape",
       "genres": [
         "Deportes"
@@ -424,7 +424,7 @@
       "id": "addonlatam-canal-retromusictelevision",
       "type": "tv",
       "name": "Retro Music Television",
-      "poster": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-retromusictelevision.png",
       "posterShape": "landscape",
       "genres": [
         "Musica"
@@ -444,7 +444,7 @@
       "id": "addonlatam-canal-corazon-fast",
       "type": "tv",
       "name": "Corazón Fast",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-corazon-fast.png",
       "posterShape": "landscape",
       "genres": [
         "Mundo"
@@ -454,7 +454,7 @@
       "id": "addonlatam-canal-clic-fast",
       "type": "tv",
       "name": "Clic Fast",
-      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-clic-fast.png",
       "posterShape": "landscape",
       "genres": [
         "Mundo"
@@ -464,7 +464,7 @@
       "id": "addonlatam-canal-next-hd",
       "type": "tv",
       "name": "Next HD",
-      "poster": "https://i.imgur.com/c2rF3SS.png",
+      "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-next-hd.png",
       "posterShape": "landscape",
       "genres": [
         "Peliculas"

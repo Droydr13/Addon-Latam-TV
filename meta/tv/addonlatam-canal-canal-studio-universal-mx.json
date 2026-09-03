@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-studio-universal-mx",
     "type": "tv",
     "name": "Studio Universal",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-studio-universal-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-studio-universal-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-studio-universal-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Peliculas"

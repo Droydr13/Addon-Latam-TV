@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-milenio-tv-mx",
     "type": "tv",
     "name": "Milenio Televisión",
-    "poster": "https://docdog.top/logo/countries/mexico/mileniotv.png",
-    "logo": "https://docdog.top/logo/countries/mexico/mileniotv.png",
-    "background": "https://docdog.top/logo/countries/mexico/mileniotv.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-milenio-tv-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-milenio-tv-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-milenio-tv-mx.png",
     "posterShape": "square",
     "genres": [
       "Noticias"

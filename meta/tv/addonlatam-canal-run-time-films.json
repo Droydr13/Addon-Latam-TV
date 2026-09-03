@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-run-time-films",
     "type": "tv",
     "name": "Run Time Films",
-    "poster": "https://files.catbox.moe/ao2zws.png",
-    "logo": "https://files.catbox.moe/ao2zws.png",
-    "background": "https://files.catbox.moe/ao2zws.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-films.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-films.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-films.png",
     "posterShape": "square",
     "genres": [
       "24/7"

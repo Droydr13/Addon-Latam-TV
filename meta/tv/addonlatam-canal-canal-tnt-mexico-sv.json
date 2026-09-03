@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-tnt-mexico-sv",
     "type": "tv",
     "name": "TNT",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-mexico-sv.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-mexico-sv.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-mexico-sv.png",
     "posterShape": "landscape",
     "genres": [
       "Peliculas"

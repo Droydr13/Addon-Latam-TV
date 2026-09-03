@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-tv-azteca-corazon-mx",
     "type": "tv",
     "name": "Azteca Corazon",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tv-azteca-corazon-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tv-azteca-corazon-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tv-azteca-corazon-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Mundo"

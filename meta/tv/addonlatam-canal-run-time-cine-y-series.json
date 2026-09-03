@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-run-time-cine-y-series",
     "type": "tv",
     "name": "Run Time Cine y Series",
-    "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
-    "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
-    "background": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-cine-y-series.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-cine-y-series.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-cine-y-series.png",
     "posterShape": "landscape",
     "genres": [
       "24/7"

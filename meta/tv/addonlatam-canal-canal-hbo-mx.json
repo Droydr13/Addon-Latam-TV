@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-hbo-mx",
     "type": "tv",
     "name": "HBO",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Peliculas"

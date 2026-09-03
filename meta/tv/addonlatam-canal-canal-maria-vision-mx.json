@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-maria-vision-mx",
     "type": "tv",
     "name": "María Visión",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-maria-vision-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-maria-vision-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-maria-vision-mx.png",
     "posterShape": "square",
     "genres": [
       "Religion"

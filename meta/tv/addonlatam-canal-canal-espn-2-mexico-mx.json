@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-espn-2-mexico-mx",
     "type": "tv",
     "name": "ESPN 2",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-2-mexico-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-2-mexico-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-2-mexico-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Deportes"

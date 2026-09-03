@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-cine-sony-mx",
     "type": "tv",
     "name": "Cine Sony",
-    "poster": "https://i.imgur.com/bZWoDTg.png",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "background": "https://i.imgur.com/bZWoDTg.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cine-sony-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cine-sony-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cine-sony-mx.png",
     "posterShape": "square",
     "genres": [
       "Peliculas"

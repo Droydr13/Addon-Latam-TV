@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-nickelodeon-mexico-sv",
     "type": "tv",
     "name": "Nickelodeon",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-nickelodeon-mexico-sv.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-nickelodeon-mexico-sv.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-nickelodeon-mexico-sv.png",
     "posterShape": "landscape",
     "genres": [
       "Infantil"

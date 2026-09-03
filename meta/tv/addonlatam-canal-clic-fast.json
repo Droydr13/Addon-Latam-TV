@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-clic-fast",
     "type": "tv",
     "name": "Clic Fast",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-clic-fast.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-clic-fast.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-clic-fast.png",
     "posterShape": "landscape",
     "genres": [
       "Mundo"

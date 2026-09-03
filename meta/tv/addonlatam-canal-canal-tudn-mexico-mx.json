@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-tudn-mexico-mx",
     "type": "tv",
     "name": "TUDN",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tudn-mexico-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tudn-mexico-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tudn-mexico-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Deportes"

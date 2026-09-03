@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-paramount-channel-mexico-mx",
     "type": "tv",
     "name": "Paramount Channel",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Peliculas"

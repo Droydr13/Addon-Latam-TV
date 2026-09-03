@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-space-mx",
     "type": "tv",
     "name": "Space",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-space-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-space-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-space-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Peliculas"

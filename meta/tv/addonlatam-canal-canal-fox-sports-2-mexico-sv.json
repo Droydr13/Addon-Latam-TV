@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-fox-sports-2-mexico-sv",
     "type": "tv",
     "name": "Fox Sports 2",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-2-mexico-sv.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-2-mexico-sv.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-2-mexico-sv.png",
     "posterShape": "landscape",
     "genres": [
       "Deportes"

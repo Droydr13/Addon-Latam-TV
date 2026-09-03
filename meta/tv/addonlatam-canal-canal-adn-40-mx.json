@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-adn-40-mx",
     "type": "tv",
     "name": "ADN40",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-adn-40-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-adn-40-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-adn-40-mx.png",
     "posterShape": "square",
     "genres": [
       "Noticias"

@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-cinemax-mx",
     "type": "tv",
     "name": "Cinemax",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinemax-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinemax-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinemax-mx.png",
     "posterShape": "landscape",
     "genres": [
       "Peliculas"

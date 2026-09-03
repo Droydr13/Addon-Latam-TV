@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-star-channel-mx",
     "type": "tv",
     "name": "Star Channel",
-    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
-    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
-    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx.png",
     "posterShape": "square",
     "genres": [
       "Peliculas"

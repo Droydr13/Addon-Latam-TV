@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-retromusictelevision",
     "type": "tv",
     "name": "Retro Music Television",
-    "poster": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
-    "logo": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
-    "background": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-retromusictelevision.png",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-retromusictelevision.png",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-retromusictelevision.png",
     "posterShape": "landscape",
     "genres": [
       "Musica"
