@@ -39,10 +39,11 @@ function parseM3U(content) {
         tvgName: attrs['tvg-name'] || name,
         logo: attrs['tvg-logo'] || ADDON_LOGO,
         group: attrs['group-title'] || 'General',
-        country: attrs['tvg-country'] || ''
+        country: attrs['tvg-country'] || '',
+        shape: (attrs['tvg-shape'] || 'landscape').toLowerCase()
       };
     } else if (line.startsWith('#')) {
-      continue; 
+      continue;
     } else {
       
       if (current) {
@@ -73,7 +74,10 @@ function main() {
   const usedIds = new Set();
   const metas = [];
 
+  const VALID_SHAPES = ['landscape', 'poster', 'square'];
+
   for (const ch of channels) {
+    const shape = VALID_SHAPES.includes(ch.shape) ? ch.shape : 'landscape';
     let baseId = slugify(ch.tvgId || ch.name);
     let id = `addonlatam-canal-${baseId}`;
     let n = 2;
@@ -89,7 +93,7 @@ function main() {
       poster: ch.logo,
       logo: ch.logo,
       background: ch.logo,
-      posterShape: 'landscape',
+      posterShape: shape,
       genres: ch.group ? [ch.group] : undefined,
       description: `Canal en vivo — ${ch.name}${ch.country ? ' (' + ch.country + ')' : ''}. Vía Addon Latam.`
     };
