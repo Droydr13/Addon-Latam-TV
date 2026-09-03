@@ -155,17 +155,18 @@ async function buildChannelImage(ch, id) {
   const luminance = averageLuminance(logoImg);
   const bg = luminance < 128 ? LIGHT_BG : DARK_BG;
 
- 
+  
   try {
     logoImg.autocrop({ tolerance: 0.02, cropSymmetric: false, leaveBorder: 0 });
   } catch (e) {
    
+  }
 
   const canvas = new Jimp(CANVAS_W, CANVAS_H, bg);
 
   const maxW = CANVAS_W * LOGO_MAX_FRACTION;
   const maxH = CANVAS_H * LOGO_MAX_FRACTION;
- 
+  
   const scale = Math.min(maxW / logoImg.bitmap.width, maxH / logoImg.bitmap.height, 4);
   logoImg.scale(scale, Jimp.RESIZE_BICUBIC);
 
@@ -196,7 +197,7 @@ async function main() {
   fs.mkdirSync(path.join(OUT_DIR, 'catalog', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'logos'), { recursive: true });
 
- 
+  
   const repoSlug = process.env.GITHUB_REPOSITORY; 
   const branch = process.env.GITHUB_REF_NAME || 'main';
   const RAW_BASE = repoSlug ? `https://raw.githubusercontent.com/${repoSlug}/${branch}` : null;
