@@ -8,32 +8,32 @@
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="Canal Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="Mundo",Azteca Uno
 
 
-#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo" tvg-shape="poster",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Imagen Television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg" group-title="Noticias",Imagen TV+ (-1h)
+#EXTINF:-1 tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Imagen Television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg" group-title="Noticias" tvg-shape="poster",Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-id="Canal.ADN.40.mx" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" group-title="Noticias",ADN40
+#EXTINF:-1 tvg-id="Canal.ADN.40.mx" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" group-title="Noticias" tvg-shape="poster",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" tvg-country="MX" group-title="Mundo",Canal 5
+#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" tvg-country="MX" group-title="Mundo" tvg-shape="poster",Canal 5
 http://24.152.42.29:8000/play/a03e/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Milenio.TV.mx" tvg-name="Canal Milenio TV" tvg-logo="https://docdog.top/logo/countries/mexico/mileniotv.png" group-title="Noticias",Milenio Televisión
+#EXTINF:-1 tvg-id="Canal.Milenio.TV.mx" tvg-name="Canal Milenio TV" tvg-logo="https://docdog.top/logo/countries/mexico/mileniotv.png" group-title="Noticias" tvg-shape="poster",Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
-#EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo",Azteca 7
+#EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo" tvg-shape="poster",Azteca 7
 http://201.174.175.3:8000/play/a0kl/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7",Run Time Latino
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7" tvg-shape="poster",Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7",Run Time Films
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7" tvg-shape="poster",Run Time Films
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7",Run Time English
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7" tvg-shape="poster",Run Time English
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" group-title="24/7",Run Time Cine y Series
@@ -57,11 +57,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" group-title="24/7",Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png" tvg-id="Canal.María.Visión.mx" tvg-name="Canal María Visión" tvg-country="MX" group-title="Religion",María Visión
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png" tvg-id="Canal.María.Visión.mx" tvg-name="Canal María Visión" tvg-country="MX" group-title="Religion" tvg-shape="poster",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 
 # --- PELÍCULAS Y SERIES ---
-#EXTINF:-1 tvg-id="Canal.Cine.Sony.mx" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
+#EXTINF:-1 tvg-id="Canal.Cine.Sony.mx" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas" tvg-shape="square",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Sony.Channel.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Peliculas",Sony Channel
