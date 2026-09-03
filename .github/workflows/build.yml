@@ -2,9 +2,7 @@ name: Generar addon de canales
 
 on:
   push:
-    paths:
-      - 'list.m3u'
-      - 'build.js'
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
