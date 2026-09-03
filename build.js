@@ -7,7 +7,7 @@ const OUT_DIR = __dirname;
 
 function slugify(str) {
   return String(str)
-    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') 
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // saca acentos
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
@@ -43,7 +43,7 @@ function parseM3U(content) {
         shape: (attrs['tvg-shape'] || 'landscape').toLowerCase()
       };
     } else if (line.startsWith('#')) {
-      continue;
+      continue; 
     } else {
       
       if (current) {
@@ -56,14 +56,56 @@ function parseM3U(content) {
   return channels;
 }
 
+function findM3UFile(dir) {
+  const IGNORED_DIRS = new Set(['node_modules', 'catalog', 'meta', 'stream']);
+  const candidates = [];
+
+  function walk(current) {
+    let entries;
+    try {
+      entries = fs.readdirSync(current, { withFileTypes: true });
+    } catch (e) {
+      return;
+    }
+    for (const entry of entries) {
+      if (entry.name.startsWith('.')) continue; 
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) {
+        if (IGNORED_DIRS.has(entry.name)) continue;
+        walk(full);
+      } else if (entry.isFile()) {
+        let stat;
+        try { stat = fs.statSync(full); } catch (e) { continue; }
+        if (stat.size > 5 * 1024 * 1024) continue; 
+        let content;
+        try { content = fs.readFileSync(full, 'utf8'); } catch (e) { continue; }
+        if (content.indexOf('\u0000') !== -1) continue; 
+        const extinfCount = (content.match(/#EXTINF/g) || []).length;
+        if (content.trimStart().startsWith('#EXTM3U') || extinfCount > 0) {
+          candidates.push({ path: full, extinfCount });
+        }
+      }
+    }
+  }
+
+  walk(dir);
+  if (candidates.length === 0) {
+    throw new Error('No encontré ningún archivo con formato M3U en el repo (ni #EXTM3U ni líneas #EXTINF).');
+  }
+  candidates.sort((a, b) => b.extinfCount - a.extinfCount);
+  return candidates[0].path;
+}
+
 function main() {
-  const m3uPath = path.join(__dirname, 'list.m3u');
+  const m3uPath = findM3UFile(__dirname);
+  console.log(`Lista encontrada en: ${path.relative(__dirname, m3uPath)}`);
   const content = fs.readFileSync(m3uPath, 'utf8');
   const channels = parseM3U(content);
 
   console.log(`Canales encontrados: ${channels.length}`);
 
-  
+  // limpiar solo las carpetas generadas (nunca la raíz entera, ahí
+  // viven list.m3u, build.js, el workflow y el resto del repo)
   fs.rmSync(path.join(OUT_DIR, 'meta'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'stream'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'catalog'), { recursive: true, force: true });
@@ -100,20 +142,20 @@ function main() {
 
     metas.push(meta);
 
-    // meta/tv/{id}.json
+    
     fs.writeFileSync(
       path.join(OUT_DIR, 'meta', 'tv', `${id}.json`),
       JSON.stringify({ meta }, null, 2)
     );
 
-    // stream/tv/{id}.json
+    
     fs.writeFileSync(
       path.join(OUT_DIR, 'stream', 'tv', `${id}.json`),
       JSON.stringify({ streams: [{ title: ch.name, url: ch.url }] }, null, 2)
     );
   }
 
-  // catalog/tv/addonlatam-canales.json
+  
   fs.writeFileSync(
     path.join(OUT_DIR, 'catalog', 'tv', 'addonlatam-canales.json'),
     JSON.stringify({
