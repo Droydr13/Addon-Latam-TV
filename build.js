@@ -1,14 +1,13 @@
-
-
 const fs = require('fs');
 const path = require('path');
 
 const ADDON_LOGO = 'https://archive.org/download/liddoy_20260714/ppped1d0s/logo.png';
-const OUT_DIR = path.join(__dirname, 'dist');
+
+const OUT_DIR = __dirname;
 
 function slugify(str) {
   return String(str)
-    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // saca acentos
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') 
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
@@ -64,7 +63,9 @@ function main() {
   console.log(`Canales encontrados: ${channels.length}`);
 
   
-  fs.rmSync(OUT_DIR, { recursive: true, force: true });
+  fs.rmSync(path.join(OUT_DIR, 'meta'), { recursive: true, force: true });
+  fs.rmSync(path.join(OUT_DIR, 'stream'), { recursive: true, force: true });
+  fs.rmSync(path.join(OUT_DIR, 'catalog'), { recursive: true, force: true });
   fs.mkdirSync(path.join(OUT_DIR, 'meta', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'stream', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'catalog', 'tv'), { recursive: true });
@@ -149,7 +150,7 @@ function main() {
     JSON.stringify(manifest, null, 2)
   );
 
-  console.log(`Listo. ${channels.length} canales generados en dist/`);
+  console.log(`Listo. ${channels.length} canales generados en la raíz del repo.`);
   console.log(`IDs duplicados evitados automáticamente cuando dos canales compartían tvg-id/nombre.`);
 }
 
