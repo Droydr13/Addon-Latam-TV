@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-sony-channel-mx",
+    "type": "tv",
+    "name": "Sony Channel",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Peliculas"
+    ],
+    "description": "Canal en vivo — Sony Channel. Vía Addon Latam."
+  }
+}

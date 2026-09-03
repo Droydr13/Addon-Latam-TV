@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-5-de-mexico-xhgc-mx",
+    "type": "tv",
+    "name": "Canal 5",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Canal 5 (MX). Vía Addon Latam."
+  }
+}

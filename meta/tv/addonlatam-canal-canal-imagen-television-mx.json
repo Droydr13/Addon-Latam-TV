@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-imagen-television-mx",
+    "type": "tv",
+    "name": "Imagen TV+ (-1h)",
+    "poster": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
+    "background": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
+    "posterShape": "square",
+    "genres": [
+      "Noticias"
+    ],
+    "description": "Canal en vivo — Imagen TV+ (-1h). Vía Addon Latam."
+  }
+}

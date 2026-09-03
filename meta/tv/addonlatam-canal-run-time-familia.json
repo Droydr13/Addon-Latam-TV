@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-run-time-familia",
+    "type": "tv",
+    "name": "Run Time Familia",
+    "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png",
+    "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png",
+    "background": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png",
+    "posterShape": "square",
+    "genres": [
+      "24/7"
+    ],
+    "description": "Canal en vivo — Run Time Familia. Vía Addon Latam."
+  }
+}

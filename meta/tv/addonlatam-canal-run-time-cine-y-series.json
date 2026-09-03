@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-run-time-cine-y-series",
+    "type": "tv",
+    "name": "Run Time Cine y Series",
+    "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
+    "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
+    "background": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png",
+    "posterShape": "square",
+    "genres": [
+      "24/7"
+    ],
+    "description": "Canal en vivo — Run Time Cine y Series. Vía Addon Latam."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-tv-azteca-corazon-mx",
+    "type": "tv",
+    "name": "Azteca Corazon",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Azteca Corazon. Vía Addon Latam."
+  }
+}
