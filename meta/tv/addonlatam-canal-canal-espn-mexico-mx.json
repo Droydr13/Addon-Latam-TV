@@ -6,7 +6,7 @@
     "poster": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
     "logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
     "background": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
-    "posterShape": "square",
+    "posterShape": "landscape",
     "genres": [
       "Deportes"
     ],
