@@ -133,7 +133,7 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil",Nickelodeon
-
+http://181.119.185.32:8000/play/a015/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Infantil",Disney Channel
 
