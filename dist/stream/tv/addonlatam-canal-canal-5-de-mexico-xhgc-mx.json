@@ -1,8 +1,0 @@
-{
-  "streams": [
-    {
-      "title": "Canal 5",
-      "url": "http://24.152.42.29:8000/play/a03e/index.m3u8?hls"
-    }
-  ]
-}
