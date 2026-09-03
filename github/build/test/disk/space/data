@@ -1,1 +1,6 @@
-nada
+{
+  "version": "1.0.3",
+  "cacheEnabled": true,
+  "cacheTTL": 3600,
+  "region": "auto"
+}
