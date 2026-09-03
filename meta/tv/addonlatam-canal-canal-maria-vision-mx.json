@@ -6,7 +6,7 @@
     "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
     "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
     "background": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
-    "posterShape": "poster",
+    "posterShape": "square",
     "genres": [
       "Religion"
     ],

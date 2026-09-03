@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-star-channel-mx",
+    "type": "tv",
+    "name": "Star Channel",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Peliculas"
+    ],
+    "description": "Canal en vivo — Star Channel. Vía Addon Latam."
+  }
+}
