@@ -20,13 +20,16 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Instalar dependencias
+        run: npm install
+
       - name: Correr build.js
         run: node build.js
 
-      - name: Subir manifest.json, catalog/, meta/ y stream/ actualizados
+      - name: Subir manifest.json, catalog/, meta/, stream/ y logos/ actualizados
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add manifest.json catalog meta stream
+          git add manifest.json catalog meta stream logos
           git diff --staged --quiet || git commit -m "Actualiza canales generados [skip ci]"
           git push
