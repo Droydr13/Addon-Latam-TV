@@ -5,7 +5,7 @@
       "type": "tv",
       "name": "Las Estrellas",
       "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Mundo"
       ]
@@ -15,7 +15,7 @@
       "type": "tv",
       "name": "Imagen TV+ (-1h)",
       "poster": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Noticias"
       ]
@@ -25,7 +25,7 @@
       "type": "tv",
       "name": "ADN40",
       "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Noticias"
       ]
@@ -35,7 +35,7 @@
       "type": "tv",
       "name": "Canal 5",
       "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Mundo"
       ]
@@ -45,7 +45,7 @@
       "type": "tv",
       "name": "Milenio Televisión",
       "poster": "https://docdog.top/logo/countries/mexico/mileniotv.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Noticias"
       ]
@@ -55,7 +55,7 @@
       "type": "tv",
       "name": "Azteca 7",
       "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Mundo"
       ]
@@ -65,7 +65,7 @@
       "type": "tv",
       "name": "Run Time Latino",
       "poster": "https://files.catbox.moe/ao2zws.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "24/7"
       ]
@@ -75,7 +75,7 @@
       "type": "tv",
       "name": "Run Time Films",
       "poster": "https://files.catbox.moe/ao2zws.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "24/7"
       ]
@@ -85,7 +85,7 @@
       "type": "tv",
       "name": "Run Time English",
       "poster": "https://files.catbox.moe/ao2zws.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "24/7"
       ]
@@ -165,7 +165,7 @@
       "type": "tv",
       "name": "María Visión",
       "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
-      "posterShape": "landscape",
+      "posterShape": "poster",
       "genres": [
         "Religion"
       ]
@@ -175,7 +175,7 @@
       "type": "tv",
       "name": "Cine Sony",
       "poster": "https://i.imgur.com/bZWoDTg.png",
-      "posterShape": "landscape",
+      "posterShape": "square",
       "genres": [
         "Peliculas"
       ]
