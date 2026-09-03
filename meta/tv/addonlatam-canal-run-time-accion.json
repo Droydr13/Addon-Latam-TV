@@ -6,7 +6,7 @@
     "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-accion.png",
     "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-accion.png",
     "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-run-time-accion.png",
-    "posterShape": "square",
+    "posterShape": "landscape",
     "genres": [
       "24/7"
     ],

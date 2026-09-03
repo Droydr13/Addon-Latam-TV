@@ -6,7 +6,7 @@
     "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-5-de-mexico-xhgc-mx.png",
     "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-5-de-mexico-xhgc-mx.png",
     "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-5-de-mexico-xhgc-mx.png",
-    "posterShape": "square",
+    "posterShape": "landscape",
     "genres": [
       "Mundo"
     ],
