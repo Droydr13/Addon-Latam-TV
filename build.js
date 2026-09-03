@@ -13,7 +13,6 @@ const LOGO_MAX_FRACTION = 0.82;
 
 const LIGHT_BG = 0xF2F2F2FF; 
 const DARK_BG = 0x161616FF;  
-
 function slugify(str) {
   return String(str)
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '') 
@@ -85,7 +84,7 @@ function findM3UFile(dir) {
       } else if (entry.isFile()) {
         let stat;
         try { stat = fs.statSync(full); } catch (e) { continue; }
-        if (stat.size > 5 * 1024 * 1024) continue; 
+        if (stat.size > 5 * 1024 * 1024) continue;
         let content;
         try { content = fs.readFileSync(full, 'utf8'); } catch (e) { continue; }
         if (content.indexOf('\u0000') !== -1) continue; 
@@ -111,7 +110,7 @@ function averageLuminance(img) {
   let count = 0;
   img.scan(0, 0, img.bitmap.width, img.bitmap.height, function (x, y, idx) {
     const alpha = this.bitmap.data[idx + 3];
-    if (alpha < 40) return;
+    if (alpha < 40) return; 
     const r = this.bitmap.data[idx];
     const g = this.bitmap.data[idx + 1];
     const b = this.bitmap.data[idx + 2];
@@ -135,18 +134,18 @@ async function buildChannelImage(ch, id) {
   const luminance = averageLuminance(logoImg);
   const bg = luminance < 128 ? LIGHT_BG : DARK_BG;
 
-  
+ 
   try {
     logoImg.autocrop({ tolerance: 0.02, cropSymmetric: false, leaveBorder: 0 });
   } catch (e) {
-   
+    
   }
 
   const canvas = new Jimp(CANVAS_W, CANVAS_H, bg);
 
   const maxW = CANVAS_W * LOGO_MAX_FRACTION;
   const maxH = CANVAS_H * LOGO_MAX_FRACTION;
- 
+
   const scale = Math.min(maxW / logoImg.bitmap.width, maxH / logoImg.bitmap.height, 4);
   logoImg.scale(scale, Jimp.RESIZE_BICUBIC);
 
@@ -167,7 +166,7 @@ async function main() {
 
   console.log(`Canales encontrados: ${channels.length}`);
 
- 
+  
   fs.rmSync(path.join(OUT_DIR, 'meta'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'stream'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'catalog'), { recursive: true, force: true });
@@ -178,12 +177,14 @@ async function main() {
   fs.mkdirSync(path.join(OUT_DIR, 'logos'), { recursive: true });
 
  
-  const repoSlug = process.env.GITHUB_REPOSITORY; 
+  const repoSlug = process.env.GITHUB_REPOSITORY;
   const branch = process.env.GITHUB_REF_NAME || 'main';
   const RAW_BASE = repoSlug ? `https://raw.githubusercontent.com/${repoSlug}/${branch}` : null;
   if (!RAW_BASE) {
     console.warn('Corriendo local sin GITHUB_REPOSITORY: los logos se generan igual en logos/, pero el manifest va a usar la URL del logo original hasta que esto corra dentro de GitHub Actions (ahí arma la URL sola).');
   }
+  
+  const CACHE_BUST = process.env.GITHUB_SHA ? process.env.GITHUB_SHA.slice(0, 8) : String(Date.now());
 
   const usedIds = new Set();
   const metas = [];
@@ -201,7 +202,7 @@ async function main() {
 
     console.log(`- Procesando logo: ${ch.name}`);
     const relLogoPath = await buildChannelImage(ch, id);
-    const finalLogo = (relLogoPath && RAW_BASE) ? `${RAW_BASE}/${relLogoPath}` : ch.logo;
+    const finalLogo = (relLogoPath && RAW_BASE) ? `${RAW_BASE}/${relLogoPath}?v=${CACHE_BUST}` : ch.logo;
 
     const meta = {
       id,
