@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-discovery-theater-latinoamerica-sv",
+    "type": "tv",
+    "name": "Discovery Theater",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-theater-latinoamerica-sv.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-theater-latinoamerica-sv.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-theater-latinoamerica-sv.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Documentales"
+    ],
+    "description": "Canal en vivo — Discovery Theater. Vía Addon Latam."
+  }
+}

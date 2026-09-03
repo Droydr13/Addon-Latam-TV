@@ -3,12 +3,12 @@
     "id": "addonlatam-canal-canal-paramount-channel-mexico-mx",
     "type": "tv",
     "name": "Paramount Channel",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png?v=cac41e1a",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png?v=cac41e1a",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png?v=cac41e1a",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-paramount-channel-mexico-mx.png?v=4b185857",
     "posterShape": "landscape",
     "genres": [
-      "Peliculas"
+      "Cine"
     ],
     "description": "Canal en vivo — Paramount Channel. Vía Addon Latam."
   }

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-universal-comedy",
+    "type": "tv",
+    "name": "Universal Comedy",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-comedy.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-comedy.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-comedy.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — Universal Comedy. Vía Addon Latam."
+  }
+}

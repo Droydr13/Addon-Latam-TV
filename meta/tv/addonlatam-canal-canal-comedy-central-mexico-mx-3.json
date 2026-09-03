@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-comedy-central-mexico-mx-3",
+    "type": "tv",
+    "name": "Comedy Central OP3",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx-3.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx-3.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx-3.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Comedia"
+    ],
+    "description": "Canal en vivo — Comedy Central OP3. Vía Addon Latam."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-history-2-mexico-mx",
+    "type": "tv",
+    "name": "History 2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2-mexico-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2-mexico-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2-mexico-mx.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Documentales"
+    ],
+    "description": "Canal en vivo — History 2. Vía Addon Latam."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-discovery-world-latinoamerica-sv-2",
+    "type": "tv",
+    "name": "Discovery World OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-world-latinoamerica-sv-2.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-world-latinoamerica-sv-2.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-world-latinoamerica-sv-2.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Documentales"
+    ],
+    "description": "Canal en vivo — Discovery World OP2. Vía Addon Latam."
+  }
+}

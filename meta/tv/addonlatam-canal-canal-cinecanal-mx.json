@@ -3,12 +3,12 @@
     "id": "addonlatam-canal-canal-cinecanal-mx",
     "type": "tv",
     "name": "Cinecanal",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png?v=cac41e1a",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png?v=cac41e1a",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png?v=cac41e1a",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cinecanal-mx.png?v=4b185857",
     "posterShape": "landscape",
     "genres": [
-      "Peliculas"
+      "Cine"
     ],
     "description": "Canal en vivo — Cinecanal. Vía Addon Latam."
   }

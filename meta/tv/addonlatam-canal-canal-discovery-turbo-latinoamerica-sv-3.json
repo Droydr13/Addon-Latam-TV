@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-discovery-turbo-latinoamerica-sv-3",
+    "type": "tv",
+    "name": "Discovery Turbo OP3",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-turbo-latinoamerica-sv-3.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-turbo-latinoamerica-sv-3.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-turbo-latinoamerica-sv-3.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Documentales"
+    ],
+    "description": "Canal en vivo — Discovery Turbo OP3. Vía Addon Latam."
+  }
+}

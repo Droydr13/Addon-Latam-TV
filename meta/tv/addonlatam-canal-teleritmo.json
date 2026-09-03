@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-teleritmo",
     "type": "tv",
     "name": "Teleritmo",
-    "poster": "https://static.wikia.nocookie.net/logopedia/images/d/da/Teleritmo_logo_2021.jpg",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Teleritmo_logo_2021.jpg",
-    "background": "https://static.wikia.nocookie.net/logopedia/images/d/da/Teleritmo_logo_2021.jpg",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-teleritmo.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-teleritmo.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-teleritmo.png?v=4b185857",
     "posterShape": "landscape",
     "genres": [
       "Musica"

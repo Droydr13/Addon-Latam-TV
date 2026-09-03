@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-telemundo-mexico-mx-5",
+    "type": "tv",
+    "name": "Telemundo+",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-telemundo-mexico-mx-5.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-telemundo-mexico-mx-5.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-telemundo-mexico-mx-5.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Telemundo+. Vía Addon Latam."
+  }
+}

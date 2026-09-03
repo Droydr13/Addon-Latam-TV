@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-discovery-kids-mexico-mx",
+    "type": "tv",
+    "name": "Discovery Kids",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-kids-mexico-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-kids-mexico-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-kids-mexico-mx.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Infantil"
+    ],
+    "description": "Canal en vivo — Discovery Kids. Vía Addon Latam."
+  }
+}

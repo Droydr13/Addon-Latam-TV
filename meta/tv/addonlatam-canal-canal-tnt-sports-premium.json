@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-tnt-sports-premium",
+    "type": "tv",
+    "name": "TNT Sports Premiun",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-sports-premium.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-sports-premium.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-sports-premium.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — TNT Sports Premiun. Vía Addon Latam."
+  }
+}

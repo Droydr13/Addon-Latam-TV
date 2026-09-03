@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "TNT Sports Premiun",
+      "url": "http://38.226.49.253:8000/play/a06f/index.m3u8?hls"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-tnt-novelas-mx-5",
+    "type": "tv",
+    "name": "TNT Novelas+",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-novelas-mx-5.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-novelas-mx-5.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-tnt-novelas-mx-5.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — TNT Novelas+. Vía Addon Latam."
+  }
+}

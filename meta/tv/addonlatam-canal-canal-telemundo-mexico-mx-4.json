@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-telemundo-mexico-mx-4",
+    "type": "tv",
+    "name": "Telemundo OP4",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-telemundo-mexico-mx-4.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-telemundo-mexico-mx-4.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-telemundo-mexico-mx-4.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Telemundo OP4. Vía Addon Latam."
+  }
+}

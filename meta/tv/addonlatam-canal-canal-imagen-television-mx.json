@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-imagen-television-mx",
     "type": "tv",
     "name": "Imagen TV+ (-1h)",
-    "poster": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
-    "background": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=4b185857",
     "posterShape": "landscape",
     "genres": [
       "Noticias"

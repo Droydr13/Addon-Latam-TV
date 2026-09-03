@@ -3,12 +3,12 @@
     "id": "addonlatam-canal-canal-hbo-2-latinoamerica-mx",
     "type": "tv",
     "name": "HBO 2",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png?v=cac41e1a",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png?v=cac41e1a",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png?v=cac41e1a",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx.png?v=4b185857",
     "posterShape": "landscape",
     "genres": [
-      "Peliculas"
+      "Cine"
     ],
     "description": "Canal en vivo — HBO 2. Vía Addon Latam."
   }

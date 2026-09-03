@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Sony Channel OP3",
+      "url": "http://38.226.49.253:8000/play/a060/index.m3u8?hls"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-universal-cinema",
+    "type": "tv",
+    "name": "Universal Cinema",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-cinema.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-cinema.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-cinema.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — Universal Cinema. Vía Addon Latam."
+  }
+}

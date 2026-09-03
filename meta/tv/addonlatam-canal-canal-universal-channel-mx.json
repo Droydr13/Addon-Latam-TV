@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-universal-channel-mx",
+    "type": "tv",
+    "name": "Universal Channel",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-channel-mx.png?v=4b185857",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-channel-mx.png?v=4b185857",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-universal-channel-mx.png?v=4b185857",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — Universal Channel. Vía Addon Latam."
+  }
+}
