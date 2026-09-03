@@ -1,17 +1,4 @@
-// build.js
-// Lee list.m3u y genera la estructura estática completa del addon
-// "Addon Latam - Canales" lista para subir a un repo de GitHub y
-// servir vía raw.githubusercontent.com (sin servidor propio).
-//
-// Uso:  node build.js
-//
-// Cada vez que edites list.m3u (agregues/saques canales), corré este
-// script de nuevo y volvé a subir la carpeta "dist" a GitHub. Si en vez
-// de eso preferís editar directo en github.com, edite el archivo
-// list.m3u ahí, bajalo, corré build.js localmente, y subí lo que
-// cambió dentro de dist/ (manifest.json no cambia casi nunca, lo que
-// sí cambia siempre es catalog/tv/addonlatam-canales.json y las
-// carpetas meta/ y stream/).
+
 
 const fs = require('fs');
 const path = require('path');
@@ -56,9 +43,9 @@ function parseM3U(content) {
         country: attrs['tvg-country'] || ''
       };
     } else if (line.startsWith('#')) {
-      continue; // otras directivas EXTVLCOPT, comentarios, etc.
+      continue; 
     } else {
-      // es la URL del stream
+      
       if (current) {
         current.url = line;
         channels.push(current);
@@ -76,7 +63,7 @@ function main() {
 
   console.log(`Canales encontrados: ${channels.length}`);
 
-  // limpiar/crear dist
+  
   fs.rmSync(OUT_DIR, { recursive: true, force: true });
   fs.mkdirSync(path.join(OUT_DIR, 'meta', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'stream', 'tv'), { recursive: true });
@@ -101,7 +88,7 @@ function main() {
       poster: ch.logo,
       logo: ch.logo,
       background: ch.logo,
-      posterShape: 'square',
+      posterShape: 'landscape',
       genres: ch.group ? [ch.group] : undefined,
       description: `Canal en vivo — ${ch.name}${ch.country ? ' (' + ch.country + ')' : ''}. Vía Addon Latam.`
     };
