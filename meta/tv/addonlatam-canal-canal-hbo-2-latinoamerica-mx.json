@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-hbo-2-latinoamerica-mx",
+    "type": "tv",
+    "name": "HBO 2",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Peliculas"
+    ],
+    "description": "Canal en vivo — HBO 2. Vía Addon Latam."
+  }
+}

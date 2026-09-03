@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-milenio-tv-mx",
+    "type": "tv",
+    "name": "Milenio Televisión",
+    "poster": "https://docdog.top/logo/countries/mexico/mileniotv.png",
+    "logo": "https://docdog.top/logo/countries/mexico/mileniotv.png",
+    "background": "https://docdog.top/logo/countries/mexico/mileniotv.png",
+    "posterShape": "square",
+    "genres": [
+      "Noticias"
+    ],
+    "description": "Canal en vivo — Milenio Televisión. Vía Addon Latam."
+  }
+}

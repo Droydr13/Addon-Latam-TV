@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-maria-vision-mx",
+    "type": "tv",
+    "name": "María Visión",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Religion"
+    ],
+    "description": "Canal en vivo — María Visión (MX). Vía Addon Latam."
+  }
+}
