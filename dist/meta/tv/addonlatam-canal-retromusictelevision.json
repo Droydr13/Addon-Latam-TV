@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-retromusictelevision",
+    "type": "tv",
+    "name": "Retro Music Television",
+    "poster": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
+    "logo": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
+    "background": "https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",
+    "posterShape": "square",
+    "genres": [
+      "Musica"
+    ],
+    "description": "Canal en vivo — Retro Music Television. Vía Addon Latam."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-fox-sports-2-mexico-sv",
+    "type": "tv",
+    "name": "Fox Sports 2",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — Fox Sports 2. Vía Addon Latam."
+  }
+}

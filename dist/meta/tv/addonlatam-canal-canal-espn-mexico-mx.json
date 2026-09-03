@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-espn-mexico-mx",
+    "type": "tv",
+    "name": "ESPN",
+    "poster": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
+    "background": "https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png",
+    "posterShape": "square",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — ESPN. Vía Addon Latam."
+  }
+}

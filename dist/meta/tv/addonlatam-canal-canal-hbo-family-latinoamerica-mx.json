@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-hbo-family-latinoamerica-mx",
+    "type": "tv",
+    "name": "HBO Family",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Peliculas"
+    ],
+    "description": "Canal en vivo — HBO Family. Vía Addon Latam."
+  }
+}

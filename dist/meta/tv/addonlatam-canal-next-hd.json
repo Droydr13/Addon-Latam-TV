@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-next-hd",
+    "type": "tv",
+    "name": "Next HD",
+    "poster": "https://i.imgur.com/c2rF3SS.png",
+    "logo": "https://i.imgur.com/c2rF3SS.png",
+    "background": "https://i.imgur.com/c2rF3SS.png",
+    "posterShape": "square",
+    "genres": [
+      "Peliculas"
+    ],
+    "description": "Canal en vivo — Next HD. Vía Addon Latam."
+  }
+}

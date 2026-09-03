@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-m2otv",
+    "type": "tv",
+    "name": "m2o TV",
+    "poster": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp",
+    "background": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp",
+    "posterShape": "square",
+    "genres": [
+      "Musica"
+    ],
+    "description": "Canal en vivo — m2o TV. Vía Addon Latam."
+  }
+}

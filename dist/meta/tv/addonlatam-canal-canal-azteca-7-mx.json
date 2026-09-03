@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-azteca-7-mx",
+    "type": "tv",
+    "name": "Azteca 7",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Azteca 7 (MX). Vía Addon Latam."
+  }
+}

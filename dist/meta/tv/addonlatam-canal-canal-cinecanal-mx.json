@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-cinecanal-mx",
+    "type": "tv",
+    "name": "Cinecanal",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",
+    "posterShape": "square",
+    "genres": [
+      "Peliculas"
+    ],
+    "description": "Canal en vivo — Cinecanal. Vía Addon Latam."
+  }
+}
