@@ -1,13 +1,22 @@
 const fs = require('fs');
 const path = require('path');
+const Jimp = require('jimp');
 
 const ADDON_LOGO = 'https://archive.org/download/liddoy_20260714/ppped1d0s/logo.png';
-
 const OUT_DIR = __dirname;
+
+
+const CANVAS_W = 800;
+const CANVAS_H = 450;
+
+const LOGO_MAX_FRACTION = 0.72;
+
+const LIGHT_BG = 0xF2F2F2FF; 
+const DARK_BG = 0x161616FF;  
 
 function slugify(str) {
   return String(str)
-    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // saca acentos
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') 
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
@@ -57,7 +66,7 @@ function parseM3U(content) {
 }
 
 function findM3UFile(dir) {
-  const IGNORED_DIRS = new Set(['node_modules', 'catalog', 'meta', 'stream']);
+  const IGNORED_DIRS = new Set(['node_modules', 'catalog', 'meta', 'stream', 'logos']);
   const candidates = [];
 
   function walk(current) {
@@ -96,7 +105,53 @@ function findM3UFile(dir) {
   return candidates[0].path;
 }
 
-function main() {
+
+function averageLuminance(img) {
+  let total = 0;
+  let count = 0;
+  img.scan(0, 0, img.bitmap.width, img.bitmap.height, function (x, y, idx) {
+    const alpha = this.bitmap.data[idx + 3];
+    if (alpha < 40) return; 
+    const r = this.bitmap.data[idx];
+    const g = this.bitmap.data[idx + 1];
+    const b = this.bitmap.data[idx + 2];
+    total += 0.299 * r + 0.587 * g + 0.114 * b;
+    count++;
+  });
+  if (count === 0) return 128; 
+  return total / count;
+}
+
+
+async function buildChannelImage(ch, id) {
+  let logoImg;
+  try {
+    logoImg = await Jimp.read(ch.logo);
+  } catch (e) {
+    console.warn(`  ! No pude bajar el logo de "${ch.name}" (${ch.logo}) — sigue con el original. Motivo: ${e.message}`);
+    return null;
+  }
+
+  const luminance = averageLuminance(logoImg);
+  const bg = luminance < 128 ? LIGHT_BG : DARK_BG;
+
+  const canvas = new Jimp(CANVAS_W, CANVAS_H, bg);
+
+  const maxW = CANVAS_W * LOGO_MAX_FRACTION;
+  const maxH = CANVAS_H * LOGO_MAX_FRACTION;
+  const scale = Math.min(maxW / logoImg.bitmap.width, maxH / logoImg.bitmap.height, 1);
+  logoImg.scale(scale);
+
+  const x = Math.round((CANVAS_W - logoImg.bitmap.width) / 2);
+  const y = Math.round((CANVAS_H - logoImg.bitmap.height) / 2);
+  canvas.composite(logoImg, x, y);
+
+  const outPath = path.join(OUT_DIR, 'logos', `${id}.png`);
+  await canvas.writeAsync(outPath);
+  return `logos/${id}.png`;
+}
+
+async function main() {
   const m3uPath = findM3UFile(__dirname);
   console.log(`Lista encontrada en: ${path.relative(__dirname, m3uPath)}`);
   const content = fs.readFileSync(m3uPath, 'utf8');
@@ -104,18 +159,26 @@ function main() {
 
   console.log(`Canales encontrados: ${channels.length}`);
 
-  // limpiar solo las carpetas generadas (nunca la raíz entera, ahí
-  // viven list.m3u, build.js, el workflow y el resto del repo)
+  
   fs.rmSync(path.join(OUT_DIR, 'meta'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'stream'), { recursive: true, force: true });
   fs.rmSync(path.join(OUT_DIR, 'catalog'), { recursive: true, force: true });
+  fs.rmSync(path.join(OUT_DIR, 'logos'), { recursive: true, force: true });
   fs.mkdirSync(path.join(OUT_DIR, 'meta', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'stream', 'tv'), { recursive: true });
   fs.mkdirSync(path.join(OUT_DIR, 'catalog', 'tv'), { recursive: true });
+  fs.mkdirSync(path.join(OUT_DIR, 'logos'), { recursive: true });
+
+  
+  const repoSlug = process.env.GITHUB_REPOSITORY; 
+  const branch = process.env.GITHUB_REF_NAME || 'main';
+  const RAW_BASE = repoSlug ? `https://raw.githubusercontent.com/${repoSlug}/${branch}` : null;
+  if (!RAW_BASE) {
+    console.warn('Corriendo local sin GITHUB_REPOSITORY: los logos se generan igual en logos/, pero el manifest va a usar la URL del logo original hasta que esto corra dentro de GitHub Actions (ahí arma la URL sola).');
+  }
 
   const usedIds = new Set();
   const metas = [];
-
   const VALID_SHAPES = ['landscape', 'poster', 'square'];
 
   for (const ch of channels) {
@@ -128,13 +191,17 @@ function main() {
     }
     usedIds.add(id);
 
+    console.log(`- Procesando logo: ${ch.name}`);
+    const relLogoPath = await buildChannelImage(ch, id);
+    const finalLogo = (relLogoPath && RAW_BASE) ? `${RAW_BASE}/${relLogoPath}` : ch.logo;
+
     const meta = {
       id,
       type: 'tv',
       name: ch.name,
-      poster: ch.logo,
-      logo: ch.logo,
-      background: ch.logo,
+      poster: finalLogo,
+      logo: finalLogo,
+      background: finalLogo,
       posterShape: shape,
       genres: ch.group ? [ch.group] : undefined,
       description: `Canal en vivo — ${ch.name}${ch.country ? ' (' + ch.country + ')' : ''}. Vía Addon Latam.`
@@ -142,20 +209,17 @@ function main() {
 
     metas.push(meta);
 
-    
     fs.writeFileSync(
       path.join(OUT_DIR, 'meta', 'tv', `${id}.json`),
       JSON.stringify({ meta }, null, 2)
     );
 
-    
     fs.writeFileSync(
       path.join(OUT_DIR, 'stream', 'tv', `${id}.json`),
       JSON.stringify({ streams: [{ title: ch.name, url: ch.url }] }, null, 2)
     );
   }
 
-  
   fs.writeFileSync(
     path.join(OUT_DIR, 'catalog', 'tv', 'addonlatam-canales.json'),
     JSON.stringify({
@@ -170,7 +234,6 @@ function main() {
     }, null, 2)
   );
 
-  // manifest.json
   const manifest = {
     id: 'community.addonlatam.canales',
     version: '1.0.0',
@@ -200,4 +263,7 @@ function main() {
   console.log(`IDs duplicados evitados automáticamente cuando dos canales compartían tvg-id/nombre.`);
 }
 
-main();
+main().catch(err => {
+  console.error('Falló el build:', err);
+  process.exit(1);
+});
