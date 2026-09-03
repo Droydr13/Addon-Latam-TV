@@ -26,7 +26,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 #EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo",Azteca 7
 http://201.174.175.3:8000/play/a0kl/index.m3u8?hls
 
-# --- RUN TIME (LOGOS HORIZONTALES REPARADOS) ---
 
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7",Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
