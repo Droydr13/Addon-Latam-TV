@@ -201,6 +201,16 @@
       ]
     },
     {
+      "id": "addonlatam-canal-canal-nickelodeon-mexico-sv",
+      "type": "tv",
+      "name": "Nickelodeon",
+      "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
+      "posterShape": "landscape",
+      "genres": [
+        "Infantil"
+      ]
+    },
+    {
       "id": "addonlatam-canal-canal-golden-mexico-mx",
       "type": "tv",
       "name": "Golden",

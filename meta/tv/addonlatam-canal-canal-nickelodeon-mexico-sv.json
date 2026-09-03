@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-nickelodeon-mexico-sv",
+    "type": "tv",
+    "name": "Nickelodeon",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
+    "background": "https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png",
+    "posterShape": "landscape",
+    "genres": [
+      "Infantil"
+    ],
+    "description": "Canal en vivo — Nickelodeon. Vía Addon Latam."
+  }
+}
