@@ -13,6 +13,7 @@ const LOGO_MAX_FRACTION = 0.82;
 
 const LIGHT_BG = 0xF2F2F2FF; 
 const DARK_BG = 0x161616FF;  
+
 function slugify(str) {
   return String(str)
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '') 
@@ -51,7 +52,7 @@ function parseM3U(content) {
         shape: (attrs['tvg-shape'] || 'landscape').toLowerCase()
       };
     } else if (line.startsWith('#')) {
-      continue;
+      continue; 
     } else {
       
       if (current) {
@@ -84,7 +85,7 @@ function findM3UFile(dir) {
       } else if (entry.isFile()) {
         let stat;
         try { stat = fs.statSync(full); } catch (e) { continue; }
-        if (stat.size > 5 * 1024 * 1024) continue;
+        if (stat.size > 5 * 1024 * 1024) continue; 
         let content;
         try { content = fs.readFileSync(full, 'utf8'); } catch (e) { continue; }
         if (content.indexOf('\u0000') !== -1) continue; 
@@ -110,7 +111,7 @@ function averageLuminance(img) {
   let count = 0;
   img.scan(0, 0, img.bitmap.width, img.bitmap.height, function (x, y, idx) {
     const alpha = this.bitmap.data[idx + 3];
-    if (alpha < 40) return; 
+    if (alpha < 40) return;
     const r = this.bitmap.data[idx];
     const g = this.bitmap.data[idx + 1];
     const b = this.bitmap.data[idx + 2];
@@ -122,13 +123,33 @@ function averageLuminance(img) {
 }
 
 
+async function buildFallbackCard(ch, id) {
+  const canvas = new Jimp(CANVAS_W, CANVAS_H, DARK_BG);
+  const fontSize = ch.name.length > 16 ? Jimp.FONT_SANS_32_WHITE : Jimp.FONT_SANS_64_WHITE;
+  const font = await Jimp.loadFont(fontSize);
+  canvas.print(
+    font,
+    40, 0,
+    {
+      text: ch.name,
+      alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER,
+      alignmentY: Jimp.VERTICAL_ALIGN_MIDDLE
+    },
+    CANVAS_W - 80, CANVAS_H
+  );
+  const outPath = path.join(OUT_DIR, 'logos', `${id}.png`);
+  await canvas.writeAsync(outPath);
+  return `logos/${id}.png`;
+}
+
+
 async function buildChannelImage(ch, id) {
   let logoImg;
   try {
     logoImg = await Jimp.read(ch.logo);
   } catch (e) {
-    console.warn(`  ! No pude bajar el logo de "${ch.name}" (${ch.logo}) — sigue con el original. Motivo: ${e.message}`);
-    return null;
+    console.warn(`  ! No pude bajar/leer el logo de "${ch.name}" (${ch.logo}) — genero tarjeta de texto en su lugar. Motivo: ${e.message}`);
+    return await buildFallbackCard(ch, id);
   }
 
   const luminance = averageLuminance(logoImg);
@@ -138,14 +159,13 @@ async function buildChannelImage(ch, id) {
   try {
     logoImg.autocrop({ tolerance: 0.02, cropSymmetric: false, leaveBorder: 0 });
   } catch (e) {
-    
-  }
+   
 
   const canvas = new Jimp(CANVAS_W, CANVAS_H, bg);
 
   const maxW = CANVAS_W * LOGO_MAX_FRACTION;
   const maxH = CANVAS_H * LOGO_MAX_FRACTION;
-
+ 
   const scale = Math.min(maxW / logoImg.bitmap.width, maxH / logoImg.bitmap.height, 4);
   logoImg.scale(scale, Jimp.RESIZE_BICUBIC);
 
@@ -177,7 +197,7 @@ async function main() {
   fs.mkdirSync(path.join(OUT_DIR, 'logos'), { recursive: true });
 
  
-  const repoSlug = process.env.GITHUB_REPOSITORY;
+  const repoSlug = process.env.GITHUB_REPOSITORY; 
   const branch = process.env.GITHUB_REF_NAME || 'main';
   const RAW_BASE = repoSlug ? `https://raw.githubusercontent.com/${repoSlug}/${branch}` : null;
   if (!RAW_BASE) {
