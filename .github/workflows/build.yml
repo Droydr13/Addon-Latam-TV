@@ -1,0 +1,34 @@
+name: Generar addon de canales
+
+on:
+  push:
+    paths:
+      - 'list.m3u'
+      - 'build.js'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Correr build.js
+        run: node build.js
+
+      - name: Subir manifest.json, catalog/, meta/ y stream/ actualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add manifest.json catalog meta stream
+          git diff --staged --quiet || git commit -m "Actualiza canales generados [skip ci]"
+          git push
