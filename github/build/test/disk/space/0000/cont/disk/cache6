@@ -11,6 +11,16 @@
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas OP2
+http://181.224.255.210:8001/play/a0se/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas OP2
+http://38.226.49.253:8000/play/a07r/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas SRT   
+http://190.102.120.20:8000/play/a035/index.m3u8?hls
+
+
 #EXTINF:-1 tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Noticias",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -57,10 +67,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" group-title="24/7",Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png" tvg-id="Canal.María.Visión.mx" tvg-name="Canal María Visión" tvg-country="MX" group-title="Religion"",María Visión
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png" tvg-id="Canal.María.Visión.mx" tvg-name="Canal María Visión" tvg-country="MX" group-title="Religion",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 
-# --- PELÍCULAS Y SERIES ---
+
 #EXTINF:-1 tvg-id="Canal.Cine.Sony.mx" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
@@ -80,6 +90,23 @@ http://liontv.es:8080/Euphoria/Euphoria2023/1371584
 
 #EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel
 http://181.119.185.32:8000/play/a016/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP2
+http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP3
+http://38.226.49.253:8000/play/a06q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel+
+http://190.60.45.197:2222/play/a02g/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP4
+http://190.102.120.20:8000/play/a00x/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP5
+http://190.102.120.20:8000/play/a04q/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.Warner.TV.mx" tvg-chno="203" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png" group-title="Cine",Warner Channel
 http://181.224.255.210:8001/play/a0od/index.m3u8?hls
@@ -859,18 +886,19 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="Deportes",TUDN
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5097
+http://liontv.es:8080/Euphoria/Euphoria2023/388757
 
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" group-title="Deportes",Fox Sports
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5163
+http://liontv.es:8080/Euphoria/Euphoria2023/388690
 
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" group-title="Deportes",Fox Sports 2
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5236
+http://liontv.es:8080/Euphoria/Euphoria2023/473005
 
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" group-title="Deportes",Fox Sports 3
-http://starlatino.tv:8880/82654302/LByK7u7Yt7tH/428664
+http://liontv.es:8080/Euphoria/Euphoria2023/345278
 
-#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Deportes",Win Sports
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" tvg-logo="http://miarea.vip:8080/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="Deportes",Win Sports
+http://190.60.45.197:2222/play/a03z/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports
