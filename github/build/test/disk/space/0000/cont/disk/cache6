@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Imagen Television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Imagen_Televisi%C3%B3n.svg" group-title="Noticias",Imagen TV+ (-1h)
+#EXTINF:-1 tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Noticias",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-id="Canal.ADN.40.mx" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" group-title="Noticias",ADN40
@@ -324,18 +324,53 @@ http://38.226.49.253:8000/play/a07d/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet-mediano.png" group-title="Documentales",Animal Planet
+http://38.226.49.253:8000/play/a054/index.m3u8?hls
+
+
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet-mediano.png" group-title="Documentales",Animal Planet OP2
+http://181.119.185.32:8000/play/a01s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet-mediano.png" group-title="Documentales",Animal Planet OP3
+http://190.102.120.20:8000/play/a018/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet-mediano.png" group-title="Documentales",Animal Planet OP4
+http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet-mediano.png" group-title="Documentales",Animal Planet OP5
+http://38.226.49.253:8000/play/a05r/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet-mediano.png" group-title="Documentales",Animal Planet SRT
+http://190.102.120.20:8000/play/a02x/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.History.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History
 http://190.102.120.20:8000/play/a01f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.National.Geographic.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" group-title="Documentales",National Geographic
-
+http://190.60.45.197:2222/play/a0gx/index.m3u8?hls
 
 
 
 # --- INFANTIL ---
 #EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network
+http://190.102.120.20:8000/play/a00q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network OP2
+http://181.119.185.32:8000/play/a00z/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network OP3
+http://38.226.49.253:8000/play/a050/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network OP4
+http://181.224.255.210:8001/play/a0py/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network OP5
+http://38.226.49.253:8000/play/a06n/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network+
+http://190.60.45.197:2222/play/a02i/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="Infantil",Discovery Kids
@@ -366,46 +401,209 @@ http://190.60.45.197:2222/play/a02z/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon
 http://181.119.185.32:8000/play/a015/index.m3u8?hls
 
+
+
+#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon OP2
+http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon+
+http://190.60.45.197:2222/play/a029/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon OP3
+http://190.102.120.20:8000/play/a00w/index.m3u8?hls
+
+
+
 #EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Infantil",Disney Channel
+http://38.226.49.253:8000/play/a052/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Infantil",Disney Channel OP2
+http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Infantil",Disney Channel+
+http://190.60.45.197:2222/play/a01l/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-id="Canal.Cartoonito.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png" group-title="Infantil",Cartoonito
+http://181.224.255.210:8001/play/a0su/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoonito.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png" group-title="Infantil",Cartoonito OP2
+http://38.226.49.253:8000/play/a03k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cartoonito.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png" group-title="Infantil",Cartoonito OP3
+http://181.119.185.32:8000/play/a01i/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+http://190.102.120.20:8000/play/a00g/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+http://181.119.185.32:8000/play/a00b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+http://181.224.255.210:8001/play/a0mm/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+http://38.226.49.253:8000/play/a03l/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr+
+http://190.60.45.197:2222/play/a043/index.m3u8?hls
+
+
+
 
 
 #EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantil",Disney Junior
+http://190.102.120.20:8000/play/a01k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantil",Disney Junior OP2
+http://181.119.185.32:8000/play/a01p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantil",Disney Junior OP3
+http://38.226.49.253:8000/play/a034/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantil",Disney Junior OP4
+http://190.60.45.197:2222/play/a036/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantil",Disney Junior OP5
+http://181.224.255.210:8001/play/a0ny/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" group-title="Infantil",Disney Junior OP6
+http://38.226.49.253:8000/play/a05h/index.m3u8?hls
 
 
 
 
 #EXTINF:-1 tvg-id="Canal.TNT.Series.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine",TNT Series
+http://181.119.185.32:8000/play/a00s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.Series.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine",TNT Series OP2
+http://190.102.120.20:8000/play/a00i/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.Series.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine",TNT Series OP3
+http://38.226.49.253:8000/play/a07b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.Series.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine",TNT Series OP4
+http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
+
+
 
 
 #EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="Cine",DPelicula
-
+http://190.102.120.20:8000/play/a037/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5168
+http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden OP2
+http://38.226.49.253:8000/play/a09m/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden OP3
+http://181.119.185.32:8000/play/a01b/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden OP4
+http://190.102.120.20:8000/play/a038/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden OP5
+http://190.102.120.20:8000/play/a050/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden OP6
+http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine" tvg-shape="landscape",Golden OP7
+http://38.226.49.253:8000/play/a03j/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Cine",Golden Edge
+http://38.226.49.253:8000/play/a045/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Cine",Golden Edge OP2
+http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Cine",Golden Edge SRT  
+http://190.102.120.20:8000/play/a039/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-id="Canal.Paramount.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine",Paramount Channel
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5197
+http://liontv.es:8080/Euphoria/Euphoria2023/500914
 
 #EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Cine",TNT
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5216
+http://190.102.120.20:8000/play/a045/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Cine",TNT OP2
+http://181.119.185.32:8000/play/a017/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Cine",TNT OP3
+http://190.102.120.20:8000/play/a057/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Cine",TNT OP4
+http://38.226.49.253:8000/play/a05y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Cine",TNT OP5
+http://190.102.120.20:8000/play/a012/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt-mediano.png" group-title="Cine",TNT OP6
+http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-id="Canal.Cinecanal.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine" tvg-shape="landscape",Cinecanal
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5133
+http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinecanal.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine" tvg-shape="landscape",Cinecanal OP2
+http://38.226.49.253:8000/play/a05z/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinecanal.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine" tvg-shape="landscape",Cinecanal OP3
+http://190.60.45.197:2222/play/a02c/index.m3u8?hls
+
+
+
 
 #EXTINF:-1 tvg-id="Canal.Cinemax.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="Cine" tvg-shape="landscape",Cinemax
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5134
+http://38.226.49.253:8000/play/a0ax/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="Cine" tvg-shape="landscape",Cinemax OP2
+http://190.102.120.20:8000/play/a00b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="Cine" tvg-shape="landscape",Cinemax OP3
+http://181.119.185.32:8000/play/a01j/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="Cine" tvg-shape="landscape",Cinemax OP4
+http://38.226.49.253:8000/play/a05j/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="Cine" tvg-shape="landscape",Cinemax OP5
+http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="Cine" tvg-shape="landscape",Cinemax OP6
+http://190.60.45.197:2222/play/a03t/index.m3u8?hls
+
+
+
 
 #EXTINF:-1 tvg-id="Canal.Space.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="Cine" tvg-shape="landscape",Space
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5201
+http://181.119.185.32:8000/play/a00d/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Space.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="Cine" tvg-shape="landscape",Space OP2 
+http://190.102.120.20:8000/play/a00c/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Space.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="Cine" tvg-shape="landscape",Space OP3
+http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Space.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="Cine" tvg-shape="landscape",Space OP4
+http://38.226.49.253:8000/play/a064/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Space.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" group-title="Cine" tvg-shape="landscape",Space OP5
+http://190.102.120.20:8000/play/a00m/index.m3u8?hls
+
+
+
+
 
 #EXTINF:-1 tvg-id="Canal.Studio.Universal.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Cine" tvg-shape="landscape",Studio Universal
 http://190.102.120.20:8000/play/a00e/index.m3u8?hls
@@ -427,30 +625,238 @@ http://38.226.49.253:8000/play/a07n/index.m3u8?hls
 http://190.60.45.197:2222/play/a037/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.HBO.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" group-title="Cine",HBO
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/4975
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine",HBO Pop 
 
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine",HBO 2
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/4972
+
+#EXTINF:-1 tvg-id="Canal.HBO.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" group-title="Cine",HBO
+http://181.119.185.32:8000/play/a00o/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" group-title="Cine",HBO OP2
+http://181.224.255.210:8001/play/a0f161/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" group-title="Cine",HBO OP3
+http://38.226.49.253:8000/play/a067/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine",HBO 2 
+http://181.119.185.32:8000/play/a01c/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine",HBO 2 OP2
+http://38.226.49.253:8000/play/a030/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine",HBO 2 OP3
+http://190.60.45.197:2222/play/a069/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine",HBO Family
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/4974
-
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine",HBO Plus
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/4976
+http://38.226.49.253:8000/play/a033/index.m3u8?hls
 
 
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine",HBO Family OP2
+http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine",HBO Family OP3
+http://38.226.49.253:8000/play/a07v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine",HBO Family OP4
+http://190.60.45.197:2222/play/a06c/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine",HBO Plus 
+http://181.119.185.32:8000/play/a01d/index.m3u8?hls
+
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine",HBO Plus OP2
+http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine",HBO Plus OP3
+http://38.226.49.253:8000/play/a04a/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine",HBO Plus OP4
+http://38.226.49.253:8000/play/a031/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine",HBO Plus OP5
+http://190.60.45.197:2222/play/a06a/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine",HBO Mundi
+http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine",HBO Mundi OP2
+http://38.226.49.253:8000/play/a04k/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine",HBO Pop
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine",HBO Signature 
+http://38.226.49.253:8000/play/a04j/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine",HBO Signature OP2
+http://181.224.255.210:8001/play/a0re/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine",HBO Xtreme
+http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine",HBO Xtreme OP2
+http://38.226.49.253:8000/play/a07w/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine",HBO Xtreme OP3
+http://181.224.255.210:8001/play/a0oo/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine",HBO Xtreme OP4
+http://38.226.49.253:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine",HBO Xtreme OP5
+http://190.60.45.197:2222/play/a06b/index.m3u8?hls
 
 
 # --- DEPORTES ---
-#EXTINF:-1 tvg-id="Canal.ESPN.(México).mx" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png" group-title="Deportes",ESPN
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5155
 
-#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5153
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(México).mx" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png" group-title="Deportes",ESPN
+http://181.119.185.32:8000/play/a004/index.m3u8?hls
+
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(México).mx" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png" group-title="Deportes",ESPN OP2
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(México).mx" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png" group-title="Deportes",ESPN OP3
+http://38.226.49.253:8000/play/a07l/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(México).mx" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png" group-title="Deportes",ESPN OP4
+http://190.60.45.197:2222/play/a0gz/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 
+http://38.226.49.253:8000/play/a06g/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 OP2
+http://190.60.45.197:2222/play/a038/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 OP3
+http://190.60.45.197:2222/play/a01z/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 OP4
+http://181.119.185.32:8000/play/a01w/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 OP5
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 OP6
+http://190.102.120.20:8000/play/a04t/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3
-http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5154
+http://190.102.120.20:8000/play/a043/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 OP2
+http://38.226.49.253:8000/play/a07g/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 OP3
+http://190.60.45.197:2222/play/a045/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 OP4
+http://181.119.185.32:8000/play/a009/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 OP5
+http://190.102.120.20:8000/play/a003/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4
+http://38.226.49.253:8000/play/a065/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 OP2
+http://181.224.255.210:8001/play/a0og/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 OP3
+http://190.102.120.20:8000/play/a004/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5
+http://38.226.49.253:8000/play/a078/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 OP2
+http://181.119.185.32:8000/play/a00n/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 OP3
+http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 OP4
+http://190.102.120.20:8000/play/a005/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6
+http://190.60.45.197:2222/play/a027/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 OP2
+http://38.226.49.253:8000/play/a05p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 OP3
+http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 OP4
+http://190.102.120.20:8000/play/a006/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7
+http://190.60.45.197:2222/play/a04k/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 OP2
+http://38.226.49.253:8000/play/a087/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 OP3
+http://181.119.185.32:8000/play/a01y/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 OP4
+http://181.119.185.32:8000/play/a01y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 OP5
+http://181.224.255.210:8001/play/a0m5/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 OP6
+http://190.102.120.20:8000/play/a008/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Peru).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Peru
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Colombia).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Col
+http://190.102.120.20:8000/play/a001/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Col
+http://190.102.120.20:8000/play/a002/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium
+http://38.226.49.253:8000/play/a07t/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium OP2
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="Deportes",TUDN
 http://vporpahe.top:8080/VIP018181729432665113/6b72b9d29939/5097
