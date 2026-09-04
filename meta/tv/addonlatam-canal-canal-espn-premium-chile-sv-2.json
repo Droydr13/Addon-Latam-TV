@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-espn-premium-chile-sv-2",
+    "type": "tv",
+    "name": "ESPN Premium OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-premium-chile-sv-2.png?v=1b6e1365",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-premium-chile-sv-2.png?v=1b6e1365",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-premium-chile-sv-2.png?v=1b6e1365",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — ESPN Premium OP2. Vía Addon Latam."
+  }
+}

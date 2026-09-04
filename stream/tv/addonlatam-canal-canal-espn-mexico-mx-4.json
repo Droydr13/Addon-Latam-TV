@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "ESPN OP4",
+      "url": "http://190.60.45.197:2222/play/a0gz/index.m3u8?hls"
+    }
+  ]
+}

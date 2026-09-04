@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-hbo-pop-sv",
+    "type": "tv",
+    "name": "HBO Pop",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-pop-sv.png?v=1b6e1365",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-pop-sv.png?v=1b6e1365",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-pop-sv.png?v=1b6e1365",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — HBO Pop. Vía Addon Latam."
+  }
+}

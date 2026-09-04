@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-hbo-family-latinoamerica-mx-4",
+    "type": "tv",
+    "name": "HBO Family OP4",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx-4.png?v=1b6e1365",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx-4.png?v=1b6e1365",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx-4.png?v=1b6e1365",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — HBO Family OP4. Vía Addon Latam."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-espn-7-sv-3",
+    "type": "tv",
+    "name": "ESPN 7 OP3",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-7-sv-3.png?v=1b6e1365",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-7-sv-3.png?v=1b6e1365",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-7-sv-3.png?v=1b6e1365",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — ESPN 7 OP3. Vía Addon Latam."
+  }
+}

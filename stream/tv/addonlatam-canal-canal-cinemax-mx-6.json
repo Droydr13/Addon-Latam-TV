@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Cinemax OP6",
+      "url": "http://190.60.45.197:2222/play/a03t/index.m3u8?hls"
+    }
+  ]
+}

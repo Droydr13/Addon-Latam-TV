@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-hbo-signature-latinoamerica-sv-2",
+    "type": "tv",
+    "name": "HBO Signature OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-signature-latinoamerica-sv-2.png?v=1b6e1365",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-signature-latinoamerica-sv-2.png?v=1b6e1365",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-signature-latinoamerica-sv-2.png?v=1b6e1365",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — HBO Signature OP2. Vía Addon Latam."
+  }
+}

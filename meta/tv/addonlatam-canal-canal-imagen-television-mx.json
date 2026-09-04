@@ -2,14 +2,14 @@
   "meta": {
     "id": "addonlatam-canal-canal-imagen-television-mx",
     "type": "tv",
-    "name": "Imagen TV+ (-1h)",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=4b185857",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=4b185857",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=4b185857",
+    "name": "Imagen TV",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=1b6e1365",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=1b6e1365",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=1b6e1365",
     "posterShape": "landscape",
     "genres": [
       "Noticias"
     ],
-    "description": "Canal en vivo — Imagen TV+ (-1h). Vía Addon Latam."
+    "description": "Canal en vivo — Imagen TV. Vía Addon Latam."
   }
 }

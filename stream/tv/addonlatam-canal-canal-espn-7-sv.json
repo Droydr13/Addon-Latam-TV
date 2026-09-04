@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "ESPN 7",
+      "url": "http://190.60.45.197:2222/play/a04k/index.m3u8?hls"
+    }
+  ]
+}

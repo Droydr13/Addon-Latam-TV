@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "TNT Series",
+      "url": "http://181.119.185.32:8000/play/a00s/index.m3u8?hls"
+    }
+  ]
+}
