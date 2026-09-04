@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx-3",
+    "type": "tv",
+    "name": "Las Estrellas OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx-3.png?v=e7426ae5",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx-3.png?v=e7426ae5",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx-3.png?v=e7426ae5",
+    "posterShape": "landscape",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Las Estrellas OP2. Vía Addon Latam."
+  }
+}

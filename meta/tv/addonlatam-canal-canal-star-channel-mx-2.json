@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-star-channel-mx-2",
+    "type": "tv",
+    "name": "Star Channel OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx-2.png?v=e7426ae5",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx-2.png?v=e7426ae5",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-star-channel-mx-2.png?v=e7426ae5",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — Star Channel OP2. Vía Addon Latam."
+  }
+}

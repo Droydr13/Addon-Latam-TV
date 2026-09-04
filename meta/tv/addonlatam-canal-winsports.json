@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-winsports",
+    "type": "tv",
+    "name": "Win Sports",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-winsports.png?v=e7426ae5",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-winsports.png?v=e7426ae5",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-winsports.png?v=e7426ae5",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — Win Sports. Vía Addon Latam."
+  }
+}
