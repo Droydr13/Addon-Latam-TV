@@ -3,6 +3,10 @@
     {
       "title": "ESPN Premium",
       "url": "http://38.226.49.253:8000/play/a07t/index.m3u8?hls"
+    },
+    {
+      "title": "ESPN Premium OP2",
+      "url": "http://181.224.255.210:8001/play/a0pt/index.m3u8?hls"
     }
   ]
 }

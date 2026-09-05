@@ -3,6 +3,14 @@
     {
       "title": "Golden Edge",
       "url": "http://38.226.49.253:8000/play/a045/index.m3u8?hls"
+    },
+    {
+      "title": "Golden Edge OP2",
+      "url": "http://181.224.255.210:8001/play/a0qu/index.m3u8?hls"
+    },
+    {
+      "title": "Golden Edge SRT",
+      "url": "http://190.102.120.20:8000/play/a039/index.m3u8?hls"
     }
   ]
 }

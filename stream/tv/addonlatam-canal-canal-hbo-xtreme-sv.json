@@ -3,6 +3,22 @@
     {
       "title": "HBO Xtreme",
       "url": "http://181.224.255.210:8001/play/a0nw/index.m3u8?hls"
+    },
+    {
+      "title": "HBO Xtreme OP2",
+      "url": "http://38.226.49.253:8000/play/a07w/index.m3u8?hls"
+    },
+    {
+      "title": "HBO Xtreme OP3",
+      "url": "http://181.224.255.210:8001/play/a0oo/index.m3u8?hls"
+    },
+    {
+      "title": "HBO Xtreme OP4",
+      "url": "http://38.226.49.253:8000/play/a032/index.m3u8?hls"
+    },
+    {
+      "title": "HBO Xtreme OP5",
+      "url": "http://190.60.45.197:2222/play/a06b/index.m3u8?hls"
     }
   ]
 }

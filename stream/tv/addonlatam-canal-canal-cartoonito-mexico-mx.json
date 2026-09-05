@@ -3,6 +3,14 @@
     {
       "title": "Cartoonito",
       "url": "http://181.224.255.210:8001/play/a0su/index.m3u8?hls"
+    },
+    {
+      "title": "Cartoonito OP2",
+      "url": "http://38.226.49.253:8000/play/a03k/index.m3u8?hls"
+    },
+    {
+      "title": "Cartoonito OP3",
+      "url": "http://181.119.185.32:8000/play/a01i/index.m3u8?hls"
     }
   ]
 }

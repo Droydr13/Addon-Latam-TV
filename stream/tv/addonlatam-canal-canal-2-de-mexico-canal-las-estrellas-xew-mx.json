@@ -3,6 +3,18 @@
     {
       "title": "Las Estrellas",
       "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+    },
+    {
+      "title": "Las Estrellas OP2",
+      "url": "http://181.224.255.210:8001/play/a0se/index.m3u8?hls"
+    },
+    {
+      "title": "Las Estrellas OP3",
+      "url": "http://38.226.49.253:8000/play/a07r/index.m3u8?hls"
+    },
+    {
+      "title": "Las Estrellas SRT",
+      "url": "http://190.102.120.20:8000/play/a035/index.m3u8?hls"
     }
   ]
 }

@@ -3,6 +3,10 @@
     {
       "title": "Universal TV",
       "url": "http://181.119.185.32:8000/play/a018/index.m3u8?hls"
+    },
+    {
+      "title": "Universal TV OP2",
+      "url": "http://190.102.120.20:8000/play/a01a/index.m3u8?hls"
     }
   ]
 }
