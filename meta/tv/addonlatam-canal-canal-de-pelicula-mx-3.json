@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-de-pelicula-mx-3",
+    "type": "tv",
+    "name": "DPelicula OP3",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-de-pelicula-mx-3.png?v=417b8d91",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-de-pelicula-mx-3.png?v=417b8d91",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-de-pelicula-mx-3.png?v=417b8d91",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — DPelicula OP3. Vía Addon Latam."
+  }
+}

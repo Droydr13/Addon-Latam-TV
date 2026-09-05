@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-disney-channel-mexico-sv-4",
+    "type": "tv",
+    "name": "Disney Channel OP4",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-disney-channel-mexico-sv-4.png?v=417b8d91",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-disney-channel-mexico-sv-4.png?v=417b8d91",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-disney-channel-mexico-sv-4.png?v=417b8d91",
+    "posterShape": "landscape",
+    "genres": [
+      "Infantil"
+    ],
+    "description": "Canal en vivo — Disney Channel OP4. Vía Addon Latam."
+  }
+}

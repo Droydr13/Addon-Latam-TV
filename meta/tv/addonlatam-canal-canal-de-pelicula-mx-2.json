@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-de-pelicula-mx-2",
+    "type": "tv",
+    "name": "DPelicula OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-de-pelicula-mx-2.png?v=417b8d91",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-de-pelicula-mx-2.png?v=417b8d91",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-de-pelicula-mx-2.png?v=417b8d91",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — DPelicula OP2. Vía Addon Latam."
+  }
+}

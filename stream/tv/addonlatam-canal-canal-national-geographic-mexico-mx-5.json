@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "National Geographic OP5",
+      "url": "http://181.119.185.32:8000/play/a014/index.m3u8?hls"
+    }
+  ]
+}
