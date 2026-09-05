@@ -2,14 +2,14 @@
   "meta": {
     "id": "addonlatam-canal-canal-history-2",
     "type": "tv",
-    "name": "History 2 UDP",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2.png?v=0f7419ca",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2.png?v=0f7419ca",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2.png?v=0f7419ca",
+    "name": "History 2 OP4",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2.png?v=811c2665",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2.png?v=811c2665",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-history-2.png?v=811c2665",
     "posterShape": "landscape",
     "genres": [
       "Documentales"
     ],
-    "description": "Canal en vivo — History 2 UDP. Vía Addon Latam."
+    "description": "Canal en vivo — History 2 OP4. Vía Addon Latam."
   }
 }

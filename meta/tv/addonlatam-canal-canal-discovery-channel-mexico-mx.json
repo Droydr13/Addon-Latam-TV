@@ -2,14 +2,14 @@
   "meta": {
     "id": "addonlatam-canal-canal-discovery-channel-mexico-mx",
     "type": "tv",
-    "name": "Discovery Channel SRT",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-channel-mexico-mx.png?v=0f7419ca",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-channel-mexico-mx.png?v=0f7419ca",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-channel-mexico-mx.png?v=0f7419ca",
+    "name": "Discovery Channel",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-channel-mexico-mx.png?v=811c2665",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-channel-mexico-mx.png?v=811c2665",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-discovery-channel-mexico-mx.png?v=811c2665",
     "posterShape": "landscape",
     "genres": [
       "Documentales"
     ],
-    "description": "Canal en vivo — Discovery Channel SRT. Vía Addon Latam."
+    "description": "Canal en vivo — Discovery Channel. Vía Addon Latam."
   }
 }

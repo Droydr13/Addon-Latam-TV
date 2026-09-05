@@ -5,19 +5,19 @@
       "url": "http://190.102.120.20:8000/play/a00g/index.m3u8?hls"
     },
     {
-      "title": "Nick Jr",
+      "title": "Nick Jr OP2",
       "url": "http://181.119.185.32:8000/play/a00b/index.m3u8?hls"
     },
     {
-      "title": "Nick Jr",
+      "title": "Nick Jr OP3",
       "url": "http://181.224.255.210:8001/play/a0mm/index.m3u8?hls"
     },
     {
-      "title": "Nick Jr",
+      "title": "Nick Jr OP4",
       "url": "http://38.226.49.253:8000/play/a03l/index.m3u8?hls"
     },
     {
-      "title": "Nick Jr+",
+      "title": "Nick Jr OP5",
       "url": "http://190.60.45.197:2222/play/a043/index.m3u8?hls"
     }
   ]
