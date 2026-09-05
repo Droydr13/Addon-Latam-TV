@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "ESPN 3 OP6",
+      "url": "http://181.224.255.210:8001/play/a0ps/index.m3u8?hls"
+    }
+  ]
+}

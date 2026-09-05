@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-espn-mexico-mx-5",
+    "type": "tv",
+    "name": "ESPN OP5",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-mexico-mx-5.png?v=9f088798",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-mexico-mx-5.png?v=9f088798",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-espn-mexico-mx-5.png?v=9f088798",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — ESPN OP5. Vía Addon Latam."
+  }
+}

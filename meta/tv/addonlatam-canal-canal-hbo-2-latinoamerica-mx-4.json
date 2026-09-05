@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-hbo-2-latinoamerica-mx-4",
+    "type": "tv",
+    "name": "HBO 2 OP4",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx-4.png?v=9f088798",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx-4.png?v=9f088798",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-2-latinoamerica-mx-4.png?v=9f088798",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — HBO 2 OP4. Vía Addon Latam."
+  }
+}
