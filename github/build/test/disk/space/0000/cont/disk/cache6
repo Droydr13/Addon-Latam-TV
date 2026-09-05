@@ -124,13 +124,13 @@ http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP3
 http://38.226.49.253:8000/play/a06q/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel+
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP4
 http://190.60.45.197:2222/play/a02g/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP4
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP5
 http://190.102.120.20:8000/play/a00x/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP5
+#EXTINF:-1 tvg-id="Canal.Star.Channel.mx" tvg-chno="202" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="Cine",Star Channel OP6
 http://190.102.120.20:8000/play/a04q/index.m3u8?hls
 
 
@@ -180,7 +180,7 @@ http://38.226.49.253:8000/play/a077/index.m3u8?hls
 http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.Universal.Channel.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_channel-mediano.png" group-title="Cine",Universal Channel +
+#EXTINF:-1 tvg-id="Canal.Universal.Channel.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_channel-mediano.png" group-title="Cine",Universal Channel OP3
 http://190.60.45.197:2222/play/a02d/index.m3u8?hls
 
 
@@ -195,7 +195,7 @@ http://190.102.120.20:8000/play/a01d/index.m3u8?hls
 http://38.226.49.253:8000/play/a03n/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.TLC.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" tvg-country="MX" group-title="Documentales",TLC SRT
+#EXTINF:-1 tvg-id="Canal.TLC.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" tvg-country="MX" group-title="Documentales",TLC OP4
 http://190.102.120.20:8000/play/a030/index.m3u8?hls
 
 
@@ -234,7 +234,7 @@ http://38.226.49.253:8000/play/a07f/index.m3u8?hls
 http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.TNT.Novelas.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="Mundo",TNT Novelas+
+#EXTINF:-1 tvg-id="Canal.TNT.Novelas.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="Mundo",TNT Novelas OP5
 http://190.60.45.197:2222/play/a02r/index.m3u8?hls
 
 
@@ -242,7 +242,7 @@ http://190.60.45.197:2222/play/a02r/index.m3u8?hls
 http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.TLNovelas.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Mundo",TLNovelas SRT    
+#EXTINF:-1 tvg-id="Canal.TLNovelas.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Mundo",TLNovelas OP2    
 http://190.102.120.20:8000/play/a036/index.m3u8?hls
 
 
@@ -259,7 +259,7 @@ http://181.119.185.32:8000/play/a01r/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="Mundo",Telemundo OP4
 http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="Mundo",Telemundo+
+#EXTINF:-1 tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="Mundo",Telemundo OP5
 http://190.60.45.197:2222/play/a028/index.m3u8?hls
 
 
@@ -280,7 +280,7 @@ http://181.119.185.32:8000/play/a00l/index.m3u8?hls
 http://181.119.185.32:8000/play/a019/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png" group-title="Comedia",Distrito Comedia SRT 
+#EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png" group-title="Comedia",Distrito Comedia OP2 
 http://190.102.120.20:8000/play/a03c/index.m3u8?hls
 
 
@@ -296,45 +296,46 @@ http://181.224.255.210:8001/play/a0qh/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.History.2.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="Documentales",History 2 OP3
 http://38.226.49.253:8000/play/a03m/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History Channel
-http://38.226.49.253:8000/play/a0ge/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History Channel OP2
-http://181.119.185.32:8000/play/a011/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History Channel OP3
-http://38.226.49.253:8000/play/a0gc/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History Channel OP4
-http://181.224.255.210:8001/play/a0m1/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History Channel+
-http://190.60.45.197:2222/play/a0ge/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History UDP
-http://190.102.120.20:8000/play/a05b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.History.2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="Documentales",History 2 UDP 
+#EXTINF:-1 tvg-id="Canal.History.2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="Documentales",History 2 OP4
 http://190.102.120.20:8000/play/a05p/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History
+http://38.226.49.253:8000/play/a0ge/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel SRT
+#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History OP2
+http://181.119.185.32:8000/play/a011/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History OP3
+http://38.226.49.253:8000/play/a0gc/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History OP4
+http://181.224.255.210:8001/play/a0m1/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History OP5
+http://190.60.45.197:2222/play/a0ge/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.History.Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="Documentales",History 
+http://190.102.120.20:8000/play/a05b/index.m3u8?hls
+
+
+
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel
 http://190.102.120.20:8000/play/a02v/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel 
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP2
 http://181.119.185.32:8000/play/a01t/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP2
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP3
 http://190.102.120.20:8000/play/a00j/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP3
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP4
 http://38.226.49.253:8000/play/a05s/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP4
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP5
 http://181.224.255.210:8001/play/a0m0/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel+
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel OP6
 http://190.60.45.197:2222/play/a0gc/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="Documentales",Discovery Science
@@ -379,10 +380,10 @@ http://181.119.185.32:8000/play/a01o/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="Documentales",Discovery Turbo OP4
 http://181.224.255.210:8001/play/a0q2/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="Documentales",Discovery Turbo SRT
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="Documentales",Discovery Turbo OP5
 http://190.102.120.20:8000/play/a031/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="Documentales",Discovery Turbo+
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="Documentales",Discovery Turbo OP6
 http://190.60.45.197:2222/play/a044/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" group-title="Documentales",Discovery World
@@ -452,7 +453,7 @@ http://181.224.255.210:8001/play/a0py/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network OP5
 http://38.226.49.253:8000/play/a06n/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network+
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network-mediano.png" group-title="Infantil",Cartoon Network OP6
 http://190.60.45.197:2222/play/a02i/index.m3u8?hls
 
 
@@ -475,10 +476,10 @@ http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="Infantil",Discovery Kids OP6
 http://38.226.49.253:8000/play/a069/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="Infantil",Discovery Kids SRT
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="Infantil",Discovery Kids OP7
 http://190.102.120.20:8000/play/a02w/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="Infantil",Discovery Kids+
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="Infantil",Discovery Kids OP8
 http://190.60.45.197:2222/play/a02z/index.m3u8?hls
 
 
@@ -490,10 +491,10 @@ http://181.119.185.32:8000/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon OP2
 http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon+
+#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon OP3
 http://190.60.45.197:2222/play/a029/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon OP3
+#EXTINF:-1 tvg-id="Canal.Nickelodeon.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="Infantil" tvg-shape="landscape",Nickelodeon OP4
 http://190.102.120.20:8000/play/a00w/index.m3u8?hls
 
 
@@ -511,7 +512,7 @@ http://190.102.120.20:8000/play/a00t/index.m3u8?hls
 http://38.226.49.253:8000/play/a07k/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Infantil",Disney Channel+
+#EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Infantil",Disney Channel OP5
 http://190.60.45.197:2222/play/a01l/index.m3u8?hls
 
 
@@ -533,16 +534,16 @@ http://181.119.185.32:8000/play/a01i/index.m3u8?hls
 http://190.102.120.20:8000/play/a00g/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr OP2
 http://181.119.185.32:8000/play/a00b/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr OP3
 http://181.224.255.210:8001/play/a0mm/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr OP4
 http://38.226.49.253:8000/play/a03l/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="Infantil",Nick Jr OP5
 http://190.60.45.197:2222/play/a043/index.m3u8?hls
 
 
@@ -727,7 +728,7 @@ http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
 http://38.226.49.253:8000/play/a07n/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.Studio.Universal.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Cine" tvg-shape="landscape",Studio Universal+
+#EXTINF:-1 tvg-id="Canal.Studio.Universal.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" group-title="Cine" tvg-shape="landscape",Studio Universal OP5
 http://190.60.45.197:2222/play/a037/index.m3u8?hls
 
 
