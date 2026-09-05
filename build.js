@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 const path = require('path');
 const Jimp = require('jimp');
@@ -111,7 +112,7 @@ function averageLuminance(img) {
   let count = 0;
   img.scan(0, 0, img.bitmap.width, img.bitmap.height, function (x, y, idx) {
     const alpha = this.bitmap.data[idx + 3];
-    if (alpha < 40) return;
+    if (alpha < 40) return; 
     const r = this.bitmap.data[idx];
     const g = this.bitmap.data[idx + 1];
     const b = this.bitmap.data[idx + 2];
@@ -159,7 +160,7 @@ async function buildChannelImage(ch, id) {
   try {
     logoImg.autocrop({ tolerance: 0.02, cropSymmetric: false, leaveBorder: 0 });
   } catch (e) {
-   
+    
   }
 
   const canvas = new Jimp(CANVAS_W, CANVAS_H, bg);
@@ -185,7 +186,19 @@ async function main() {
   const content = fs.readFileSync(m3uPath, 'utf8');
   const channels = parseM3U(content);
 
-  console.log(`Canales encontrados: ${channels.length}`);
+  console.log(`Líneas de canal encontradas: ${channels.length}`);
+
+  
+  const gruposPorClave = new Map(); 
+  for (const ch of channels) {
+    const clave = ch.tvgId
+      ? `tvgid:${ch.tvgId}`
+      : `nombre:${slugify(ch.name.replace(/\s*OP\d+$/i, ''))}`;
+    if (!gruposPorClave.has(clave)) gruposPorClave.set(clave, []);
+    gruposPorClave.get(clave).push(ch);
+  }
+  const grupos = [...gruposPorClave.values()];
+  console.log(`Canales únicos tras agrupar variantes (OP2/OP3/...): ${grupos.length}`);
 
   
   fs.rmSync(path.join(OUT_DIR, 'meta'), { recursive: true, force: true });
@@ -211,9 +224,12 @@ async function main() {
   const metas = [];
   const VALID_SHAPES = ['landscape', 'poster', 'square'];
 
-  for (const ch of channels) {
-    const shape = VALID_SHAPES.includes(ch.shape) ? ch.shape : 'landscape';
-    let baseId = slugify(ch.tvgId || ch.name);
+  for (const opciones of grupos) {
+    
+    const base = opciones.find(o => !/\s*OP\d+$/i.test(o.name)) || opciones[0];
+
+    const shape = VALID_SHAPES.includes(base.shape) ? base.shape : 'landscape';
+    let baseId = slugify(base.tvgId || base.name);
     let id = `addonlatam-canal-${baseId}`;
     let n = 2;
     while (usedIds.has(id)) {
@@ -221,20 +237,20 @@ async function main() {
     }
     usedIds.add(id);
 
-    console.log(`- Procesando logo: ${ch.name}`);
-    const relLogoPath = await buildChannelImage(ch, id);
-    const finalLogo = (relLogoPath && RAW_BASE) ? `${RAW_BASE}/${relLogoPath}?v=${CACHE_BUST}` : ch.logo;
+    console.log(`- Procesando logo: ${base.name}${opciones.length > 1 ? ` (${opciones.length} opciones)` : ''}`);
+    const relLogoPath = await buildChannelImage(base, id);
+    const finalLogo = (relLogoPath && RAW_BASE) ? `${RAW_BASE}/${relLogoPath}?v=${CACHE_BUST}` : base.logo;
 
     const meta = {
       id,
       type: 'tv',
-      name: ch.name,
+      name: base.name,
       poster: finalLogo,
       logo: finalLogo,
       background: finalLogo,
       posterShape: shape,
-      genres: ch.group ? [ch.group] : undefined,
-      description: `Canal en vivo — ${ch.name}${ch.country ? ' (' + ch.country + ')' : ''}. Vía Addon Latam.`
+      genres: base.group ? [base.group] : undefined,
+      description: `Canal en vivo — ${base.name}${base.country ? ' (' + base.country + ')' : ''}. Vía Addon Latam.`
     };
 
     metas.push(meta);
@@ -244,9 +260,10 @@ async function main() {
       JSON.stringify({ meta }, null, 2)
     );
 
+    
     fs.writeFileSync(
       path.join(OUT_DIR, 'stream', 'tv', `${id}.json`),
-      JSON.stringify({ streams: [{ title: ch.name, url: ch.url }] }, null, 2)
+      JSON.stringify({ streams: opciones.map(o => ({ title: o.name, url: o.url })) }, null, 2)
     );
   }
 
@@ -289,8 +306,7 @@ async function main() {
     JSON.stringify(manifest, null, 2)
   );
 
-  console.log(`Listo. ${channels.length} canales generados en la raíz del repo.`);
-  console.log(`IDs duplicados evitados automáticamente cuando dos canales compartían tvg-id/nombre.`);
+  console.log(`Listo. ${grupos.length} canales generados en la raíz del repo (a partir de ${channels.length} líneas del M3U).`);
 }
 
 main().catch(err => {
