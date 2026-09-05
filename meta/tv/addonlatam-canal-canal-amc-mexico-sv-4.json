@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-amc-mexico-sv-4",
+    "type": "tv",
+    "name": "AMC OP4",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-mexico-sv-4.png?v=34fe6265",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-mexico-sv-4.png?v=34fe6265",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-mexico-sv-4.png?v=34fe6265",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — AMC OP4. Vía Addon Latam."
+  }
+}

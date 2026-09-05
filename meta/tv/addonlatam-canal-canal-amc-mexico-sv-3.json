@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-amc-mexico-sv-3",
+    "type": "tv",
+    "name": "AMC OP3",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-mexico-sv-3.png?v=34fe6265",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-mexico-sv-3.png?v=34fe6265",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-mexico-sv-3.png?v=34fe6265",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine"
+    ],
+    "description": "Canal en vivo — AMC OP3. Vía Addon Latam."
+  }
+}

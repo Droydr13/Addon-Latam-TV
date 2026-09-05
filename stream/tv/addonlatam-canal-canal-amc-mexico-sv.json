@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "AMC",
+      "url": "http://38.226.49.253:8000/play/a05n/index.m3u8?hls"
+    }
+  ]
+}

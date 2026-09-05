@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-cnn-en-espanol-sv-5",
+    "type": "tv",
+    "name": "CNN Español OP5",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cnn-en-espanol-sv-5.png?v=34fe6265",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cnn-en-espanol-sv-5.png?v=34fe6265",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cnn-en-espanol-sv-5.png?v=34fe6265",
+    "posterShape": "landscape",
+    "genres": [
+      "Noticias"
+    ],
+    "description": "Canal en vivo — CNN Español OP5. Vía Addon Latam."
+  }
+}

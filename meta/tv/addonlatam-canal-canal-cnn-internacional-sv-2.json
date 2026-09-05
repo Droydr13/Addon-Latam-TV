@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-cnn-internacional-sv-2",
+    "type": "tv",
+    "name": "CNN Internacional OP2",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cnn-internacional-sv-2.png?v=34fe6265",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cnn-internacional-sv-2.png?v=34fe6265",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-cnn-internacional-sv-2.png?v=34fe6265",
+    "posterShape": "landscape",
+    "genres": [
+      "Noticias"
+    ],
+    "description": "Canal en vivo — CNN Internacional OP2. Vía Addon Latam."
+  }
+}

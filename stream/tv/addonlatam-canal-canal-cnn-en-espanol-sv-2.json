@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "CNN Español OP2",
+      "url": "http://190.102.120.20:8000/play/a01c/index.m3u8?hls"
+    }
+  ]
+}
