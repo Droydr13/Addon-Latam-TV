@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-fox-sports-3-mexico-sv",
     "type": "tv",
     "name": "Fox Sports 3",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-3-mexico-sv.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-3-mexico-sv.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-3-mexico-sv.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-3-mexico-sv.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-fox-sports-3-mexico-sv.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Deportes"
     ],
-    "description": "Canal en vivo — Fox Sports 3. Vía Addon Latam."
+    "description": "Tercera señal de Fox Sports con eventos deportivos adicionales. Vía Addon Latam."
   }
 }

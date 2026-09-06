@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-amc-series",
     "type": "tv",
     "name": "AMC Series",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-series.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-series.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-series.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-series.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-amc-series.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Cine"
     ],
-    "description": "Canal en vivo — AMC Series. Vía Addon Latam."
+    "description": "Canal 24/7 con series originales de AMC. Vía Addon Latam."
   }
 }

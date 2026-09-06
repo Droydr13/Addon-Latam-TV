@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx",
     "type": "tv",
     "name": "Las Estrellas",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-2-de-mexico-canal-las-estrellas-xew-mx.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Mundo"
     ],
-    "description": "Canal en vivo — Las Estrellas. Vía Addon Latam."
+    "description": "Canal insignia de Televisa en México, con telenovelas, entretenimiento familiar y programas de variedades. Vía Addon Latam."
   }
 }

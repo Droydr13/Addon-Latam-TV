@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-aym-sports-mx",
     "type": "tv",
     "name": "AYM Sports",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-aym-sports-mx.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-aym-sports-mx.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-aym-sports-mx.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-aym-sports-mx.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-aym-sports-mx.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Deportes"
     ],
-    "description": "Canal en vivo — AYM Sports. Vía Addon Latam."
+    "description": "Canal deportivo con eventos y análisis de distintas disciplinas. Vía Addon Latam."
   }
 }

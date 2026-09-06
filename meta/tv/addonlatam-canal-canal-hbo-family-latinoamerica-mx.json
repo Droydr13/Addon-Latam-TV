@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-hbo-family-latinoamerica-mx",
     "type": "tv",
     "name": "HBO Family",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-hbo-family-latinoamerica-mx.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Cine"
     ],
-    "description": "Canal en vivo — HBO Family. Vía Addon Latam."
+    "description": "Señal de HBO con contenido apto para toda la familia. Vía Addon Latam."
   }
 }

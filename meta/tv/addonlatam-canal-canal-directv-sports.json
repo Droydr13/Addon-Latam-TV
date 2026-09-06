@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-directv-sports",
     "type": "tv",
     "name": "DIRECTV SPORTS",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Deportes"
     ],
-    "description": "Canal en vivo — DIRECTV SPORTS. Vía Addon Latam."
+    "description": "Canal deportivo con cobertura de fútbol sudamericano y otros deportes. Vía Addon Latam."
   }
 }

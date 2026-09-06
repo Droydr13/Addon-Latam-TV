@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-distrito-comedia-mx",
     "type": "tv",
     "name": "Distrito Comedia",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-distrito-comedia-mx.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-distrito-comedia-mx.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-distrito-comedia-mx.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-distrito-comedia-mx.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-distrito-comedia-mx.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Comedia"
     ],
-    "description": "Canal en vivo — Distrito Comedia. Vía Addon Latam."
+    "description": "Canal de comedia con series y contenido humorístico en español. Vía Addon Latam."
   }
 }

@@ -3,13 +3,13 @@
     "id": "addonlatam-canal-canal-imagen-television-mx",
     "type": "tv",
     "name": "Imagen TV",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=3f29ea61",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=3f29ea61",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=3f29ea61",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=8144e172",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-imagen-television-mx.png?v=8144e172",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8144e172",
     "posterShape": "landscape",
     "genres": [
       "Noticias"
     ],
-    "description": "Canal en vivo — Imagen TV. Vía Addon Latam."
+    "description": "Cadena mexicana de noticias, análisis y entretenimiento, con cobertura las 24 horas. Vía Addon Latam."
   }
 }
