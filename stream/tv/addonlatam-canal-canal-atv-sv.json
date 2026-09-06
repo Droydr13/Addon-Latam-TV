@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "ATV",
+      "url": "http://181.224.255.210:8001/play/a0s6/index.m3u8?hls"
+    },
+    {
+      "title": "ATV OP2",
+      "url": "http://38.226.49.253:8000/play/a04e/index.m3u8?hls"
+    },
+    {
+      "title": "ATV OP3",
+      "url": "http://181.224.255.210:8001/play/a0r7/index.m3u8?hls"
+    }
+  ]
+}
