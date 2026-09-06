@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 const path = require('path');
 const Jimp = require('jimp');
@@ -180,7 +179,94 @@ async function buildChannelImage(ch, id) {
   return `logos/${id}.png`;
 }
 
+
+async function buildFondoMosaico(rutasLogos) {
+  if (rutasLogos.length === 0) return null;
+
+  const CANVAS_W = 1920, CANVAS_H = 1080;
+  const COLS = 6, ROWS = 6; 
+  const GAP = 6;
+
+  const barajadas = [...rutasLogos];
+  for (let i = barajadas.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [barajadas[i], barajadas[j]] = [barajadas[j], barajadas[i]];
+  }
+
+  const celdaW = Math.floor((CANVAS_W - GAP * (COLS + 1)) / COLS);
+  const celdaH = Math.floor((CANVAS_H - GAP * (ROWS + 1)) / ROWS);
+  const canvas = new Jimp(CANVAS_W, CANVAS_H, 0x0a0a0aFF);
+
+  let idx = 0;
+  for (let r = 0; r < ROWS; r++) {
+    for (let c = 0; c < COLS; c++) {
+      const archivo = barajadas[idx % barajadas.length];
+      idx++;
+      try {
+        const tile = await Jimp.read(archivo);
+        
+        tile.contain(celdaW, celdaH);
+        const x = GAP + c * (celdaW + GAP);
+        const y = GAP + r * (celdaH + GAP);
+        canvas.composite(tile, x, y);
+      } catch (e) {
+        
+      }
+    }
+  }
+
+  canvas.brightness(-0.25);
+  canvas.contrast(0.1);
+
+  
+  const vineta = new Jimp(CANVAS_W, CANVAS_H, 0x00000000);
+  const grosor = 220;
+  vineta.scan(0, 0, CANVAS_W, CANVAS_H, function (x, y, i2) {
+    const distBorde = Math.min(x, y, CANVAS_W - x, CANVAS_H - y);
+    if (distBorde < grosor) {
+      const t = 1 - (distBorde / grosor);
+      this.bitmap.data[i2 + 0] = 229;
+      this.bitmap.data[i2 + 1] = 9;
+      this.bitmap.data[i2 + 2] = 20;
+      this.bitmap.data[i2 + 3] = Math.round(180 * Math.pow(t, 1.6));
+    }
+  });
+  canvas.composite(vineta, 0, 0);
+
+  
+  const degrade = new Jimp(CANVAS_W, CANVAS_H, 0x00000000);
+  degrade.scan(0, 0, CANVAS_W, CANVAS_H, function (x, y, i2) {
+    const t = y / CANVAS_H;
+    if (t > 0.35) {
+      const alpha = Math.round(255 * ((t - 0.35) / 0.65) * 0.85);
+      this.bitmap.data[i2 + 0] = 0;
+      this.bitmap.data[i2 + 1] = 0;
+      this.bitmap.data[i2 + 2] = 0;
+      this.bitmap.data[i2 + 3] = alpha;
+    }
+  });
+  canvas.composite(degrade, 0, 0);
+
+  const outPath = path.join(OUT_DIR, 'fondo', 'fondo-canales.png');
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
+  await canvas.writeAsync(outPath);
+  return 'fondo/fondo-canales.png';
+}
+
+
+function cargarDescripciones() {
+  const rutaPosible = path.join(OUT_DIR, 'descripciones-canales.json');
+  if (!fs.existsSync(rutaPosible)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(rutaPosible, 'utf8'));
+  } catch (e) {
+    console.warn('descripciones-canales.json existe pero no se pudo leer (JSON invalido) -- se usa la descripcion generica para todos. Detalle:', e.message);
+    return {};
+  }
+}
+
 async function main() {
+
   const m3uPath = findM3UFile(__dirname);
   console.log(`Lista encontrada en: ${path.relative(__dirname, m3uPath)}`);
   const content = fs.readFileSync(m3uPath, 'utf8');
@@ -223,6 +309,8 @@ async function main() {
   const usedIds = new Set();
   const metas = [];
   const VALID_SHAPES = ['landscape', 'poster', 'square'];
+  const descripciones = cargarDescripciones();
+  const logosGeneradosParaFondo = [];
 
   for (const opciones of grupos) {
     
@@ -240,6 +328,12 @@ async function main() {
     console.log(`- Procesando logo: ${base.name}${opciones.length > 1 ? ` (${opciones.length} opciones)` : ''}`);
     const relLogoPath = await buildChannelImage(base, id);
     const finalLogo = (relLogoPath && RAW_BASE) ? `${RAW_BASE}/${relLogoPath}?v=${CACHE_BUST}` : base.logo;
+    if (relLogoPath) logosGeneradosParaFondo.push(path.join(OUT_DIR, relLogoPath));
+
+    const descripcionManual = descripciones[id];
+    const descripcionFinal = descripcionManual
+      ? `${descripcionManual} Vía Addon Latam.`
+      : `Canal en vivo — ${base.name}${base.country ? ' (' + base.country + ')' : ''}. Vía Addon Latam.`;
 
     const meta = {
       id,
@@ -250,7 +344,7 @@ async function main() {
       background: finalLogo,
       posterShape: shape,
       genres: base.group ? [base.group] : undefined,
-      description: `Canal en vivo — ${base.name}${base.country ? ' (' + base.country + ')' : ''}. Vía Addon Latam.`
+      description: descripcionFinal
     };
 
     metas.push(meta);
@@ -260,7 +354,7 @@ async function main() {
       JSON.stringify({ meta }, null, 2)
     );
 
-    
+   
     fs.writeFileSync(
       path.join(OUT_DIR, 'stream', 'tv', `${id}.json`),
       JSON.stringify({ streams: opciones.map(o => ({ title: o.name, url: o.url })) }, null, 2)
@@ -280,6 +374,23 @@ async function main() {
       }))
     }, null, 2)
   );
+
+  
+  console.log('Armando el mosaico de fondo compartido...');
+  const relFondo = await buildFondoMosaico(logosGeneradosParaFondo);
+  if (relFondo && RAW_BASE) {
+    const fondoUrl = `${RAW_BASE}/${relFondo}?v=${CACHE_BUST}`;
+    for (const m of metas) {
+      m.background = fondoUrl;
+      fs.writeFileSync(
+        path.join(OUT_DIR, 'meta', 'tv', `${m.id}.json`),
+        JSON.stringify({ meta: m }, null, 2)
+      );
+    }
+    console.log(`Fondo aplicado a los ${metas.length} canales: ${relFondo}`);
+  } else if (relFondo) {
+    console.warn('Fondo generado en fondo/fondo-canales.png, pero corriendo local sin GITHUB_REPOSITORY no se pudo armar su URL -- cada canal se queda con su propio logo como fondo hasta que esto corra en GitHub Actions.');
+  }
 
   const manifest = {
     id: 'community.addonlatam.canales',
