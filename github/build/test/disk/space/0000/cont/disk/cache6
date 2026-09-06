@@ -17,7 +17,7 @@ http://181.224.255.210:8001/play/a0se/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas OP3
 http://38.226.49.253:8000/play/a07r/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas SRT   
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas OP4   
 http://190.102.120.20:8000/play/a035/index.m3u8?hls
 
 
@@ -95,6 +95,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png" tvg-id="Canal.María.Visión.mx" tvg-name="Canal María Visión" tvg-country="MX" group-title="Religion",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Canal.Cine.Sony.mx" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine",Cine Sony
@@ -216,6 +217,17 @@ http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
 
 
 
+#EXTINF:-1 tvg-id="Canal.ATV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="General",ATV
+http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.ATV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="General",ATV OP2
+http://38.226.49.253:8000/play/a04e/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.ATV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="General",ATV OP3
+http://181.224.255.210:8001/play/a0r7/index.m3u8?hls
+
+
 #EXTINF:-1 tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png" group-title="Mundo" tvg-shape="landscape",Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 
@@ -261,6 +273,21 @@ http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="Mundo",Telemundo OP5
 http://190.60.45.197:2222/play/a028/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Mundo",E! Entertainment
+http://181.224.255.210:8001/play/a0q3/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Mundo",E! Entertainment OP2
+http://38.226.49.253:8000/play/a03p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Mundo",E! Entertainment OP3
+http://190.102.120.20:8000/play/a00u/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Mundo",E! Entertainment OP4
+http://190.60.45.197:2222/play/a01x/index.m3u8?hls
+
+
 
 
 #EXTINF:-1 tvg-id="Canal.Unicable.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/unicable-mediano.png" group-title="Mundo",Unicable
@@ -1013,6 +1040,11 @@ http://38.226.49.253:8000/play/a06f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.TNT.Sports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",TNT Sports
 http://181.119.185.32:8000/play/a00t/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.Directv.Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORTS 
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+
 
 
 # --- MÚSICA ---
