@@ -3,12 +3,12 @@
     "id": "addonlatam-canal-canal-e-entertainment-television-sv",
     "type": "tv",
     "name": "E! Entertainment",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-e-entertainment-television-sv.png?v=48800df6",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-e-entertainment-television-sv.png?v=48800df6",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=48800df6",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-e-entertainment-television-sv.png?v=049a9c98",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-e-entertainment-television-sv.png?v=049a9c98",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=049a9c98",
     "posterShape": "landscape",
     "genres": [
-      "Mundo"
+      "Entretenimiento"
     ],
     "description": "Canal de espectáculos, celebridades y entretenimiento de Hollywood. Vía Addon Latam."
   }

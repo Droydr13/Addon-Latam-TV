@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-ctni-sv",
+    "type": "tv",
+    "name": "CTNi",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ctni-sv.png?v=049a9c98",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ctni-sv.png?v=049a9c98",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=049a9c98",
+    "posterShape": "landscape",
+    "genres": [
+      "Noticias"
+    ],
+    "description": "Canal en vivo — CTNi. Vía Addon Latam."
+  }
+}

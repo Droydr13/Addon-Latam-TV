@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-el-pinguino-tv-sv",
+    "type": "tv",
+    "name": "El Pingüino TV",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-el-pinguino-tv-sv.png?v=049a9c98",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-el-pinguino-tv-sv.png?v=049a9c98",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=049a9c98",
+    "posterShape": "landscape",
+    "genres": [
+      "Entretenimiento"
+    ],
+    "description": "Canal en vivo — El Pingüino TV. Vía Addon Latam."
+  }
+}
