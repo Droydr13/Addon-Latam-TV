@@ -58,6 +58,10 @@ http://181.224.255.210:8001/play/a0px/index.m3u8?hls
 http://38.226.49.253:8000/play/a04z/index.m3u8?hls
 
 
+#EXTINF:-1 tvg-id="Canal.CTNi.sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Ctni-color_orig.png/revision/latest?cb=20200113034054" group-title="Noticias",CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo",Azteca 7
 http://201.174.175.3:8000/play/a0kl/index.m3u8?hls
@@ -275,8 +279,11 @@ http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
 http://190.60.45.197:2222/play/a028/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Mundo",E! Entertainment
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Entretenimiento",E! Entertainment
 http://181.224.255.210:8001/play/a0q3/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.El.Pingüino.TV.sv" tvg-logo="https://www.elpinguino.com/_templates/globals/img/placeholder.png" group-title="Entretenimiento",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Mundo",E! Entertainment OP2
 http://38.226.49.253:8000/play/a03p/index.m3u8?hls
@@ -1095,6 +1102,9 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="m2oTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/250px-Radio_m2o_-_Logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Musica",m2o TV
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Retro.TV.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Retro_TV_logo.svg/960px-Retro_TV_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250622223905" group-title="Musica",Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
 # --- VARIOS Y OTROS ---
