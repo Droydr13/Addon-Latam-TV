@@ -22,6 +22,10 @@ http://38.226.49.253:8000/play/a07r/index.m3u8?hls
 http://190.102.120.20:8000/play/a035/index.m3u8?hls
 
 
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas OP5
+http://190.60.45.197:2222/play/a026/index.m3u8?hls
+
+
 #EXTINF:-1 tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Noticias",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -62,8 +66,7 @@ http://181.224.255.210:8001/play/a0px/index.m3u8?hls
 http://38.226.49.253:8000/play/a04z/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Canal.CTNi.sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Ctni-color_orig.png/revision/latest?cb=20200113034054" group-title="Noticias",CTNi
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal.ZN.Noticias.sv" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png" group-title="Noticias",ZN Noticias Argentina
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
@@ -212,7 +215,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8?Pl
 #EXTINF:-1 tvg-id="Canal.Plenitud.Juvenil.sv" tvg-logo="https://cdn.m3u.cl/logo/1766_Plenitud_Juvenil.png" group-title="Religion",Plenitud Juvenil Chile
 https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal.Plenitud.TV.2.sv" tvg-logo="https://cdn.m3u.cl/logo/1789_Plenitud_TV_2.png" group-title="Religion",Plenitud TV 2 Chile
+#EXTINF:-1 tvg-id="Canal.Plenitud.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1789_Plenitud_TV_2.png" group-title="Religion",Plenitud TV Chile 2
 https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal.Bethel.TV.sv" group-title="Religion",Bethel TV
@@ -235,28 +238,6 @@ http://190.102.120.20:8000/play/a010/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Enlace.Juvenil.sv" group-title="Religion",Enlace Juvenil
 http://190.102.120.20:8000/play/a02c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.ESNE.sv" group-title="Religion",ESNE
-http://181.119.185.32:8000/play/a008/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.ESNE.sv" group-title="Religion",ESNE OP2
-http://190.60.45.197:2222/play/a0ih/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.EWTN.sv" group-title="Religion",EWTN
-http://181.224.255.210:8001/play/a0ow/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.EWTN.sv" group-title="Religion",EWTN OP2
-http://190.102.120.20:8000/play/a02a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Radio.Bethel.sv" group-title="Religion",Radio Bethel
-http://38.226.49.253:8000/play/a0cs/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TBN.Enlace.sv" group-title="Religion",TBN Enlace
-http://201.174.175.3:8000/play/a0r8/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Tele.Amiga.sv" group-title="Religion",Tele Amiga
-http://190.102.120.20:8000/play/a02k/index.m3u8?hls
-
 
 
 #EXTINF:-1 tvg-id="Canal.Cine.Sony.mx" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine",Cine Sony
@@ -673,7 +654,7 @@ https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.Latina.sv" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="General",Latina Perú
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal.Latina.Clasicos.sv" tvg-logo="https://cdn.m3u.cl/logo/1741_Latina_Clasicos.png" group-title="General",Latina Clasicos Perú
+#EXTINF:-1 tvg-id="Canal.Latina.sv" tvg-logo="https://cdn.m3u.cl/logo/1741_Latina_Clasicos.png" group-title="General",Latina Perú OP2
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal.Mega.TV.Jaen.sv" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png" group-title="General",Mega TV Jaen Perú
@@ -1384,9 +1365,6 @@ http://190.102.120.20:8000/play/a024/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Caracol.sv" group-title="General",Canal Caracol OP2
 http://190.60.45.197:2222/play/a03e/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Estrellas.sv" group-title="General",Canal Estrellas
-http://190.60.45.197:2222/play/a026/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="Canal.Tro.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tro-mediano.png" group-title="General",Canal TRO
 http://190.102.120.20:8000/play/a021/index.m3u8?hls
 
@@ -1600,8 +1578,7 @@ http://38.226.49.253:8000/play/a06c/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Univision.sv" group-title="General",Univision
 http://190.102.120.20:8000/play/a03a/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Unknown.sv" group-title="General",Unknown
-http://38.226.49.253:8000/play/a0cr/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.USA.sv" group-title="General",USA
 http://38.226.49.253:8000/play/a044/index.m3u8?hls
@@ -1634,6 +1611,15 @@ http://190.102.120.20:8000/play/a01o/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png" group-title="Mundo" tvg-shape="landscape",Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 
+
+#EXTINF:-1 tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png" group-title="Mundo" tvg-shape="landscape",Azteca Corazon OP2
+http://190.102.120.20:8000/play/a05s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png" group-title="Mundo" tvg-shape="landscape",Azteca Corazon OP3
+http://190.102.120.20:8000/play/a02r/index.m3u8?hls
+
+
+
 #EXTINF:-1 tvg-id="Canal.TNT.Novelas.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="Mundo",TNT Novelas
 http://190.102.120.20:8000/play/a00n/index.m3u8?hls
 
@@ -1659,6 +1645,10 @@ http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.TLNovelas.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Mundo",TLNovelas OP2    
 http://190.102.120.20:8000/play/a036/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-id="Canal.TLNovelas.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Mundo",TLNovelas OP3
+http://38.226.49.253:8000/play/a03x/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="Mundo",Telemundo
@@ -1717,11 +1707,7 @@ http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.AXN.sv" group-title="Entretenimiento",AXN OP5
 http://38.226.49.253:8000/play/a062/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AZ.Corazon.sv" group-title="Entretenimiento",AZ Corazon
-http://190.102.120.20:8000/play/a05s/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AZ.Corazon.sv" group-title="Entretenimiento",AZ Corazon OP2
-http://190.102.120.20:8000/play/a02r/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Bitmen.sv" group-title="Entretenimiento",Bitmen
 http://190.102.120.20:8000/play/a03b/index.m3u8?hls
@@ -1774,8 +1760,7 @@ http://190.102.120.20:8000/play/a02j/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.RCN.Novelas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_novelas-mediano.png" group-title="Entretenimiento",RCN Novelas OP2
 http://190.60.45.197:2222/play/a02p/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Sextreme.sv" group-title="Entretenimiento",Sextreme
-http://38.226.49.253:8000/play/a0gg/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.Sun.Channel.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Entretenimiento",Sun Channel
 http://181.224.255.210:8001/play/a0nx/index.m3u8?hls
@@ -1783,8 +1768,7 @@ http://181.224.255.210:8001/play/a0nx/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Sun.Channel.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Entretenimiento",Sun Channel OP2
 http://38.226.49.253:8000/play/a06p/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Telenovelas.sv" group-title="Entretenimiento",Telenovelas
-http://38.226.49.253:8000/play/a03x/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.Venus.sv" group-title="Entretenimiento",Venus
 http://181.119.185.32:8000/play/a01h/index.m3u8?hls
