@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-id-investigation-discovery-sv",
+    "type": "tv",
+    "name": "ID (Investigation Discovery)",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-id-investigation-discovery-sv.png?v=0b6f29af",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-id-investigation-discovery-sv.png?v=0b6f29af",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=0b6f29af",
+    "posterShape": "landscape",
+    "genres": [
+      "Documentales"
+    ],
+    "description": "Canal en vivo — ID (Investigation Discovery). Vía Addon Latam."
+  }
+}

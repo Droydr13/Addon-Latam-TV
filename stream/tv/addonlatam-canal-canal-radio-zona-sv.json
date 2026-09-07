@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Radio Zona Chile",
+      "url": "https://tv.telselec.cl:3780/live/jesuslive.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

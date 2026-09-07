@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Willax",
+      "url": "http://38.226.49.253:8000/play/a0gj/index.m3u8?hls"
+    },
+    {
+      "title": "Willax OP2",
+      "url": "http://181.224.255.210:8001/play/a0sp/index.m3u8?hls"
+    },
+    {
+      "title": "Willax OP3",
+      "url": "http://181.224.255.210:8001/play/a0s7/index.m3u8?hls"
+    }
+  ]
+}

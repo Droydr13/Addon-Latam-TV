@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Musica Romantica",
+      "url": "http://190.102.120.20:8000/play/a04x/index.m3u8?hls"
+    }
+  ]
+}

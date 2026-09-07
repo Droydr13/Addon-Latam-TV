@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-alegria-cristiana-sv",
+    "type": "tv",
+    "name": "Alegria Cristiana Chile",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-alegria-cristiana-sv.png?v=0b6f29af",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-alegria-cristiana-sv.png?v=0b6f29af",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=0b6f29af",
+    "posterShape": "landscape",
+    "genres": [
+      "Religion"
+    ],
+    "description": "Canal en vivo — Alegria Cristiana Chile. Vía Addon Latam."
+  }
+}

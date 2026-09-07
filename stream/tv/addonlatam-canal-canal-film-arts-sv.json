@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Film&Arts",
+      "url": "http://38.226.49.253:8000/play/a03v/index.m3u8?hls"
+    },
+    {
+      "title": "Film&Arts OP2",
+      "url": "http://181.224.255.210:8001/play/a0ql/index.m3u8?hls"
+    },
+    {
+      "title": "Film&Arts OP3",
+      "url": "http://181.119.185.32:8000/play/a01a/index.m3u8?hls"
+    }
+  ]
+}

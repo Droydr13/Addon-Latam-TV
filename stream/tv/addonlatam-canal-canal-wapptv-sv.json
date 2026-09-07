@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "WappTV Chile",
+      "url": "https://stream.wapptv.cl/video/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Music Top Argentina",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

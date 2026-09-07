@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "HD Radio Chile",
+      "url": "https://streaming.bitsur.cl:3029/live/hdradiolive.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

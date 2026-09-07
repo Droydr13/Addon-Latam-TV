@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Sabor TV Chile",
+      "url": "https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

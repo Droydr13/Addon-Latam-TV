@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Canal 2 Misiones Argentina",
+      "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Conecta TV México",
+      "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

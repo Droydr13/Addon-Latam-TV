@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "PANC TV Argentina",
+      "url": "https://panctv.ddns.net/hls/ar/live.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

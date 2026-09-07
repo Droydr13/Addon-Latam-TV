@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Ingenio FM Argentina",
+      "url": "https://videostream.shockmedia.com.ar:19360/ingeniofm/ingeniofm.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

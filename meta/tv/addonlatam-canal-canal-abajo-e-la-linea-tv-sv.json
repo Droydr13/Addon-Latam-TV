@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-abajo-e-la-linea-tv-sv",
+    "type": "tv",
+    "name": "Abajo e la linea TV Chile",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-abajo-e-la-linea-tv-sv.png?v=0b6f29af",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-abajo-e-la-linea-tv-sv.png?v=0b6f29af",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=0b6f29af",
+    "posterShape": "landscape",
+    "genres": [
+      "General"
+    ],
+    "description": "Canal en vivo — Abajo e la linea TV Chile. Vía Addon Latam."
+  }
+}

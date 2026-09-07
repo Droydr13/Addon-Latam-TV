@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-pucon-tv-sv",
+    "type": "tv",
+    "name": "Pucon TV Chile",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-pucon-tv-sv.png?v=0b6f29af",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-pucon-tv-sv.png?v=0b6f29af",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=0b6f29af",
+    "posterShape": "landscape",
+    "genres": [
+      "General"
+    ],
+    "description": "Canal en vivo — Pucon TV Chile. Vía Addon Latam."
+  }
+}

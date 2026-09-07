@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "24 Horas",
+      "url": "http://38.226.49.253:8000/play/a0dv/index.m3u8?hls"
+    },
+    {
+      "title": "Canal 24 Horas",
+      "url": "http://38.226.49.253:8000/play/a07j/index.m3u8?hls"
+    }
+  ]
+}

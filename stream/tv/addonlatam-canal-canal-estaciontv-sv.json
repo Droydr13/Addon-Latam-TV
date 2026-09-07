@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "EstaciónTV Chile",
+      "url": "https://tv.arkeo.cl:1936/estaciontv/estaciontv/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

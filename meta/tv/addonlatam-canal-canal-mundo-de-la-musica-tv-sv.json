@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-mundo-de-la-musica-tv-sv",
+    "type": "tv",
+    "name": "Mundo de la Musica TV Chile",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-mundo-de-la-musica-tv-sv.png?v=0b6f29af",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-mundo-de-la-musica-tv-sv.png?v=0b6f29af",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=0b6f29af",
+    "posterShape": "landscape",
+    "genres": [
+      "Musica"
+    ],
+    "description": "Canal en vivo — Mundo de la Musica TV Chile. Vía Addon Latam."
+  }
+}

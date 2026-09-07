@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Ecotel TV Ecuador",
+      "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

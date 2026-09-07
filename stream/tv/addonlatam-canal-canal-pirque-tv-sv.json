@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Pirque TV Chile",
+      "url": "https://eu1.servers10.com:8081/laureltv/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

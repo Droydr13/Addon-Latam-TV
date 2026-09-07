@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Canal 907 FM Comunicar Argentina",
+      "url": "https://panel.host-live.com:19360/canal907/canal907.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

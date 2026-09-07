@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Radio Ñuble Chile",
+      "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Telemax Argentina",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

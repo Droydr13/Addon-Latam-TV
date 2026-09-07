@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "TV Perú",
+      "url": "http://38.226.49.253:8000/play/a0gb/index.m3u8?hls"
+    },
+    {
+      "title": "TV Perú OP2",
+      "url": "http://181.224.255.210:8001/play/a0ss/index.m3u8?hls"
+    }
+  ]
+}

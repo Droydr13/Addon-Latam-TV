@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Telpin Canal 2 Argentina",
+      "url": "https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Trece",
+      "url": "http://190.102.120.20:8000/play/a026/index.m3u8?hls"
+    },
+    {
+      "title": "Trece OP2",
+      "url": "http://190.60.45.197:2222/play/a049/index.m3u8?hls"
+    }
+  ]
+}

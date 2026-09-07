@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "RCN Novelas",
+      "url": "http://190.102.120.20:8000/play/a02j/index.m3u8?hls"
+    },
+    {
+      "title": "RCN Novelas OP2",
+      "url": "http://190.60.45.197:2222/play/a02p/index.m3u8?hls"
+    }
+  ]
+}

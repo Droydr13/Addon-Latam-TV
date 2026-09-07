@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "El Radar Chile",
+      "url": "https://video.ipstream.cl:3459/hybrid/play.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

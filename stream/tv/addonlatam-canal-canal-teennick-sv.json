@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Teen Nick",
+      "url": "http://38.226.49.253:8000/play/a03t/index.m3u8?hls"
+    },
+    {
+      "title": "Teen Nick OP2",
+      "url": "http://181.224.255.210:8001/play/a0qk/index.m3u8?hls"
+    }
+  ]
+}

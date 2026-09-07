@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "TV vconline.cl Chile",
+      "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

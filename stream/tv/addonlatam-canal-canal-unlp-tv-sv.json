@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "UNLP TV Argentina",
+      "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

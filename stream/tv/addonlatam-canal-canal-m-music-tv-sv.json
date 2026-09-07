@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "M Music TV Chile",
+      "url": "https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

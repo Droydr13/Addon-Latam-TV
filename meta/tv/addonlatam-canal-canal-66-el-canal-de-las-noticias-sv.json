@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-66-el-canal-de-las-noticias-sv",
+    "type": "tv",
+    "name": "Canal 66 El Canal de las Noticias México",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-66-el-canal-de-las-noticias-sv.png?v=0b6f29af",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-66-el-canal-de-las-noticias-sv.png?v=0b6f29af",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=0b6f29af",
+    "posterShape": "landscape",
+    "genres": [
+      "Noticias"
+    ],
+    "description": "Canal en vivo — Canal 66 El Canal de las Noticias México. Vía Addon Latam."
+  }
+}

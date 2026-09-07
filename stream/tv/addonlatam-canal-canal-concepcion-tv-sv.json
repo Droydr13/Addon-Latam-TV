@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Concepcion TV Chile",
+      "url": "https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "HTV",
+      "url": "http://38.226.49.253:8000/play/a03z/index.m3u8?hls"
+    },
+    {
+      "title": "HTV OP2",
+      "url": "http://181.119.185.32:8000/play/a01e/index.m3u8?hls"
+    }
+  ]
+}

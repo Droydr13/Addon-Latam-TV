@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Cine Familiar",
+      "url": "http://190.102.120.20:8000/play/a05m/index.m3u8?hls"
+    },
+    {
+      "title": "Cine Familiar OP2",
+      "url": "http://190.102.120.20:8000/play/a04z/index.m3u8?hls"
+    }
+  ]
+}

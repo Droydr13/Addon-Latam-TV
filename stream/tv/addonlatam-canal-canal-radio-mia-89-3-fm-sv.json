@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Radio Mia 89.3 Fm Chile",
+      "url": "https://tv.telselec.cl:3856/live/radiomialive.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

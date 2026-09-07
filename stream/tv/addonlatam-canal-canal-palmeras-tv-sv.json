@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Palmeras TV Perú",
+      "url": "https://play.agenciastreaming.com:8081/palmerastv/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

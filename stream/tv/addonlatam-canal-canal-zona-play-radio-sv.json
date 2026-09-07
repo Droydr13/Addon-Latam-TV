@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Zona Play Radio Chile",
+      "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

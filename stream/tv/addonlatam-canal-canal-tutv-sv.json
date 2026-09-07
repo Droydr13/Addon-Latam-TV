@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "TuTV Chile",
+      "url": "https://vdochile.com:3775/hybrid/play.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

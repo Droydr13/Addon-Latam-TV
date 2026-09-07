@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Radio Zona 90.3 Chile",
+      "url": "https://live.tvcontrolcp.com:8081/radiozona/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

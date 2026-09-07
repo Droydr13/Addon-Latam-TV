@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "UMAG TV Chile",
+      "url": "https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Radio Bohemia TV Chile",
+      "url": "https://portalstream.cl:8080/bohemia1.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

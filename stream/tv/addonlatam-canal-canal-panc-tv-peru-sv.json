@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "PANC TV Peru Perú",
+      "url": "https://panctv.ddns.net/hls/pe/live.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

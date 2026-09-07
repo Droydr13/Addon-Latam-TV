@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "ESNE",
+      "url": "http://181.119.185.32:8000/play/a008/index.m3u8?hls"
+    },
+    {
+      "title": "ESNE OP2",
+      "url": "http://190.60.45.197:2222/play/a0ih/index.m3u8?hls"
+    }
+  ]
+}

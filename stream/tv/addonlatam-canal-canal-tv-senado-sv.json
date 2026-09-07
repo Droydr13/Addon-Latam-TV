@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "TV Senado Chile",
+      "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

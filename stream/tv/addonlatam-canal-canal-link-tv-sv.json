@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Link TV Argentina",
+      "url": "https://panel.host-live.com:19360/linktv/linktv.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

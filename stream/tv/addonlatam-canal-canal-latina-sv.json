@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Latina Perú",
+      "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "title": "Latina",
+      "url": "http://181.224.255.210:8001/play/a0pk/index.m3u8?hls"
+    },
+    {
+      "title": "Latina OP2",
+      "url": "http://38.226.49.253:8000/play/a07u/index.m3u8?hls"
+    }
+  ]
+}

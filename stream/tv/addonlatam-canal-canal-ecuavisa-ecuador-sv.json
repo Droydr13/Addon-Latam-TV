@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Ecuavisa Ecuador",
+      "url": "https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?PlaylistM3UCL"
+    },
+    {
+      "title": "Ecuavisa Ecuador OP2",
+      "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

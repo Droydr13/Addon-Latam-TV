@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Metanoia TV Chile",
+      "url": "https://live.mtna.tv/hls/mtna/mtna.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

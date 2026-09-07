@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "NCTV Chile",
+      "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

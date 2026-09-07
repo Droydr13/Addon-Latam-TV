@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Mi Radio TV Chile",
+      "url": "https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "NTN24",
+      "url": "http://190.102.120.20:8000/play/a02i/index.m3u8?hls"
+    },
+    {
+      "title": "NTN24 OP2",
+      "url": "http://181.224.255.210:8001/play/a0qp/index.m3u8?hls"
+    },
+    {
+      "title": "NTN24 OP3",
+      "url": "http://38.226.49.253:8000/play/a040/index.m3u8?hls"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "CTV35 Chile",
+      "url": "https://paneltv.stream:19360/ctv35/ctv35.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

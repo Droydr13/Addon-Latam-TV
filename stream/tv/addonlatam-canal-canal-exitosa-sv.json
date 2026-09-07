@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Exitosa",
+      "url": "http://181.224.255.210:8001/play/a0sm/index.m3u8?hls"
+    },
+    {
+      "title": "Exitosa Perú",
+      "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

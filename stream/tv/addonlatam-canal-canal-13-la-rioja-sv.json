@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Canal 13 La Rioja Argentina",
+      "url": "https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

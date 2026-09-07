@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Nina TV Chile",
+      "url": "https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

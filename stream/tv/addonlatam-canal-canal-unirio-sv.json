@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "UNIRIO Argentina",
+      "url": "https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

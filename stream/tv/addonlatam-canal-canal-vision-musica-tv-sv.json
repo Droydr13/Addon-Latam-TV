@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Vision Musica TV Perú",
+      "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

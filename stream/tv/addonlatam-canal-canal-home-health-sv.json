@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Home & Health",
+      "url": "http://190.102.120.20:8000/play/a02y/index.m3u8?hls"
+    },
+    {
+      "title": "Home & Health OP2",
+      "url": "http://181.224.255.210:8001/play/a0st/index.m3u8?hls"
+    },
+    {
+      "title": "Home & Health OP3",
+      "url": "http://190.102.120.20:8000/play/a04e/index.m3u8?hls"
+    }
+  ]
+}

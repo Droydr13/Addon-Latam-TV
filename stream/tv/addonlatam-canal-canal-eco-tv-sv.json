@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Eco TV Argentina",
+      "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

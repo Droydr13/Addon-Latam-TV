@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "La Chilena TV Chile",
+      "url": "https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Cine Premium",
+      "url": "http://190.102.120.20:8000/play/a046/index.m3u8?hls"
+    },
+    {
+      "title": "Cine Premium OP2",
+      "url": "http://190.102.120.20:8000/play/a04y/index.m3u8?hls"
+    },
+    {
+      "title": "Cine Premium OP3",
+      "url": "http://190.102.120.20:8000/play/a05n/index.m3u8?hls"
+    }
+  ]
+}

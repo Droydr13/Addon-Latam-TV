@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Radio Universal Chile",
+      "url": "https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

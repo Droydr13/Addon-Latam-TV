@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "TVE",
+      "url": "http://38.226.49.253:8000/play/a04q/index.m3u8?hls"
+    },
+    {
+      "title": "TVE OP2",
+      "url": "http://181.224.255.210:8001/play/a0q9/index.m3u8?hls"
+    },
+    {
+      "title": "TVE OP3",
+      "url": "http://190.60.45.197:2222/play/a0ig/index.m3u8?hls"
+    }
+  ]
+}

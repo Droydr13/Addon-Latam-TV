@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "VLTV Chile",
+      "url": "https://andromeda2.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

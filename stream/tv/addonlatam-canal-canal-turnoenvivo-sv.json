@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "TurnoEnVivo Chile",
+      "url": "https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

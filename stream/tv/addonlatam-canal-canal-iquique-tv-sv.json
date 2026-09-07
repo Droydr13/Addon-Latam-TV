@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Iquique TV Chile",
+      "url": "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

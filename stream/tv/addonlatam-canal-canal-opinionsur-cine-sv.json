@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Opinionsur Cine Chile",
+      "url": "https://mediagruptv.stream:8081/opinionsur/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "MTV",
+      "url": "http://181.119.185.32:8000/play/a013/index.m3u8?hls"
+    },
+    {
+      "title": "MTV OP2",
+      "url": "http://181.224.255.210:8001/play/a0f9/index.m3u8?hls"
+    },
+    {
+      "title": "MTV OP3",
+      "url": "http://38.226.49.253:8000/play/a068/index.m3u8?hls"
+    }
+  ]
+}

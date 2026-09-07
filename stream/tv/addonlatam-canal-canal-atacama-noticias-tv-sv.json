@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Atacama Noticias TV Chile",
+      "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL"
+    }
+  ]
+}
