@@ -2,7 +2,15 @@
   "streams": [
     {
       "title": "Retro Plus TV Chile",
+      "url": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "title": "Retro Plus TV Chile OP2",
       "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL"
+    },
+    {
+      "title": "Retro Plus TV Chile OP3",
+      "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL"
     }
   ]
 }

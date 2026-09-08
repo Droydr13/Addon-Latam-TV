@@ -1,8 +1,0 @@
-{
-  "streams": [
-    {
-      "title": "EstacionRadiotv Chile",
-      "url": "https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL"
-    }
-  ]
-}

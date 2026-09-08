@@ -1,8 +1,0 @@
-{
-  "streams": [
-    {
-      "title": "G Vision Chile",
-      "url": "https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL"
-    }
-  ]
-}

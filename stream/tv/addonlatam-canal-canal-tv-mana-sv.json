@@ -1,8 +1,0 @@
-{
-  "streams": [
-    {
-      "title": "TV Mana Argentina",
-      "url": "https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL"
-    }
-  ]
-}

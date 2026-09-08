@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-azteca-click-sv",
+    "type": "tv",
+    "name": "Azteca Click",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-azteca-click-sv.png?v=f627f820",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-azteca-click-sv.png?v=f627f820",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f627f820",
+    "posterShape": "landscape",
+    "genres": [
+      "General"
+    ],
+    "description": "Canal en vivo — Azteca Click. Vía Addon Latam."
+  }
+}
