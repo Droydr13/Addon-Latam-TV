@@ -92,12 +92,6 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal.Atacama.Noticias.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png" group-title="Noticias",Atacama Noticias TV
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal.Exitosa.sv" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logoexitosa.png" group-title="Noticias",Exitosa
-http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Exitosa.sv" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logoexitosa.png" group-title="Noticias",Exitosa OP2
-http://181.224.255.210:8001/play/a0so/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="Canal.24.Horas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_chile-mediano.png" group-title="Noticias",24 Horas
 http://38.226.49.253:8000/play/a0dv/index.m3u8?hls
 
@@ -119,35 +113,6 @@ http://38.226.49.253:8000/play/a04t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Euronews.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews-mediano.png" group-title="Noticias",Euronews
 http://190.102.120.20:8000/play/a03u/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-id="Canal.France.24.sv" group-title="Noticias",France 24
-http://181.224.255.210:8001/play/a0rh/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.France.24.sv" group-title="Noticias",France 24 OP2
-http://181.119.185.32:8000/play/a00g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.France.24.sv" group-title="Noticias",France 24 OP3
-http://38.226.49.253:8000/play/a04l/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.NTN24.sv" group-title="Noticias",NTN24
-http://190.102.120.20:8000/play/a02i/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.NTN24.sv" group-title="Noticias",NTN24 OP2
-http://181.224.255.210:8001/play/a0qp/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.NTN24.sv" group-title="Noticias",NTN24 OP3
-http://38.226.49.253:8000/play/a040/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.PNR24.sv" group-title="Noticias",PNR24
-http://190.102.120.20:8000/play/a04p/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.RPP.sv" group-title="Noticias",RPP
-http://181.224.255.210:8001/play/a0r8/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.RPP.sv" group-title="Noticias",RPP OP2
-http://38.226.49.253:8000/play/a04f/index.m3u8?hls
-
 
 
 #EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo",Azteca 7
@@ -590,10 +555,10 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" group-title="General",Ecuavisa Ecuador
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Ecuavisa Ecuador
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://cdn.m3u.cl/logo/1324_Ecuavisa.png" group-title="General",Ecuavisa Ecuador OP2
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Ecuavisa Ecuador OP2
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal.Oromar.sv" tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="General",Oromar Ecuador
@@ -712,21 +677,11 @@ https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?Playlis
 
 
 
-#EXTINF:-1 tvg-id="Canal.America.TV.sv" group-title="General",America TV
+#EXTINF:-1 tvg-id="Canal.America.TV.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",America TV
 http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.America.TV.sv" group-title="General",America TV OP2
+#EXTINF:-1 tvg-id="Canal.America.TV.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",America TV OP2
 http://38.226.49.253:8000/play/a07q/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-id="Canal.Apolo.TV.sv" group-title="General",Apolo TV
-http://38.226.49.253:8000/play/a0g8/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Atlas.sv" group-title="General",Atlas
-http://190.102.120.20:8000/play/a01q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Azteca.Click.sv" tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/3/3d/AzClic.svg/revision/latest?cb=20240910185609" group-title="General",Azteca Click
-http://190.102.120.20:8000/play/a05t/index.m3u8?hls
 
 
 
@@ -748,29 +703,16 @@ http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.sv" group-title="General",Ecuavisa
 http://181.119.185.32:8000/play/a003/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Fiver.TV.1.sv" group-title="General",Fiver TV 1
-http://38.226.49.253:8000/play/a0g9/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Fiver.TV.2.sv" group-title="General",Fiver TV 2
-http://38.226.49.253:8000/play/a0ga/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.FMH.Rewind.sv" group-title="General",FMH Rewind
+#EXTINF:-1 tvg-id="Canal.FMH.Rewind.sv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10" group-title="General",FMH Rewind
 http://190.102.120.20:8000/play/a01t/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.FMH.Series.sv" group-title="General",FMH Series
+#EXTINF:-1 tvg-id="Canal.FMH.Series.sv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMeMzsOLzs_Y0n2oZUVE16MkjeZQJOqXIR4GxbV-blUI4D0mJxs9BEAcA&s=10" group-title="General",FMH Series
 http://190.102.120.20:8000/play/a00y/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Gamavisión.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gamavision-mediano.png" group-title="General",Gamavision
 http://181.119.185.32:8000/play/a01q/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Global.sv" group-title="General",Global
-http://38.226.49.253:8000/play/a04g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Global.sv" group-title="General",Global OP2
-http://181.224.255.210:8001/play/a0r9/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.HEI.sv" group-title="General",HEI
-http://181.224.255.210:8001/play/a0sg/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.¡HOLA!.TV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="General",Hola TV
 http://38.226.49.253:8000/play/a06j/index.m3u8?hls
@@ -781,62 +723,10 @@ http://38.226.49.253:8000/play/a03z/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.HTV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png" group-title="General",HTV OP2
 http://181.119.185.32:8000/play/a01e/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.La.Red.sv" group-title="General",La Red
-http://38.226.49.253:8000/play/a08f/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Mega.sv" group-title="General",Mega
-http://38.226.49.253:8000/play/a0cm/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Nuestra.Tele.sv" group-title="General",Nuestra Tele
-http://190.102.120.20:8000/play/a02u/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Nuestra.Tele.sv" group-title="General",Nuestra Tele OP2
-http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Oromar.sv" group-title="General",Oromar
-http://181.119.185.32:8000/play/a01f/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Oromar.sv" group-title="General",Oromar OP2
-http://181.224.255.210:8001/play/a0r4/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Panamericana.sv" group-title="General",Panamericana
-http://38.226.49.253:8000/play/a04c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Panamericana.sv" group-title="General",Panamericana OP2
-http://181.224.255.210:8001/play/a0r6/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Panamericana.sv" group-title="General",Panamericana OP3
-http://181.224.255.210:8001/play/a0s5/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.RAI.sv" group-title="General",RAI
-http://38.226.49.253:8000/play/a04s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.RCN.sv" group-title="General",RCN
-http://190.102.120.20:8000/play/a03i/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.RCN.sv" group-title="General",RCN OP2
-http://190.102.120.20:8000/play/a03g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.RCN.sv" group-title="General",RCN OP3
-http://190.60.45.197:2222/play/a03f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rts-mediano.png" group-title="General",RTS
 http://181.119.185.32:8000/play/a00c/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.RTU.sv" group-title="General",RTU
-http://181.119.185.32:8000/play/a01g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Señal.Colombia.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/senal_colombia-mediano.png" group-title="General",Señal Colombia
-http://190.60.45.197:2222/play/a03j/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Señal.Colombia.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/senal_colombia-mediano.png" group-title="General",Señal Colombia OP2
-http://190.102.120.20:8000/play/a02e/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Sumac.sv" group-title="General",Sumac
-http://181.224.255.210:8001/play/a0rs/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tc_television-mediano.png" group-title="General",TC Televisión
-http://181.119.185.32:8000/play/a005/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Telecafé.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telecafe-mediano.png" group-title="General",Telecafé
 http://190.102.120.20:8000/play/a02g/index.m3u8?hls
@@ -844,8 +734,6 @@ http://190.102.120.20:8000/play/a02g/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Telecafé.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telecafe-mediano.png" group-title="General",Telecafé OP2
 http://190.60.45.197:2222/play/a048/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Tele.Lima.sv" group-title="General",Tele Lima
-http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleamazonas-mediano.png" group-title="General",Teleamazonas
 http://181.119.185.32:8000/play/a006/index.m3u8?hls
@@ -862,91 +750,13 @@ http://190.102.120.20:8000/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Telecaribe.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telecaribe-mediano.png" group-title="General",Telecaribe OP2
 http://190.60.45.197:2222/play/a046/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Telecentro.sv" group-title="General",Telecentro
-http://190.102.120.20:8000/play/a02q/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Telefe.sv" group-title="General",Telefe
+#EXTINF:-1 tvg-id="Canal.Telefe.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Telefe
 http://181.224.255.210:8001/play/a0q5/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Teleislas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleislas-mediano.png" group-title="General",Teleislas
-http://190.102.120.20:8000/play/a03o/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Teleislas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleislas-mediano.png" group-title="General",Teleislas OP2
-http://190.60.45.197:2222/play/a03p/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Telemedellin.sv" group-title="General",Telemedellin
-http://190.102.120.20:8000/play/a04g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Telepacífico.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telepacifico-mediano.png" group-title="General",Telepacífico
-http://190.102.120.20:8000/play/a029/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Telepacífico.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telepacifico-mediano.png" group-title="General",Telepacífico OP2
-http://190.60.45.197:2222/play/a040/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Televid.sv" group-title="General",Televid
-http://190.102.120.20:8000/play/a02b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Televid.sv" group-title="General",Televid OP2
-http://190.102.120.20:8000/play/a058/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Trece.sv" group-title="General",Trece
-http://190.102.120.20:8000/play/a026/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Trece.sv" group-title="General",Trece OP2
-http://190.60.45.197:2222/play/a049/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TV.Perú.sv" group-title="General",TV Perú
-http://38.226.49.253:8000/play/a0gb/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TV.Perú.sv" group-title="General",TV Perú OP2
-http://181.224.255.210:8001/play/a0ss/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TV+.sv" group-title="General",TV+
-http://38.226.49.253:8000/play/a07h/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TVE.sv" group-title="General",TVE
-http://38.226.49.253:8000/play/a04q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TVE.sv" group-title="General",TVE OP2
-http://181.224.255.210:8001/play/a0q9/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TVE.sv" group-title="General",TVE OP3
-http://190.60.45.197:2222/play/a0ig/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TVN.sv" group-title="General",TVN
-http://38.226.49.253:8000/play/a06c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Univision.sv" group-title="General",Univision
-http://190.102.120.20:8000/play/a03a/index.m3u8?hls
-
-
-
-#EXTINF:-1 tvg-id="Canal.USA.sv" group-title="General",USA
-http://38.226.49.253:8000/play/a044/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.USA.sv" group-title="General",USA OP2
-http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.West.sv" group-title="General",West
-http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Willax.sv" group-title="General",Willax
-http://38.226.49.253:8000/play/a0gj/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Willax.sv" group-title="General",Willax OP2
-http://181.224.255.210:8001/play/a0sp/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Willax.sv" group-title="General",Willax OP3
-http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Zoom.sv" group-title="General",Zoom
-http://190.102.120.20:8000/play/a05f/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Zoom.sv" group-title="General",Zoom OP2
-http://190.60.45.197:2222/play/a03n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Zoomo.sv" group-title="General",Zoomo
-http://190.102.120.20:8000/play/a01o/index.m3u8?hls
+#EXTINF:-1 tvg-id="Canal.Azteca.Click.sv" tvg-logo="https://www.eluniversal.com.mx/resizer/v2/5OTIC63ZBNHAJJCBONNNWKFCLE.jpg?auth=915348465fd07587fd26605e1b93c3712cd89049a1ea5dd8d4b6a0271bb3b4a9&smart=true&height=666" group-title="General",Azteca Click
+http://190.102.120.20:8000/play/a05t/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_corazon-mediano.png" group-title="Mundo" tvg-shape="landscape",Azteca Corazon
@@ -1008,6 +818,9 @@ http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="Mundo",Telemundo OP5
 http://190.60.45.197:2222/play/a028/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="Canal.Univision.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="General",Univision
+http://190.102.120.20:8000/play/a03a/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="Entretenimiento",E! Entertainment
 http://181.224.255.210:8001/play/a0q3/index.m3u8?hls
@@ -1015,48 +828,40 @@ http://181.224.255.210:8001/play/a0q3/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.El.Pingüino.TV.sv" tvg-logo="https://www.elpinguino.com/_templates/globals/img/placeholder.png" group-title="Entretenimiento",El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" group-title="Entretenimiento",Adult Swim
+#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" tvg-logo="https://i.pinimg.com/originals/5c/31/62/5c31623f9319817ffba4715c50971444.jpg" group-title="Entretenimiento",Adult Swim
 http://181.224.255.210:8001/play/a0q8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" group-title="Entretenimiento",Adult Swim OP2
+#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" tvg-logo="https://i.pinimg.com/originals/5c/31/62/5c31623f9319817ffba4715c50971444.jpg" group-title="Entretenimiento",Adult Swim OP2
 http://38.226.49.253:8000/play/a04i/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" group-title="Entretenimiento",Adult Swim OP3
+#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" tvg-logo="https://i.pinimg.com/originals/5c/31/62/5c31623f9319817ffba4715c50971444.jpg" group-title="Entretenimiento",Adult Swim OP3
 http://190.102.120.20:8000/play/a03r/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Animotion.sv" group-title="Entretenimiento",Animotion
-http://190.102.120.20:8000/play/a01p/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Atres.Series.sv" group-title="Entretenimiento",Atres Series
+#EXTINF:-1 tvg-id="Canal.Atres.Series.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/250px-AtreseriesLogo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Entretenimiento",Atreseries
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Atres.Series.sv" group-title="Entretenimiento",Atres Series OP2
+#EXTINF:-1 tvg-id="Canal.Atres.Series.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/250px-AtreseriesLogo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Entretenimiento",Atreseries OP2
 http://38.226.49.253:8000/play/a0ck/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AXN.sv" group-title="Entretenimiento",AXN
+
+#EXTINF:-1 tvg-id="Canal.AXN.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Entretenimiento",AXN
 http://190.102.120.20:8000/play/a01b/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AXN.sv" group-title="Entretenimiento",AXN OP2
+#EXTINF:-1 tvg-id="Canal.AXN.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Entretenimiento",AXN OP2
 http://190.102.120.20:8000/play/a051/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AXN.sv" group-title="Entretenimiento",AXN OP3
+#EXTINF:-1 tvg-id="Canal.AXN.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Entretenimiento",AXN OP3
 http://181.119.185.32:8000/play/a007/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AXN.sv" group-title="Entretenimiento",AXN OP4
+#EXTINF:-1 tvg-id="Canal.AXN.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Entretenimiento",AXN OP4
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AXN.sv" group-title="Entretenimiento",AXN OP5
+#EXTINF:-1 tvg-id="Canal.AXN.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="Entretenimiento",AXN OP5
 http://38.226.49.253:8000/play/a062/index.m3u8?hls
 
 
-
-#EXTINF:-1 tvg-id="Canal.Bitmen.sv" group-title="Entretenimiento",Bitmen
-http://190.102.120.20:8000/play/a03b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Europa.Europa.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" group-title="Entretenimiento",Europa Europa
-http://181.224.255.210:8001/play/a0qx/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Kanal.D.Drama.sv" group-title="Entretenimiento",Kanal D Drama
+#EXTINF:-1 tvg-id="Canal.Kanal.D.Drama.sv" tvg-logo="https://i.ibb.co/20DNbBzj/Imagen-de-Whats-App-2025-10-20-a-las-00-15-15-d8ef2b14.jpg" group-title="Entretenimiento",Kanal D Drama
 http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Lifetime.sv" group-title="Entretenimiento",Lifetime
@@ -1834,6 +1639,65 @@ http://38.226.49.253:8000/play/a032/index.m3u8?hls
 http://190.60.45.197:2222/play/a06b/index.m3u8?hls
 
 
+#EXTINF:-1 tvg-id="Next-HD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Cine.Familiar.sv" group-title="Cine",Cine Familiar
+http://190.102.120.20:8000/play/a05m/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Familiar.sv" group-title="Cine",Cine Familiar OP2
+http://190.102.120.20:8000/play/a04z/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Hispano.sv" group-title="Cine",Cine Hispano
+http://190.102.120.20:8000/play/a05l/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Hispano.sv" group-title="Cine",Cine Hispano OP2
+http://190.102.120.20:8000/play/a052/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cinelatino.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png" group-title="Cine",Cine Latino
+http://190.102.120.20:8000/play/a02p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Mexicano.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_mexicano-mediano.png" group-title="Cine",Cine Mexicano
+http://190.102.120.20:8000/play/a05q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Premium.sv" group-title="Cine",Cine Premium
+http://190.102.120.20:8000/play/a046/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Premium.sv" group-title="Cine",Cine Premium OP2
+http://190.102.120.20:8000/play/a04y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Cine.Premium.sv" group-title="Cine",Cine Premium OP3
+http://190.102.120.20:8000/play/a05n/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Film&Arts.sv" group-title="Cine",Film&Arts
+http://38.226.49.253:8000/play/a03v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Film&Arts.sv" group-title="Cine",Film&Arts OP2
+http://181.224.255.210:8001/play/a0ql/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Film&Arts.sv" group-title="Cine",Film&Arts OP3
+http://181.119.185.32:8000/play/a01a/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Memorias.Film.sv" group-title="Cine",Memorias Film
+http://190.102.120.20:8000/play/a059/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Movies.sv" group-title="Cine",Movies
+http://190.102.120.20:8000/play/a01s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.CineClick.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cineclick-mediano.png" group-title="Cine",CineClick
+http://190.102.120.20:8000/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.Xtime.sv" group-title="Cine",Xtime
+http://190.102.120.20:8000/play/a04j/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TCM.sv" group-title="Cine",TCM
+http://190.102.120.20:8000/play/a01l/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TCM.sv" group-title="Cine",TCM OP2
+http://38.226.49.253:8000/play/a047/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Canal.TCM.sv" group-title="Cine",TCM OP3
+http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
 
 
 # --- EDUCATIVO ---
@@ -2527,62 +2391,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clic-mediano.png" group-title="Mundo",Clic Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-id="Next-HD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Cine.Familiar.sv" group-title="Cine",Cine Familiar
-http://190.102.120.20:8000/play/a05m/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Familiar.sv" group-title="Cine",Cine Familiar OP2
-http://190.102.120.20:8000/play/a04z/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Hispano.sv" group-title="Cine",Cine Hispano
-http://190.102.120.20:8000/play/a05l/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Hispano.sv" group-title="Cine",Cine Hispano OP2
-http://190.102.120.20:8000/play/a052/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cinelatino.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png" group-title="Cine",Cine Latino
-http://190.102.120.20:8000/play/a02p/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Mexicano.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_mexicano-mediano.png" group-title="Cine",Cine Mexicano
-http://190.102.120.20:8000/play/a05q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Premium.sv" group-title="Cine",Cine Premium
-http://190.102.120.20:8000/play/a046/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Premium.sv" group-title="Cine",Cine Premium OP2
-http://190.102.120.20:8000/play/a04y/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Cine.Premium.sv" group-title="Cine",Cine Premium OP3
-http://190.102.120.20:8000/play/a05n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Film&Arts.sv" group-title="Cine",Film&Arts
-http://38.226.49.253:8000/play/a03v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Film&Arts.sv" group-title="Cine",Film&Arts OP2
-http://181.224.255.210:8001/play/a0ql/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Film&Arts.sv" group-title="Cine",Film&Arts OP3
-http://181.119.185.32:8000/play/a01a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Memorias.Film.sv" group-title="Cine",Memorias Film
-http://190.102.120.20:8000/play/a059/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Movies.sv" group-title="Cine",Movies
-http://190.102.120.20:8000/play/a01s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.CineClick.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cineclick-mediano.png" group-title="Cine",CineClick
-http://190.102.120.20:8000/play/a04k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.Xtime.sv" group-title="Cine",Xtime
-http://190.102.120.20:8000/play/a04j/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TCM.sv" group-title="Cine",TCM
-http://190.102.120.20:8000/play/a01l/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TCM.sv" group-title="Cine",TCM OP2
-http://38.226.49.253:8000/play/a047/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Canal.TCM.sv" group-title="Cine",TCM OP3
-http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
