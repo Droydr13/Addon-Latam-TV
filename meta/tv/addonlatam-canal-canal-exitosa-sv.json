@@ -2,14 +2,14 @@
   "meta": {
     "id": "addonlatam-canal-canal-exitosa-sv",
     "type": "tv",
-    "name": "Exitosa",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-exitosa-sv.png?v=f627f820",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-exitosa-sv.png?v=f627f820",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f627f820",
+    "name": "Exitosa Perú",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-exitosa-sv.png?v=bfcb355f",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-exitosa-sv.png?v=bfcb355f",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=bfcb355f",
     "posterShape": "landscape",
     "genres": [
-      "Noticias"
+      "General"
     ],
-    "description": "Canal en vivo — Exitosa. Vía Addon Latam."
+    "description": "Canal en vivo — Exitosa Perú. Vía Addon Latam."
   }
 }

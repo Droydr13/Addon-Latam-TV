@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-energeek-sv",
     "type": "tv",
     "name": "EnerGeek Chile",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-energeek-sv.png?v=f627f820",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-energeek-sv.png?v=f627f820",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f627f820",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-energeek-sv.png?v=bfcb355f",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-energeek-sv.png?v=bfcb355f",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=bfcb355f",
     "posterShape": "landscape",
     "genres": [
       "General"

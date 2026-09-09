@@ -2,14 +2,14 @@
   "meta": {
     "id": "addonlatam-canal-canal-atres-series-sv",
     "type": "tv",
-    "name": "Atres Series",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-atres-series-sv.png?v=f627f820",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-atres-series-sv.png?v=f627f820",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f627f820",
+    "name": "Atreseries",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-atres-series-sv.png?v=bfcb355f",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-atres-series-sv.png?v=bfcb355f",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=bfcb355f",
     "posterShape": "landscape",
     "genres": [
       "Entretenimiento"
     ],
-    "description": "Canal en vivo — Atres Series. Vía Addon Latam."
+    "description": "Canal en vivo — Atreseries. Vía Addon Latam."
   }
 }

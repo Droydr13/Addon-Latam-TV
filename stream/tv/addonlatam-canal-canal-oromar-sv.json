@@ -3,14 +3,6 @@
     {
       "title": "Oromar Ecuador",
       "url": "https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8?PlaylistM3UCL"
-    },
-    {
-      "title": "Oromar",
-      "url": "http://181.119.185.32:8000/play/a01f/index.m3u8?hls"
-    },
-    {
-      "title": "Oromar OP2",
-      "url": "http://181.224.255.210:8001/play/a0r4/index.m3u8?hls"
     }
   ]
 }

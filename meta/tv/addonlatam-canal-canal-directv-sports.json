@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-directv-sports",
     "type": "tv",
     "name": "DIRECTV SPORTS",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=f627f820",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=f627f820",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f627f820",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=bfcb355f",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-directv-sports.png?v=bfcb355f",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=bfcb355f",
     "posterShape": "landscape",
     "genres": [
       "Deportes"
