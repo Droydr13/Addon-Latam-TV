@@ -3,6 +3,10 @@
     {
       "title": "Canal 5",
       "url": "http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls"
+    },
+    {
+      "title": "Canal 5 OP2",
+      "url": "http://45.5.118.152:8000/play/a03i/index.m3u8"
     }
   ]
 }
