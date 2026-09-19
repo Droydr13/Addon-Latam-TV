@@ -2,7 +2,7 @@
   "streams": [
     {
       "title": "Canal 5",
-      "url": "http://liontv.es:8080/Euphoria/Euphoria2023/1457755"
+      "url": "http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls"
     }
   ]
 }

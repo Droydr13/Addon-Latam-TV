@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-plenitud-tv-sv",
     "type": "tv",
     "name": "Plenitud TV Chile",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-plenitud-tv-sv.png?v=73134d9a",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-plenitud-tv-sv.png?v=73134d9a",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=73134d9a",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-plenitud-tv-sv.png?v=408db520",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-plenitud-tv-sv.png?v=408db520",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=408db520",
     "posterShape": "landscape",
     "genres": [
       "Religion"
