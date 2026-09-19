@@ -38,6 +38,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" tvg-country="MX" group-title="Mundo",Canal 5
 http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls
 
+#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" tvg-country="MX" group-title="Mundo",Canal 5 OP2
+http://45.5.118.152:8000/play/a03i/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.Milenio.TV.mx" tvg-name="Canal Milenio TV" tvg-logo="https://docdog.top/logo/countries/mexico/mileniotv.png" group-title="Noticias",Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
