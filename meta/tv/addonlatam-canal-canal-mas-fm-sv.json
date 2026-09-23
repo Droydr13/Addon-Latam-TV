@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-mas-fm-sv",
     "type": "tv",
     "name": "Mas FM Argentina",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-mas-fm-sv.png?v=02d6365a",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-mas-fm-sv.png?v=02d6365a",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=02d6365a",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-mas-fm-sv.png?v=90264fa6",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-mas-fm-sv.png?v=90264fa6",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=90264fa6",
     "posterShape": "landscape",
     "genres": [
       "Musica"
