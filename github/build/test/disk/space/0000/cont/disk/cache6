@@ -1115,6 +1115,9 @@ http://181.224.255.210:8001/play/a0m2/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.National.Geographic.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" group-title="Documentales",National Geographic OP5
 http://181.119.185.32:8000/play/a014/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="Canal.National.Geographic.Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Documentales",National Geographic Wild
+http://directo.ddns.me:33200/live/ultratv039/0147191002/2466.m3u8
+
 #EXTINF:-1 tvg-id="Canal.A&E.sv" group-title="Documentales",A&E
 http://38.226.49.253:8000/play/a05m/index.m3u8?hls
 
