@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-bbc-news-sv",
     "type": "tv",
     "name": "BBC News",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-bbc-news-sv.png?v=3912de43",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-bbc-news-sv.png?v=3912de43",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=3912de43",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-bbc-news-sv.png?v=dc3c3248",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-bbc-news-sv.png?v=dc3c3248",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=dc3c3248",
     "posterShape": "landscape",
     "genres": [
       "Noticias"
