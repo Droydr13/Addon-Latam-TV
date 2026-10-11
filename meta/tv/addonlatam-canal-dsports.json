@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-dsports",
+    "type": "tv",
+    "name": "DSports",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-dsports.png?v=baced065",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-dsports.png?v=baced065",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=baced065",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — DSports. Vía Addon Latam."
+  }
+}
