@@ -206,7 +206,7 @@ http://190.102.120.20:8000/play/a010/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal.Enlace.Juvenil.sv" group-title="Religion",Enlace Juvenil
 http://190.102.120.20:8000/play/a02c/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Sony.movies" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1280px-Sony_Movies_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cine",Cine Movies
+#EXTINF:-1 tvg-id="Canal.Sony.movies" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1280px-Sony_Movies_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cine",Sony Movies
 http://186.33.0.57:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Sony.movies" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1280px-Sony_Movies_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cine",Sony Movies
