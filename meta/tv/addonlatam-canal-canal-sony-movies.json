@@ -2,14 +2,14 @@
   "meta": {
     "id": "addonlatam-canal-canal-sony-movies",
     "type": "tv",
-    "name": "Cine Movies",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-sony-movies.png?v=d796da7f",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-sony-movies.png?v=d796da7f",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=d796da7f",
+    "name": "Sony Movies",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-sony-movies.png?v=7648233b",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-sony-movies.png?v=7648233b",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=7648233b",
     "posterShape": "landscape",
     "genres": [
       "Cine"
     ],
-    "description": "Canal en vivo — Cine Movies. Vía Addon Latam."
+    "description": "Canal en vivo — Sony Movies. Vía Addon Latam."
   }
 }

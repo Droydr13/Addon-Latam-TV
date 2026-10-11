@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "title": "Cine Movies",
+      "title": "Sony Movies",
       "url": "http://186.33.0.57:8000/play/a023/index.m3u8"
     },
     {
