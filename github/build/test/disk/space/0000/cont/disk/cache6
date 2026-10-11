@@ -1955,7 +1955,10 @@ http://190.102.120.20:8000/play/a056/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports
+http://38.187.7.252:8000/play/a03d/index.m3u8
 
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports
+http://190.117.20.37:8000/play/a08d/38457924.m3u8
 
 #EXTINF:-1 tvg-id="Canal.AYM.Sports.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Deportes",AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
