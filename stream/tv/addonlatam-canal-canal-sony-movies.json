@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "title": "Cine Movies",
+      "url": "http://186.33.0.57:8000/play/a023/index.m3u8"
+    },
+    {
+      "title": "Sony Movies",
+      "url": "http://181.225.190.242:8000/play/a02v"
+    }
+  ]
+}

@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-comedy-central-mexico-mx",
     "type": "tv",
     "name": "Comedy Central",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx.png?v=dc3c3248",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx.png?v=dc3c3248",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=dc3c3248",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx.png?v=d796da7f",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-comedy-central-mexico-mx.png?v=d796da7f",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=d796da7f",
     "posterShape": "landscape",
     "genres": [
       "Comedia"

@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-l1-max",
     "type": "tv",
     "name": "L1 MAX",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-l1-max.png?v=dc3c3248",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-l1-max.png?v=dc3c3248",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=dc3c3248",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-l1-max.png?v=d796da7f",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-l1-max.png?v=d796da7f",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=d796da7f",
     "posterShape": "landscape",
     "genres": [
       "Deportes"
