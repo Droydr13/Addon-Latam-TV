@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-warner-tv-mx",
     "type": "tv",
     "name": "Warner Channel",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-warner-tv-mx.png?v=baced065",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-warner-tv-mx.png?v=baced065",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=baced065",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-warner-tv-mx.png?v=b90f1197",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-warner-tv-mx.png?v=b90f1197",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=b90f1197",
     "posterShape": "landscape",
     "genres": [
       "Cine"

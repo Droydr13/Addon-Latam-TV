@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-ucv-2-sv",
     "type": "tv",
     "name": "UCV 2 Chile",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ucv-2-sv.png?v=baced065",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ucv-2-sv.png?v=baced065",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=baced065",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ucv-2-sv.png?v=b90f1197",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ucv-2-sv.png?v=b90f1197",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=b90f1197",
     "posterShape": "landscape",
     "genres": [
       "Educativo"

@@ -2,11 +2,7 @@
   "streams": [
     {
       "title": "DSports",
-      "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
-    },
-    {
-      "title": "DSports",
-      "url": "http://190.117.20.37:8000/play/a08d/38457924.m3u8"
+      "url": "http://45.186.254.75:8000/play/a0en/index.m3u8"
     }
   ]
 }
