@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-radio-polar-sv",
     "type": "tv",
     "name": "Radio Polar Chile",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-radio-polar-sv.png?v=b90f1197",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-radio-polar-sv.png?v=b90f1197",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=b90f1197",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-radio-polar-sv.png?v=8ba60c01",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-radio-polar-sv.png?v=8ba60c01",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8ba60c01",
     "posterShape": "landscape",
     "genres": [
       "Musica"
