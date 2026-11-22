@@ -1,0 +1,43 @@
+name: Generar guía EPG
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'github/build/test/disk/space/0000/cont/disk/**'
+      - 'epg.js'
+      - '.github/workflows/epg.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epg
+  cancel-in-progress: false
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Juntar y filtrar las guías
+        run: node epg.js
+
+      - name: Subir epg/guia.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg/guia.xml
+          git diff --staged --quiet || git commit -m "Actualiza guía EPG [skip ci]"
+          git pull --rebase -X ours origin main
+          git push
