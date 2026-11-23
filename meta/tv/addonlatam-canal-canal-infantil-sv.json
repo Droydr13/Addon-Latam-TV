@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-infantil-sv",
     "type": "tv",
     "name": "Canal Infantil",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-infantil-sv.png?v=8ba60c01",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-infantil-sv.png?v=8ba60c01",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=8ba60c01",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-infantil-sv.png?v=28c339b0",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-infantil-sv.png?v=28c339b0",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=28c339b0",
     "posterShape": "landscape",
     "genres": [
       "Infantil"
