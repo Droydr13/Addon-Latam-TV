@@ -281,12 +281,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-<channel id="Canal.Ecuavisa.(Ecuador).sv">
-    <display-name lang="es">Canal Ecuavisa (Ecuador)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
 <channel id="Canal.Elgourmet.sv">
     <display-name lang="es">Canal Elgourmet</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" />
@@ -341,12 +335,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-<channel id="Canal.Mega.(Chile).sv">
-    <display-name lang="es">Canal Mega (Chile)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
 <channel id="Canal.NickMusic.sv">
     <display-name lang="es">Canal NickMusic</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nick_music-mediano.png" />
@@ -381,18 +369,6 @@
     <display-name lang="es">Canal TNT (México)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-<channel id="Canal.TV.Chile.sv">
-    <display-name lang="es">Canal TV Chile</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-<channel id="Canal.TVN.(Chile).sv">
-    <display-name lang="es">Canal TVN (Chile)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
 <channel id="Canal.TeenNick.sv">
@@ -440,12 +416,6 @@
     <display-name lang="es">Canal Telenostalgia</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telenostalgia-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telenostalgia-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-<channel id="Canal.Telepacífico.sv">
-    <display-name lang="es">Canal Telepacífico</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telepacifico-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telepacifico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
 <channel id="Canal.Tooncast.sv">
@@ -4150,6 +4120,10 @@ En Vivo</title>
     <title lang="es">Inventos de la antigüeda</title>
     <episode-num system="onscreen">S4 E31</episode-num>
   </programme>
+<programme start="20261127132000 -0600" stop="20261127141200 -0600" channel="Canal.History.2.(México).mx">
+    <title lang="es">Inventos de la antigüeda</title>
+    <episode-num system="onscreen">S4 E35</episode-num>
+  </programme>
 <programme start="20261125064800 -0600" stop="20261125073600 -0600" channel="Canal.Discovery.Channel.(México).mx">
     <title lang="es">A prueba de todo</title>
     <episode-num system="onscreen">S6 E9</episode-num>
@@ -5512,9 +5486,6 @@ En Vivo</title>
       <value>8.0</value>
     </star-rating>
   </programme>
-<programme start="20261125060000 -0600" stop="20261125071900 -0600" channel="Canal.HBO.Family.Latinoamérica.mx">
-    <title lang="es">El cadáver de la novia</title>
-  </programme>
 <programme start="20261125071900 -0600" stop="20261125084700 -0600" channel="Canal.HBO.Family.Latinoamérica.mx">
     <title lang="es">El Grinch</title>
   </programme>
@@ -6672,11 +6643,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127121700 -0600" stop="20261127135800 -0600" channel="Canal.De.Película.mx">
     <title lang="es">La zona del silencio</title>
-  </programme>
-<programme start="20261125070000 -0600" stop="20261125072000 -0600" channel="Canal.TUDN.(México).mx">
-    <title lang="es">Fut en 30</title>
-    <sub-title lang="es">Liga MX, Apertura: Pumas UNAM vs. América</sub-title>
-    <episode-num system="onscreen">S2026 E46</episode-num>
   </programme>
 <programme start="20261125072000 -0600" stop="20261125093000 -0600" channel="Canal.TUDN.(México).mx">
     <title lang="es">Copa Mundial Sub-17 de la FIFA 2026</title>
@@ -8665,6 +8631,9 @@ En Vivo</title>
     <title lang="es">Spin City</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127132000 -0600" channel="Canal.Comedy.Central.(México).mx">
+    <title lang="es">Un Hombre, Un Plan</title>
+  </programme>
+<programme start="20261127132000 -0600" stop="20261127134000 -0600" channel="Canal.Comedy.Central.(México).mx">
     <title lang="es">Un Hombre, Un Plan</title>
   </programme>
 <programme start="20261125070000 -0600" stop="20261125090000 -0600" channel="ESPN.3.mx">
@@ -11687,9 +11656,6 @@ En Vivo</title>
     <title lang="es">El ferrocarril de Alaska</title>
     <sub-title lang="es">Un tren hacia el norte</sub-title>
   </programme>
-<programme start="20261125063200 -0600" stop="20261125071800 -0600" channel="Canal.Discovery.Turbo.(Latinoamérica).sv">
-    <title lang="es">Mexicánicos</title>
-  </programme>
 <programme start="20261125071800 -0600" stop="20261125080400 -0600" channel="Canal.Discovery.Turbo.(Latinoamérica).sv">
     <title lang="es">Misfit Garage</title>
     <sub-title lang="es">Pelea callejera y un Camaro 70 ½</sub-title>
@@ -13559,112 +13525,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127141000 -0600" channel="Canal.ESPN.Premium.(Chile).sv">
     <title lang="es">Automovilismo Fórmula 1</title>
-  </programme>
-<programme start="20261125063000 -0600" stop="20261125083000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-<programme start="20261125083000 -0600" stop="20261125120000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">En contacto</title>
-  </programme>
-<programme start="20261125120000 -0600" stop="20261125130000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">II</sub-title>
-  </programme>
-<programme start="20261125130000 -0600" stop="20261125143000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Háckers del espectáculo</title>
-  </programme>
-<programme start="20261125143000 -0600" stop="20261125153000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">La mujer en el espejo</title>
-  </programme>
-<programme start="20261125153000 -0600" stop="20261125163000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Flor salvaje</title>
-  </programme>
-<programme start="20261125163000 -0600" stop="20261125180000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">La Mentira</title>
-  </programme>
-<programme start="20261125180000 -0600" stop="20261125200000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">Estelar</sub-title>
-  </programme>
-<programme start="20261125200000 -0600" stop="20261125210000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Vale Todo</title>
-  </programme>
-<programme start="20261125210000 -0600" stop="20261125220000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">El otro lado del amor</title>
-  </programme>
-<programme start="20261125220000 -0600" stop="20261125230000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Piso 17</title>
-  </programme>
-<programme start="20261125230000 -0600" stop="20261126045000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Telenovela</title>
-  </programme>
-<programme start="20261126045000 -0600" stop="20261126055500 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-<programme start="20261126055500 -0600" stop="20261126063000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Contacto directo en Televistazo</title>
-  </programme>
-<programme start="20261126063000 -0600" stop="20261126083000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-<programme start="20261126083000 -0600" stop="20261126120000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">En contacto</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">II</sub-title>
-  </programme>
-<programme start="20261126130000 -0600" stop="20261126143000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Háckers del espectáculo</title>
-  </programme>
-<programme start="20261126143000 -0600" stop="20261126153000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">La mujer en el espejo</title>
-  </programme>
-<programme start="20261126153000 -0600" stop="20261126163000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Flor salvaje</title>
-  </programme>
-<programme start="20261126163000 -0600" stop="20261126180000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">La Mentira</title>
-  </programme>
-<programme start="20261126180000 -0600" stop="20261126200000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">Estelar</sub-title>
-  </programme>
-<programme start="20261126200000 -0600" stop="20261126210000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Vale Todo</title>
-  </programme>
-<programme start="20261126210000 -0600" stop="20261126220000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">El otro lado del amor</title>
-  </programme>
-<programme start="20261126220000 -0600" stop="20261126230000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Piso 17</title>
-  </programme>
-<programme start="20261126230000 -0600" stop="20261127045000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Telenovela</title>
-  </programme>
-<programme start="20261127045000 -0600" stop="20261127055500 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-<programme start="20261127055500 -0600" stop="20261127063000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Contacto directo en Televistazo</title>
-  </programme>
-<programme start="20261127063000 -0600" stop="20261127083000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">en la comunidad</sub-title>
-  </programme>
-<programme start="20261127083000 -0600" stop="20261127120000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">En contacto</title>
-  </programme>
-<programme start="20261127120000 -0600" stop="20261127130000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Televistazo</title>
-    <sub-title lang="es">II</sub-title>
-  </programme>
-<programme start="20261127130000 -0600" stop="20261127143000 -0600" channel="Canal.Ecuavisa.(Ecuador).sv">
-    <title lang="es">Háckers del espectáculo</title>
   </programme>
 <programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Elgourmet.sv">
     <title lang="es">Mapa de los sabores de México</title>
@@ -16060,129 +15920,6 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127170000 -0600" channel="Canal.HTV.sv">
     <title lang="es">HTV</title>
   </programme>
-<programme start="20261125050000 -0600" stop="20261125100000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Mucho gusto</title>
-  </programme>
-<programme start="20261125100000 -0600" stop="20261125114000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias Alerta</title>
-  </programme>
-<programme start="20261125114000 -0600" stop="20261125114500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">El tiempo</title>
-  </programme>
-<programme start="20261125114500 -0600" stop="20261125123000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La hora de jugar</title>
-  </programme>
-<programme start="20261125123000 -0600" stop="20261125133000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Carmen Gloria Fuerte y claro</title>
-  </programme>
-<programme start="20261125133000 -0600" stop="20261125142000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La Baronesa</title>
-  </programme>
-<programme start="20261125142000 -0600" stop="20261125151500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La Baronesa</title>
-  </programme>
-<programme start="20261125151500 -0600" stop="20261125170000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Dale Play</title>
-  </programme>
-<programme start="20261125170000 -0600" stop="20261125180500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias Prime</title>
-  </programme>
-<programme start="20261125180500 -0600" stop="20261125181000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">El tiempo</title>
-  </programme>
-<programme start="20261125181000 -0600" stop="20261125191000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Reunión de superados</title>
-  </programme>
-<programme start="20261125191000 -0600" stop="20261125200000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Prohibida obsesión</title>
-  </programme>
-<programme start="20261125200000 -0600" stop="20261125213000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">¿Volverías con tu ex?</title>
-  </programme>
-<programme start="20261125213000 -0600" stop="20261125221500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La hora de jugar</title>
-  </programme>
-<programme start="20261125221500 -0600" stop="20261126000000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Dale Play</title>
-  </programme>
-<programme start="20261126000000 -0600" stop="20261126010000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Reunión de superados</title>
-  </programme>
-<programme start="20261126010000 -0600" stop="20261126024500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias</title>
-  </programme>
-<programme start="20261126024500 -0600" stop="20261126050000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias amanece</title>
-  </programme>
-<programme start="20261126050000 -0600" stop="20261126100000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Mucho gusto</title>
-  </programme>
-<programme start="20261126100000 -0600" stop="20261126115500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias alerta</title>
-  </programme>
-<programme start="20261126115500 -0600" stop="20261126120000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">El tiempo</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126124500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La hora de jugar</title>
-  </programme>
-<programme start="20261126124500 -0600" stop="20261126134500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Carmen Gloria Fuerte y claro</title>
-  </programme>
-<programme start="20261126134500 -0600" stop="20261126142000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La Baronesa</title>
-  </programme>
-<programme start="20261126142000 -0600" stop="20261126151500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La Baronesa</title>
-  </programme>
-<programme start="20261126151500 -0600" stop="20261126170000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Dale Play</title>
-  </programme>
-<programme start="20261126170000 -0600" stop="20261126180500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias Prime</title>
-  </programme>
-<programme start="20261126180500 -0600" stop="20261126181000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">El tiempo</title>
-  </programme>
-<programme start="20261126181000 -0600" stop="20261126191000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Reunión de superados</title>
-  </programme>
-<programme start="20261126191000 -0600" stop="20261126200000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Prohibida obsesión</title>
-  </programme>
-<programme start="20261126200000 -0600" stop="20261126213000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">¿Volverías con tu ex?</title>
-  </programme>
-<programme start="20261126213000 -0600" stop="20261126221500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La hora de jugar</title>
-  </programme>
-<programme start="20261126221500 -0600" stop="20261127000000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Dale Play</title>
-  </programme>
-<programme start="20261127000000 -0600" stop="20261127010000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Reunión de superados</title>
-  </programme>
-<programme start="20261127010000 -0600" stop="20261127024500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias</title>
-  </programme>
-<programme start="20261127024500 -0600" stop="20261127050000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias amanece</title>
-  </programme>
-<programme start="20261127050000 -0600" stop="20261127100000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Mucho gusto</title>
-  </programme>
-<programme start="20261127100000 -0600" stop="20261127115500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Meganoticias Alerta</title>
-  </programme>
-<programme start="20261127115500 -0600" stop="20261127120000 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">El tiempo</title>
-  </programme>
-<programme start="20261127120000 -0600" stop="20261127124500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">La hora de jugar</title>
-  </programme>
-<programme start="20261127124500 -0600" stop="20261127134500 -0600" channel="Canal.Mega.(Chile).sv">
-    <title lang="es">Carmen Gloria Fuerte y claro</title>
-  </programme>
 <programme start="20261125050000 -0600" stop="20261125090000 -0600" channel="Canal.NickMusic.sv">
     <title lang="es">Canal no disponible</title>
   </programme>
@@ -16227,31 +15964,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127170000 -0600" channel="Canal.NickMusic.sv">
     <title lang="es">Canal no disponible</title>
-  </programme>
-<programme start="20261125070000 -0600" stop="20261125072000 -0600" channel="Canal.Nickelodeon.(México).sv">
-    <title lang="es">The Loud House</title>
-    <desc lang="es">¿Alguna vez te has preguntado cómo es crecer en una gran familia? Lincoln Loud, de 11 años, ofrece a los espectadores una mirada interna sobre cómo sobrevivir al caos de una gran familia, ¡especialmente como el único niño con diez hermanas!</desc>
-    <credits>
-      <director>Chris Savino</director>
-      <director>Kyle Marshall</director>
-      <writer>Chris Savino</writer>
-      <producer>Karen Malach</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
   </programme>
 <programme start="20261125072000 -0600" stop="20261125074500 -0600" channel="Canal.Nickelodeon.(México).sv">
     <title lang="es">The Loud House</title>
@@ -17983,6 +17695,31 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127132000 -0600" channel="Canal.Nickelodeon.(México).sv">
     <title lang="es">That Girl Lay Lay</title>
   </programme>
+<programme start="20261127132000 -0600" stop="20261127134500 -0600" channel="Canal.Nickelodeon.(México).sv">
+    <title lang="es">The Loud House</title>
+    <desc lang="es">¿Alguna vez te has preguntado cómo es crecer en una gran familia? Lincoln Loud, de 11 años, ofrece a los espectadores una mirada interna sobre cómo sobrevivir al caos de una gran familia, ¡especialmente como el único niño con diez hermanas!</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Corto</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
 <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="Canal.RCN.Novelas.sv">
     <title lang="es">Francisco, el matemático</title>
   </programme>
@@ -18713,255 +18450,6 @@ En Vivo</title>
     <star-rating system="MX">
       <value>7.0</value>
     </star-rating>
-  </programme>
-<programme start="20261125050000 -0600" stop="20261125080000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-<programme start="20261125080000 -0600" stop="20261125100000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261125100000 -0600" stop="20261125120000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 Tarde</title>
-  </programme>
-<programme start="20261125120000 -0600" stop="20261125130000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Mama por siempre</title>
-  </programme>
-<programme start="20261125130000 -0600" stop="20261125150000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261125150000 -0600" stop="20261125153000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20261125153000 -0600" stop="20261125160000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20261125160000 -0600" stop="20261125170000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261125170000 -0600" stop="20261125180000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Aquelarre</title>
-  </programme>
-<programme start="20261125180000 -0600" stop="20261125194000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 Horas Central</title>
-  </programme>
-<programme start="20261125194000 -0600" stop="20261125204500 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261125204500 -0600" stop="20261125223000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Mama por siempre</title>
-  </programme>
-<programme start="20261125223000 -0600" stop="20261126000000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261126000000 -0600" stop="20261126010000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Aquelarre</title>
-  </programme>
-<programme start="20261126010000 -0600" stop="20261126013000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 noche</title>
-  </programme>
-<programme start="20261126013000 -0600" stop="20261126023000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Mama por siempre</title>
-  </programme>
-<programme start="20261126023000 -0600" stop="20261126030000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Frutos del País</title>
-  </programme>
-<programme start="20261126030000 -0600" stop="20261126050000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 AM</title>
-  </programme>
-<programme start="20261126050000 -0600" stop="20261126080000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-<programme start="20261126080000 -0600" stop="20261126100000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261126100000 -0600" stop="20261126120000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 Tarde</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Lleve de lo bueno</title>
-  </programme>
-<programme start="20261126130000 -0600" stop="20261126150000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261126150000 -0600" stop="20261126153000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20261126153000 -0600" stop="20261126160000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20261126160000 -0600" stop="20261126170000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261126170000 -0600" stop="20261126180000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Aquelarre</title>
-  </programme>
-<programme start="20261126180000 -0600" stop="20261126194000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 Horas Central</title>
-  </programme>
-<programme start="20261126194000 -0600" stop="20261126204500 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261126204500 -0600" stop="20261126223000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Lleve de lo bueno</title>
-  </programme>
-<programme start="20261126223000 -0600" stop="20261127000000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261127000000 -0600" stop="20261127010000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Aquelarre</title>
-  </programme>
-<programme start="20261127010000 -0600" stop="20261127020000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 noche</title>
-  </programme>
-<programme start="20261127020000 -0600" stop="20261127030000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Lleve de lo bueno</title>
-  </programme>
-<programme start="20261127030000 -0600" stop="20261127050000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 AM</title>
-  </programme>
-<programme start="20261127050000 -0600" stop="20261127080000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-<programme start="20261127080000 -0600" stop="20261127100000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261127100000 -0600" stop="20261127120000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">24 Tarde</title>
-  </programme>
-<programme start="20261127120000 -0600" stop="20261127130000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">Retro</title>
-  </programme>
-<programme start="20261127130000 -0600" stop="20261127153000 -0600" channel="Canal.TV.Chile.sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261125050000 -0600" stop="20261125080000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-<programme start="20261125080000 -0600" stop="20261125100000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261125100000 -0600" stop="20261125120000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 Horas al Día</title>
-  </programme>
-<programme start="20261125120000 -0600" stop="20261125130000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261125130000 -0600" stop="20261125134500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Sucupira</title>
-  </programme>
-<programme start="20261125134500 -0600" stop="20261125145500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">La promesa</title>
-  </programme>
-<programme start="20261125145500 -0600" stop="20261125160000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-<programme start="20261125160000 -0600" stop="20261125180000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">¡Ahora caigo!</title>
-  </programme>
-<programme start="20261125180000 -0600" stop="20261125193500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 Horas Central</title>
-  </programme>
-<programme start="20261125193500 -0600" stop="20261125194000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">TV Tiempo</title>
-  </programme>
-<programme start="20261125194000 -0600" stop="20261125214500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">MasterChef Chile</title>
-  </programme>
-<programme start="20261125214500 -0600" stop="20261125224500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">¿Dónde está mi hija?</title>
-  </programme>
-<programme start="20261125224500 -0600" stop="20261125233000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 horas al cierre</title>
-  </programme>
-<programme start="20261125233000 -0600" stop="20261125234500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">TV Tiempo Final</title>
-  </programme>
-<programme start="20261125234500 -0600" stop="20261126001500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261126001500 -0600" stop="20261126020000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261126020000 -0600" stop="20261126023000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Hora 24</title>
-  </programme>
-<programme start="20261126023000 -0600" stop="20261126030000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Previa 24</title>
-  </programme>
-<programme start="20261126030000 -0600" stop="20261126050000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 horas tu mañana</title>
-  </programme>
-<programme start="20261126050000 -0600" stop="20261126080000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-<programme start="20261126080000 -0600" stop="20261126100000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261126100000 -0600" stop="20261126120000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 horas al día</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261126130000 -0600" stop="20261126134500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Sucupira</title>
-  </programme>
-<programme start="20261126134500 -0600" stop="20261126145500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">La promesa</title>
-  </programme>
-<programme start="20261126145500 -0600" stop="20261126160000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-<programme start="20261126160000 -0600" stop="20261126180000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">¡Ahora caigo!</title>
-  </programme>
-<programme start="20261126180000 -0600" stop="20261126193500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 Horas Central</title>
-  </programme>
-<programme start="20261126193500 -0600" stop="20261126194000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">TV tiempo</title>
-  </programme>
-<programme start="20261126194000 -0600" stop="20261126214500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">MasterChef Chile</title>
-  </programme>
-<programme start="20261126214500 -0600" stop="20261126224500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">¿Dónde está mi hija?</title>
-  </programme>
-<programme start="20261126224500 -0600" stop="20261126233000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 horas al cierre</title>
-  </programme>
-<programme start="20261126233000 -0600" stop="20261126234500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">TV tiempo final</title>
-  </programme>
-<programme start="20261126234500 -0600" stop="20261127001500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261127001500 -0600" stop="20261127020000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261127020000 -0600" stop="20261127023000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Hora 24</title>
-  </programme>
-<programme start="20261127023000 -0600" stop="20261127030000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Previa 24</title>
-  </programme>
-<programme start="20261127030000 -0600" stop="20261127050000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 horas tu mañana</title>
-  </programme>
-<programme start="20261127050000 -0600" stop="20261127080000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-<programme start="20261127080000 -0600" stop="20261127100000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">El Medio Día</title>
-  </programme>
-<programme start="20261127100000 -0600" stop="20261127120000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">24 Horas al Día</title>
-  </programme>
-<programme start="20261127120000 -0600" stop="20261127130000 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Pampa Ilusión</title>
-  </programme>
-<programme start="20261127130000 -0600" stop="20261127134500 -0600" channel="Canal.TVN.(Chile).sv">
-    <title lang="es">Sucupira</title>
   </programme>
 <programme start="20261125063000 -0600" stop="20261125083000 -0600" channel="Canal.Teleamazonas.sv">
     <title lang="es">Copa Mundial Sub-17 de la FIFA Catar 2026</title>
@@ -20285,9 +19773,6 @@ En Vivo</title>
 <programme start="20261127125500 -0600" stop="20261127135000 -0600" channel="Canal.Telehit.Música.sv">
     <title lang="es">Reggaetown</title>
   </programme>
-<programme start="20261125062500 -0600" stop="20261125072000 -0600" channel="Canal.Telehit.sv">
-    <title lang="es">Double play</title>
-  </programme>
 <programme start="20261125072000 -0600" stop="20261125081500 -0600" channel="Canal.Telehit.sv">
     <title lang="es">Horoscopía</title>
   </programme>
@@ -20504,6 +19989,9 @@ En Vivo</title>
 <programme start="20261127122500 -0600" stop="20261127132000 -0600" channel="Canal.Telehit.sv">
     <title lang="es">Double play</title>
   </programme>
+<programme start="20261127132000 -0600" stop="20261127141500 -0600" channel="Canal.Telehit.sv">
+    <title lang="es">Rocool-A</title>
+  </programme>
 <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
   </programme>
@@ -20668,366 +20156,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127140000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
-  </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Aliadas Mujeres que construyen paz</title>
-  </programme>
-<programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261125080000 -0600" stop="20261125083000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Animalis Relatos salvajes</title>
-  </programme>
-<programme start="20261125083000 -0600" stop="20261125090000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Inolvidable</title>
-  </programme>
-<programme start="20261125090000 -0600" stop="20261125100000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261125100000 -0600" stop="20261125103000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Fecha de expiración</title>
-  </programme>
-<programme start="20261125103000 -0600" stop="20261125110100 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">La abuela y el chef</title>
-  </programme>
-<programme start="20261125110100 -0600" stop="20261125110200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Minuto étnico</title>
-  </programme>
-<programme start="20261125110200 -0600" stop="20261125113000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de Deseos</title>
-  </programme>
-<programme start="20261125113000 -0600" stop="20261125113200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Boletín del consumidor</title>
-  </programme>
-<programme start="20261125113200 -0600" stop="20261125115000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de deseos</title>
-  </programme>
-<programme start="20261125115000 -0600" stop="20261125115700 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Cuentos Verdes</title>
-  </programme>
-<programme start="20261125115700 -0600" stop="20261125120000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Chontico</title>
-  </programme>
-<programme start="20261125120000 -0600" stop="20261125123000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Noticiero 90 Minutos</title>
-  </programme>
-<programme start="20261125123000 -0600" stop="20261125124000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Informativo de la gobernación El valle está en vos</title>
-  </programme>
-<programme start="20261125124000 -0600" stop="20261125144000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tardes del sol</title>
-  </programme>
-<programme start="20261125144000 -0600" stop="20261125151000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Animalis Relatos salvajes</title>
-  </programme>
-<programme start="20261125151000 -0600" stop="20261125154000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Mujeres a primera vista</title>
-  </programme>
-<programme start="20261125154000 -0600" stop="20261125160000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Regiones sin límites</title>
-  </programme>
-<programme start="20261125160000 -0600" stop="20261125165500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">¡Venga le digo!</title>
-  </programme>
-<programme start="20261125165500 -0600" stop="20261125170000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Himnos Nacional y Valle del Cauca</title>
-  </programme>
-<programme start="20261125170000 -0600" stop="20261125175700 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">En la nube</title>
-  </programme>
-<programme start="20261125175700 -0600" stop="20261125180000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Chontico</title>
-  </programme>
-<programme start="20261125180000 -0600" stop="20261125180200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Partido político</title>
-  </programme>
-<programme start="20261125180200 -0600" stop="20261125183000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El bochinche</title>
-  </programme>
-<programme start="20261125183000 -0600" stop="20261125190000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Informativo CVC</title>
-  </programme>
-<programme start="20261125190000 -0600" stop="20261125190500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Cuentos Verdes</title>
-  </programme>
-<programme start="20261125190500 -0600" stop="20261125200000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Telepacífico Noticias</title>
-  </programme>
-<programme start="20261125200000 -0600" stop="20261125201000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Informativo de la gobernación El valle está en vos</title>
-  </programme>
-<programme start="20261125201000 -0600" stop="20261125201500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Conexión saludable</title>
-  </programme>
-<programme start="20261125201500 -0600" stop="20261125210000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Zona mixta</title>
-  </programme>
-<programme start="20261125210000 -0600" stop="20261125210200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Boletín del consumidor</title>
-  </programme>
-<programme start="20261125210200 -0600" stop="20261125211500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Zona mixta</title>
-  </programme>
-<programme start="20261125211500 -0600" stop="20261125213000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Anónimas extraordinarias</title>
-  </programme>
-<programme start="20261125213000 -0600" stop="20261125213500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Lotería del Valle</title>
-  </programme>
-<programme start="20261125213500 -0600" stop="20261125214500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Anónimas extraordinarias</title>
-  </programme>
-<programme start="20261125214500 -0600" stop="20261125224500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de Deseos</title>
-  </programme>
-<programme start="20261125224500 -0600" stop="20261125230000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Regiones sin límites</title>
-  </programme>
-<programme start="20261125230000 -0600" stop="20261126000000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261126000000 -0600" stop="20261126003000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261126003000 -0600" stop="20261126010000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Fecha de expiración</title>
-  </programme>
-<programme start="20261126010000 -0600" stop="20261126013000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El bochinche</title>
-  </programme>
-<programme start="20261126013000 -0600" stop="20261126020000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Mujeres a primera vista</title>
-  </programme>
-<programme start="20261126020000 -0600" stop="20261126030000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261126030000 -0600" stop="20261126033000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261126033000 -0600" stop="20261126040000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Fecha de expiración</title>
-  </programme>
-<programme start="20261126040000 -0600" stop="20261126043000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El bochinche</title>
-  </programme>
-<programme start="20261126043000 -0600" stop="20261126050000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Mujeres a primera vista</title>
-  </programme>
-<programme start="20261126050000 -0600" stop="20261126053000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-<programme start="20261126053000 -0600" stop="20261126063000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Telepacífico Noticias</title>
-  </programme>
-<programme start="20261126063000 -0600" stop="20261126064500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">En órbita</title>
-  </programme>
-<programme start="20261126064500 -0600" stop="20261126070000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Cultura en movimiento</title>
-  </programme>
-<programme start="20261126070000 -0600" stop="20261126073000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Aliadas Mujeres que construyen paz</title>
-  </programme>
-<programme start="20261126073000 -0600" stop="20261126080000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261126080000 -0600" stop="20261126083000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Animalis Relatos salvajes</title>
-  </programme>
-<programme start="20261126083000 -0600" stop="20261126090000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Inolvidable</title>
-  </programme>
-<programme start="20261126090000 -0600" stop="20261126100000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261126100000 -0600" stop="20261126103000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Fecha de expiración</title>
-  </programme>
-<programme start="20261126103000 -0600" stop="20261126110100 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">La abuela y el chef</title>
-  </programme>
-<programme start="20261126110100 -0600" stop="20261126110200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Minuto étnico</title>
-  </programme>
-<programme start="20261126110200 -0600" stop="20261126113000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de deseos</title>
-  </programme>
-<programme start="20261126113000 -0600" stop="20261126113200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Boletín del consumidor</title>
-  </programme>
-<programme start="20261126113200 -0600" stop="20261126115000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de Deseos</title>
-  </programme>
-<programme start="20261126115000 -0600" stop="20261126115700 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Cuentos Verdes</title>
-  </programme>
-<programme start="20261126115700 -0600" stop="20261126120000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Chontico</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126123000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Noticiero 90 minutos</title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126124000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Informativo de la gobernación El valle está en vos</title>
-  </programme>
-<programme start="20261126124000 -0600" stop="20261126144000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tardes del Sol</title>
-  </programme>
-<programme start="20261126144000 -0600" stop="20261126151000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Animalis Relatos salvajes</title>
-  </programme>
-<programme start="20261126151000 -0600" stop="20261126154000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Mujeres a primera vista</title>
-  </programme>
-<programme start="20261126154000 -0600" stop="20261126160000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Regiones sin límites</title>
-  </programme>
-<programme start="20261126160000 -0600" stop="20261126165500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">¡Venga le digo!</title>
-  </programme>
-<programme start="20261126165500 -0600" stop="20261126170000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Himnos nacional y valle del cauca</title>
-  </programme>
-<programme start="20261126170000 -0600" stop="20261126175700 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">En la nube</title>
-  </programme>
-<programme start="20261126175700 -0600" stop="20261126180000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Chontico</title>
-  </programme>
-<programme start="20261126180000 -0600" stop="20261126180200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Partido político</title>
-  </programme>
-<programme start="20261126180200 -0600" stop="20261126183000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El bochinche</title>
-  </programme>
-<programme start="20261126183000 -0600" stop="20261126190000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Unicamacho 360</title>
-  </programme>
-<programme start="20261126190000 -0600" stop="20261126190500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Cuentos Verdes</title>
-  </programme>
-<programme start="20261126190500 -0600" stop="20261126200000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Telepacífico Noticias</title>
-  </programme>
-<programme start="20261126200000 -0600" stop="20261126201000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Informativo de la gobernación El valle está en vos</title>
-  </programme>
-<programme start="20261126201000 -0600" stop="20261126201500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Conexión saludable</title>
-  </programme>
-<programme start="20261126201500 -0600" stop="20261126202700 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Zona mixta</title>
-  </programme>
-<programme start="20261126202700 -0600" stop="20261126203000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Súper Chontico</title>
-  </programme>
-<programme start="20261126203000 -0600" stop="20261126210000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Zona mixta</title>
-  </programme>
-<programme start="20261126210000 -0600" stop="20261126210200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Boletín del consumidor</title>
-  </programme>
-<programme start="20261126210200 -0600" stop="20261126211500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Zona mixta</title>
-  </programme>
-<programme start="20261126211500 -0600" stop="20261126214500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Anónimas extraordinarias</title>
-  </programme>
-<programme start="20261126214500 -0600" stop="20261126224500 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de deseos</title>
-  </programme>
-<programme start="20261126224500 -0600" stop="20261126230000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Regiones sin límites</title>
-  </programme>
-<programme start="20261126230000 -0600" stop="20261127000000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261127000000 -0600" stop="20261127003000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261127003000 -0600" stop="20261127010000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Nos hicieron buscadoras</title>
-  </programme>
-<programme start="20261127010000 -0600" stop="20261127013000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El bochinche</title>
-  </programme>
-<programme start="20261127013000 -0600" stop="20261127020000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Mujeres a primera vista</title>
-  </programme>
-<programme start="20261127020000 -0600" stop="20261127030000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261127030000 -0600" stop="20261127033000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261127033000 -0600" stop="20261127040000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Nos hicieron buscadoras</title>
-  </programme>
-<programme start="20261127040000 -0600" stop="20261127043000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El bochinche</title>
-  </programme>
-<programme start="20261127043000 -0600" stop="20261127050000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Mujeres a primera vista</title>
-  </programme>
-<programme start="20261127050000 -0600" stop="20261127053000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-<programme start="20261127053000 -0600" stop="20261127063000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Telepacífico Noticias</title>
-  </programme>
-<programme start="20261127063000 -0600" stop="20261127070000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">NCC Edición salud</title>
-  </programme>
-<programme start="20261127070000 -0600" stop="20261127070200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Camino del pacífico</title>
-  </programme>
-<programme start="20261127070200 -0600" stop="20261127073000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Aliadas Mujeres que construyen paz</title>
-  </programme>
-<programme start="20261127073000 -0600" stop="20261127080000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">El fogón</title>
-  </programme>
-<programme start="20261127080000 -0600" stop="20261127083000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Hipopótamos La herencia de Escobar</title>
-  </programme>
-<programme start="20261127083000 -0600" stop="20261127090000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Inolvidable</title>
-  </programme>
-<programme start="20261127090000 -0600" stop="20261127100000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Asunto de familia</title>
-  </programme>
-<programme start="20261127100000 -0600" stop="20261127103000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Nos hicieron buscadoras</title>
-  </programme>
-<programme start="20261127103000 -0600" stop="20261127110100 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">La abuela y el chef</title>
-  </programme>
-<programme start="20261127110100 -0600" stop="20261127110200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Minuto étnico</title>
-  </programme>
-<programme start="20261127110200 -0600" stop="20261127113000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de Deseos</title>
-  </programme>
-<programme start="20261127113000 -0600" stop="20261127113200 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Boletín del consumidor</title>
-  </programme>
-<programme start="20261127113200 -0600" stop="20261127115000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tierra de deseos</title>
-  </programme>
-<programme start="20261127115000 -0600" stop="20261127115700 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Cuentos Verdes</title>
-  </programme>
-<programme start="20261127115700 -0600" stop="20261127120000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Chontico</title>
-  </programme>
-<programme start="20261127120000 -0600" stop="20261127123000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Noticiero 90 Minutos</title>
-  </programme>
-<programme start="20261127123000 -0600" stop="20261127124000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Informativo de la gobernación El valle está en vos</title>
-  </programme>
-<programme start="20261127124000 -0600" stop="20261127144000 -0600" channel="Canal.Telepacífico.sv">
-    <title lang="es">Tardes del sol</title>
   </programme>
 <programme start="20261125071400 -0600" stop="20261125072100 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Sheep en la Gran Ciudad</title>
@@ -22716,6 +21844,9 @@ En Vivo</title>
     <title lang="es">Los autos locos</title>
   </programme>
 <programme start="20261127130800 -0600" stop="20261127132000 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Los autos locos</title>
+  </programme>
+<programme start="20261127132000 -0600" stop="20261127133000 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Los autos locos</title>
   </programme>
 <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="Canal.Universo.sv">
