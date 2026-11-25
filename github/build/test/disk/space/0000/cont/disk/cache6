@@ -496,40 +496,11 @@ https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="Canal.Retro.Plus.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="General",Retro Plus TV Chile OP3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="Canal.PRIDEtv.Latam.sv" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="General",PRIDEtv Latam Chile
-https://cl-2.backend.energeek.cl/bkp/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Turbo.Mix.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="General",Turbo Mix TV Perú
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Nativa.sv" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png" group-title="General",Nativa Perú
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Autentica.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="General",Autentica TV Perú
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.8.Catacaos.sv" tvg-logo="https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png" group-title="General",Canal 8 Catacaos Perú
-https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.CR.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="General",CR TV Perú
-https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Cultura.24.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/696_Cultura_24_TV.png" group-title="General",Cultura 24 TV Perú
-https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="Canal.Exitosa.sv" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.png" group-title="General",Exitosa Perú
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal.Foro.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1659_Foro_TV.png" group-title="General",Foro TV Perú
 https://mc.servidor.stream:19360/8274/8274.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Impacto.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1740_Impacto_TV.png" group-title="General",Impacto TV Perú
-https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.JN19.sv" tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png" group-title="General",JN19 Perú
-https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="Canal.Latina.sv" tvg-logo="https://cdn.m3u.cl/logo/1741_Latina_Clasicos.png" group-title="General",Latina Perú OP2
@@ -538,160 +509,8 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-id="Canal.Latina.sv" tvg-logo="https://cdn.m3u.cl/logo/1741_Latina_Clasicos.png" group-title="General",Latina Perú OP3
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal.Mega.TV.Jaen.sv" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png" group-title="General",Mega TV Jaen Perú
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.OK.TeVe.sv" tvg-logo="https://cdn.m3u.cl/logo/1095_OK_TeVe.png" group-title="General",OK TeVe Perú
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Palmeras.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1290_Palmeras_TV.png" group-title="General",Palmeras TV Perú
-https://play.agenciastreaming.com:8081/palmerastv/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.San.Pedro.SAT.sv" tvg-logo="https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png" group-title="General",San Pedro SAT Perú
-https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Tele.Selva.sv" tvg-logo="https://cdn.m3u.cl/logo/1546_Tele_Selva.png" group-title="General",Tele Selva Perú
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Telecolor.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1189_Telecolor_TV.png" group-title="General",Telecolor TV Perú
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.TV.en.linea.Cusco.sv" tvg-logo="https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png" group-title="General",TV en linea Cusco Perú
-https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.TVperuanisima.sv" tvg-logo="https://cdn.m3u.cl/logo/686_TVperuanisima.png" group-title="General",TVperuanisima Perú
-https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Uranio.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1094_Uranio_TV.png" group-title="General",Uranio TV Perú
-https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Via.Alto.Mayo.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png" group-title="General",Via Alto Mayo TV Perú
-https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Via.Television.Tarapoto.sv" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png" group-title="General",Via Television Tarapoto Perú
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Emanuel7.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1555_Emanuel7_TV.png" group-title="General",Emanuel7 TV Perú
-https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Ecuavisa Ecuador
-https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="General",Ecuavisa Ecuador OP2
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Oromar.sv" tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="General",Oromar Ecuador
-https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.TV.Puruwa.sv" tvg-logo="https://cdn.m3u.cl/logo/110_TV_Puruwa.png" group-title="General",TV Puruwa Ecuador
-https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Cali.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.png" group-title="General",Cali TV Colombia
-https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.Suram.sv" tvg-logo="https://cdn.m3u.cl/logo/129_Suram.png" group-title="General",Suram Colombia
-https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Telepacífico.sv" tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png" group-title="General",Telepacífico Colombia
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Tele.Familia.sv" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="General",Tele Familia Colombia
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Oasis.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/862_Oasis_TV.png" group-title="General",Oasis TV Colombia
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Qultura.sv" tvg-logo="https://cdn.m3u.cl/logo/1771_Qultura.png" group-title="General",Qultura Chile
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.VClassicTV.sv" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="General",VClassicTV Chile
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.EnerGeek.FAN.sv" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="General",EnerGeek FAN Chile
-https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.EnerGeek.sv" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="General",EnerGeek Chile
-https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Opinionsur.Cine.sv" tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png" group-title="General",Opinionsur Cine Chile
-https://mediagruptv.stream:8081/opinionsur/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.Central.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="General",Central TV Chile
-https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.CRTV.sv" tvg-logo="https://cdn.m3u.cl/logo/1098_CRTV.png" group-title="General",CRTV Chile
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.ShowtimeTV.sv" tvg-logo="https://cdn.m3u.cl/logo/1796_ShowtimeTV.png" group-title="General",ShowtimeTV Chile
-https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.TV.Valdivia.sv" tvg-logo="https://cdn.m3u.cl/logo/1793_TV_Valdivia.png" group-title="General",TV Valdivia Chile
-https://5eaccbab48461.streamlock.net:1936/8206/8206/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Pirque.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1792_Pirque_TV.png" group-title="General",Pirque TV Chile
-https://eu1.servers10.com:8081/laureltv/index.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-id="Canal.China.Channel.sv" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png" group-title="General",China Channel Chile
-https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Coyhaique.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png" group-title="General",Coyhaique TV Chile
-https://v2.tustreaming.cl/coyhaiquetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.WappTV.sv" tvg-logo="https://cdn.m3u.cl/logo/1767_WappTV.png" group-title="General",WappTV Chile
-https://stream.wapptv.cl/video/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Grupo.Libra.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1764_Grupo_Libra_TV.png" group-title="General",Grupo Libra TV Chile
-https://v2.tustreaming.cl/libratv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.SoloTV.sv" tvg-logo="https://cdn.m3u.cl/logo/1762_SoloTV.png" group-title="General",SoloTV Chile
-https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Docevision.sv" tvg-logo="https://cdn.m3u.cl/logo/1759_Docevision.png" group-title="General",Docevision Chile
-https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Pudahuel.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png" group-title="General",Pudahuel TV Chile
-https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.EPA!.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png" group-title="General",EPA! TV Chile
-https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Canal.TV.Chile.sv" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="General",TV+ Chile
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.TVN.(Chile).sv" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="General",TVN Chile
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.TVN3.sv" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="General",TVN3 Chile
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Mega.(Chile).sv" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="General",Mega Chile
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
 #EXTINF:-1 tvg-id="Canal.PinguinoTV.sv" tvg-logo="https://cdn.m3u.cl/logo/373_PinguinoTV.png" group-title="General",PinguinoTV Chile
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.CTV35.sv" tvg-logo="https://cdn.m3u.cl/logo/1608_CTV35.png" group-title="General",CTV35 Chile
-https://paneltv.stream:19360/ctv35/ctv35.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Sensacion.Costa.sv" tvg-logo="https://cdn.m3u.cl/logo/849_Sensacion_Costa.png" group-title="General",Sensacion Costa Chile
-https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.TV.vconline.cl.sv" tvg-logo="https://cdn.m3u.cl/logo/34_TV_vconline_cl.png" group-title="General",TV vconline.cl Chile
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal.Milodon.TV.sv" tvg-logo="https://cdn.m3u.cl/logo/1407_Milodon_TV.png" group-title="General",Milodon TV Chile
-https://video3.servidordevideo.net:3585/live/upbsfzhdlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal.Ritmo.Top.Latino.sv" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png" group-title="General",Ritmo Top Latino Chile
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?PlaylistM3UCL
