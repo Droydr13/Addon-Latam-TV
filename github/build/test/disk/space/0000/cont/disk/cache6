@@ -8,6 +8,8 @@
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="Canal Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="Mundo",Azteca Uno
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/2ac20722-fa2a-4863-92cf-98e1b551a231:MRN2/variant/19674ddfeebe0edfb92343bd028eefc7/bandwidth/1623600.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=2ac20722-fa2a-4863-92cf-98e1b551a231%3AMRN2&pid=FHT8USlszgjBh3DuXuI8lBGZDt8PPGxO&sid=gxNGrYqTrlxFgkD4FfnAVNy4lq2sNCFC&uid=V9GXZVoAgCqOIxC5fRMqg86DfUWMyPbh&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1795720319719&ot=-foMIIaBQAjUdr6-Txjc4w&proto=https&pz=us&access_token=Mfwg1K7hcNnGi5fIC5w6vjDgV1pOgYBirdyo0Np90DS1bFIB3HYjDsEdaF4eqYPMZe7Iql3bzBc
 
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="Canal Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="Mundo",Azteca Uno OP2
+https://list.iptvcat.net/my_list/s/909939239b8ad1ae7aa118cbd6f65755.m3u8
 
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="Mundo",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -135,6 +137,10 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo",Azteca 7 OP4
 http://187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Azteca.7.mx" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" tvg-country="MX" group-title="Mundo",Azteca 7 OP5
+https://list.iptvcat.net/my_list/s/e28f7b6888ea0ea62bd7267a8febf342.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/ao2zws.png" group-title="24/7",Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
