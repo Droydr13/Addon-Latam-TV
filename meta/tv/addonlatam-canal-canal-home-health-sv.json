@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-home-health-sv",
     "type": "tv",
     "name": "Home & Health",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-home-health-sv.png?v=f73b0203",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-home-health-sv.png?v=f73b0203",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f73b0203",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-home-health-sv.png?v=45a8d303",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-home-health-sv.png?v=45a8d303",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=45a8d303",
     "posterShape": "landscape",
     "genres": [
       "Documentales"
