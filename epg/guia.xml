@@ -1673,9 +1673,6 @@ En Vivo</title>
 <programme start="20261127123000 -0600" stop="20261127141500 -0600" channel="Canal.Distrito.Comedia.mx">
     <title lang="es">¿Tú crees? T.4 (inicia)</title>
   </programme>
-<programme start="20261125065000 -0600" stop="20261125074000 -0600" channel="Canal.TLNovelas.(México).mx">
-    <title lang="es">Amar a Muerte</title>
-  </programme>
 <programme start="20261125074000 -0600" stop="20261125092000 -0600" channel="Canal.TLNovelas.(México).mx">
     <title lang="es">Enamorándome de Ramón</title>
   </programme>
@@ -4130,10 +4127,6 @@ En Vivo</title>
     <title lang="es">Inventos de la antigüeda</title>
     <episode-num system="onscreen">S4 E35</episode-num>
   </programme>
-<programme start="20261125064800 -0600" stop="20261125073600 -0600" channel="Canal.Discovery.Channel.(México).mx">
-    <title lang="es">A prueba de todo</title>
-    <episode-num system="onscreen">S6 E9</episode-num>
-  </programme>
 <programme start="20261125073600 -0600" stop="20261125091100 -0600" channel="Canal.Discovery.Channel.(México).mx">
     <title lang="es">Hombres del Ártico</title>
     <episode-num system="onscreen">S1 E9</episode-num>
@@ -4397,10 +4390,6 @@ En Vivo</title>
 <programme start="20261127123100 -0600" stop="20261127141000 -0600" channel="Canal.Discovery.Channel.(México).mx">
     <title lang="es">Supervivencia al desnudo el</title>
     <episode-num system="onscreen">E10</episode-num>
-  </programme>
-<programme start="20261125064800 -0600" stop="20261125073600 -0600" channel="Canal.Animal.Planet.(México).mx">
-    <title lang="es">Guaridas con estilo</title>
-    <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
 <programme start="20261125073600 -0600" stop="20261125082400 -0600" channel="Canal.Animal.Planet.(México).mx">
     <title lang="es">Los Irwin</title>
@@ -5491,6 +5480,9 @@ En Vivo</title>
     <star-rating system="MX">
       <value>8.0</value>
     </star-rating>
+  </programme>
+<programme start="20261127133600 -0600" stop="20261127160200 -0600" channel="Canal.HBO.2.Latinoamérica.mx">
+    <title lang="es">Wicked Por siempre</title>
   </programme>
 <programme start="20261125071900 -0600" stop="20261125084700 -0600" channel="Canal.HBO.Family.Latinoamérica.mx">
     <title lang="es">El Grinch</title>
@@ -8649,6 +8641,9 @@ En Vivo</title>
 <programme start="20261127132000 -0600" stop="20261127134000 -0600" channel="Canal.Comedy.Central.(México).mx">
     <title lang="es">Un Hombre, Un Plan</title>
   </programme>
+<programme start="20261127134000 -0600" stop="20261127140500 -0600" channel="Canal.Comedy.Central.(México).mx">
+    <title lang="es">The Exes</title>
+  </programme>
 <programme start="20261125070000 -0600" stop="20261125090000 -0600" channel="ESPN.3.mx">
     <title lang="es">Get Up!</title>
   </programme>
@@ -11132,6 +11127,9 @@ En Vivo</title>
   </programme>
 <programme start="20261127115500 -0600" stop="20261127134000 -0600" channel="Canal.DHE.sv">
     <title lang="es">El tipo perfecto</title>
+  </programme>
+<programme start="20261127134000 -0600" stop="20261127154000 -0600" channel="Canal.DHE.sv">
+    <title lang="es">Una Noche en Miami</title>
   </programme>
 <programme start="20261125072400 -0600" stop="20261125081200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).sv">
     <title lang="es">Leyendas perdidas con Megan Fox</title>
@@ -14142,9 +14140,6 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127140000 -0600" channel="Canal.Gamavisión.sv">
     <title lang="es">Tv Médica</title>
   </programme>
-<programme start="20261125060000 -0600" stop="20261125074000 -0600" channel="Canal.HBO.Mundi.sv">
-    <title lang="es">Jane Austen arruinó mi vida</title>
-  </programme>
 <programme start="20261125074000 -0600" stop="20261125092000 -0600" channel="Canal.HBO.Mundi.sv">
     <title lang="es">¡Ay, hola!</title>
   </programme>
@@ -14852,9 +14847,6 @@ En Vivo</title>
 <programme start="20261127130500 -0600" stop="20261127141000 -0600" channel="Canal.HBO.Signature.Latinoamérica.sv">
     <title lang="es">The White Lotus</title>
     <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-<programme start="20261125052000 -0600" stop="20261125073800 -0600" channel="Canal.HBO.Xtreme.sv">
-    <title lang="es">Corazón de caballero</title>
   </programme>
 <programme start="20261125073800 -0600" stop="20261125093700 -0600" channel="Canal.HBO.Xtreme.sv">
     <title lang="es">La legión del águila</title>
@@ -19055,6 +19047,13 @@ En Vivo</title>
     <title lang="es">Sorteo</title>
     <sub-title lang="es">El Sinuano</sub-title>
   </programme>
+<programme start="20261127133300 -0600" stop="20261127133600 -0600" channel="Canal.Telecaribe.sv">
+    <title lang="es">Sorteo</title>
+    <sub-title lang="es">La Caribeña</sub-title>
+  </programme>
+<programme start="20261127133600 -0600" stop="20261127140000 -0600" channel="Canal.Telecaribe.sv">
+    <title lang="es">Mujer de muchas lunas</title>
+  </programme>
 <programme start="20261125065500 -0600" stop="20261125075000 -0600" channel="Canal.Telehit.Música.sv">
     <title lang="es">Reggaetown</title>
   </programme>
@@ -19630,9 +19629,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127140000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
-  </programme>
-<programme start="20261125072700 -0600" stop="20261125073500 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Sheep en la Gran Ciudad</title>
   </programme>
 <programme start="20261125073500 -0600" stop="20261125074600 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Escuadrón del Tiempo</title>
