@@ -269,8 +269,8 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-<channel id="Canal.Disney.Channel.(México).sv">
-    <display-name lang="es">Canal Disney Channel (México)</display-name>
+<channel id="Canal.Disney.Channel.(Centro).sv">
+    <display-name lang="es">Canal Disney Channel (Centro)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
@@ -6073,9 +6073,6 @@ En Vivo</title>
 <programme start="20261126173000 -0600" stop="20261126190500 -0600" channel="Canal.HBO.Plus.mx">
     <title lang="es">The Damned</title>
   </programme>
-<programme start="20261125051600 -0600" stop="20261125072200 -0600" channel="Canal.Golden.(México).mx">
-    <title lang="es">No manches Frida</title>
-  </programme>
 <programme start="20261125072200 -0600" stop="20261125091500 -0600" channel="Canal.Golden.(México).mx">
     <title lang="es">No Manches Frida 2</title>
     <desc lang="es">¡En esta secuela, la pandilla alborotadora y los maestros abandonan el patio de la escuela y van a la playa! Pero hay un problema en el paraíso… literalmente… Cuando Zequi (Omar Chaparro) está a punto de casarse con el amor su vida, Lucy (Martha Higareda), el día de la boda se transforma en un fiasco y Lucy cancela casarse. Mientras tanto, la escuela se encuentra en graves problemas y la pandilla se dirige al agua para competir en el torneo de sus vidas. Una vez que están todos a la orilla del mar, Lucy se encuentra con su novio de secundaria, Mario (Aarón Díaz), quien, desde la última vez que lo vio, se ha transformado en un ardiente galán. Es el entrenador del equipo contrario y Zequi se encuentra a sí mismo como un rival en más de una competición. Ahora tiene que ganar todos los desafíos para pelearse con sus niños ruidosos, recuperar a Lucy, y en caso de que eso no fuera suficiente ¡evitar que la escuela sea cerrada llevando al Instituto Frida Kahlo a la victoria!</desc>
@@ -6544,6 +6541,36 @@ En Vivo</title>
   </programme>
 <programme start="20261127110400 -0600" stop="20261127132200 -0600" channel="Canal.Golden.Edge.mx">
     <title lang="es">Dobles de acción</title>
+  </programme>
+<programme start="20261127132200 -0600" stop="20261127155700 -0600" channel="Canal.Golden.Edge.mx">
+    <title lang="es">Jurassic World: Dominio</title>
+    <desc lang="es">Una nueva aventura audaz, oportuna e impresionante que se extiende por todo el mundo. Del arquitecto y director de Jurassic World, Jurassic World Dominio, tiene lugar cuatros años después de la destrucción de Isla Nublar. Los dinosaurios ahora viven y cazan junto a los humanos en todo el mundo. Este frágil equilibrio remodelará el futuro y determinará, de una vez por todas, si los seres humanos deben seguir siendo los depredadores máximos en un planeta que ahora comparten con las criaturas más temibles de la historia.</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Chris Pratt</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mamoudou Athie</actor>
+      <actor>Scott Haze</actor>
+      <actor>Dichen Lachman</actor>
+      <producer>Frank Marshall</producer>
+      <producer>Patrick Crowley</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_dominio.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
   </programme>
 <programme start="20261125060000 -0600" stop="20261125074400 -0600" channel="Canal.De.Película.mx">
     <title lang="es">Fuerte, audaz y valiente</title>
@@ -10649,9 +10676,6 @@ En Vivo</title>
       <value>6.0</value>
     </star-rating>
   </programme>
-<programme start="20261125060000 -0600" stop="20261125072500 -0600" channel="Canal.Cinelatino.sv">
-    <title lang="es">Afuera del tiempo</title>
-  </programme>
 <programme start="20261125072500 -0600" stop="20261125092500 -0600" channel="Canal.Cinelatino.sv">
     <title lang="es">Por tu culpa</title>
   </programme>
@@ -11132,11 +11156,6 @@ En Vivo</title>
 <programme start="20261127115500 -0600" stop="20261127134000 -0600" channel="Canal.DHE.sv">
     <title lang="es">El tipo perfecto</title>
   </programme>
-<programme start="20261125063600 -0600" stop="20261125072400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).sv">
-    <title lang="es">Megaconstrucciones</title>
-    <sub-title lang="es">Montaña de acero</sub-title>
-    <episode-num system="onscreen">S6 E12</episode-num>
-  </programme>
 <programme start="20261125072400 -0600" stop="20261125081200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).sv">
     <title lang="es">Leyendas perdidas con Megan Fox</title>
     <sub-title lang="es">La civilización perdida de América</sub-title>
@@ -11472,10 +11491,6 @@ En Vivo</title>
     <title lang="es">Moonshiners</title>
     <sub-title lang="es">Brillo en el cielo</sub-title>
     <episode-num system="onscreen">S7 E2</episode-num>
-  </programme>
-<programme start="20261125063600 -0600" stop="20261125072400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).sv">
-    <title lang="es">Pescadores de langosta</title>
-    <sub-title lang="es">Land of the Giants</sub-title>
   </programme>
 <programme start="20261125072400 -0600" stop="20261125081200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).sv">
     <title lang="es">Supercargas</title>
@@ -11994,10 +12009,6 @@ En Vivo</title>
     <sub-title lang="es">Audi TT</sub-title>
     <episode-num system="onscreen">S11 E10</episode-num>
   </programme>
-<programme start="20261125063600 -0600" stop="20261125072400 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
-    <title lang="es">Casas rodantes increíbles</title>
-    <sub-title lang="es">Foretravel Quad Slide, American Coach y un Airfloat Landyacht de 1957</sub-title>
-  </programme>
 <programme start="20261125072400 -0600" stop="20261125081200 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
     <title lang="es">Pioneros de Polonia</title>
   </programme>
@@ -12292,1050 +12303,331 @@ En Vivo</title>
     <title lang="es">Mi casa en la montaña</title>
     <sub-title lang="es">Cohetes y cabanas</sub-title>
   </programme>
-<programme start="20261125071500 -0600" stop="20261125073000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Mickey Mouse</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-<programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261125080000 -0600" stop="20261125083000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Gravity Falls</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-<programme start="20261125083000 -0600" stop="20261125090000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S5</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261125090000 -0600" stop="20261125093000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Kiff</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-<programme start="20261125093000 -0600" stop="20261125100000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Amphibia</title>
-    <desc lang="es">Anfibilandia narra las aventuras cómicas de Anne Boonchuy, de 13 años, quien después de robar una misteriosa caja de música, es transportada mágicamente al mundo de Anfibilandia, un pantano salvaje lleno de ranas parlantes. Con la ayuda de una joven rana aventurera y curiosa llamada Sprig, Anne se transformará de monstruo a héroe y descubrirá la primera amistad verdadera de su vida.</desc>
-    <credits>
-      <director>Derek Kirk Kim</director>
-      <director>Bert Youn</director>
-      <writer>Matt Braly</writer>
-      <producer>Jack Ferraiolo</producer>
-      <producer>Tara Badawy</producer>
-      <composer>Doug Petty</composer>
-      <composer>Anne's Theme</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261125100000 -0600" stop="20261125103000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125065600 -0600" stop="20261125073000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Hamster &amp; Gretel</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <sub-title lang="es">Castigada / ¿Amiga o enemiga</sub-title>
   </programme>
-<programme start="20261125103000 -0600" stop="20261125110000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125073000 -0600" stop="20261125075800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">El fantasma y Molly McGee</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Periodos y más / Siempre hay sol en Sunnyland</sub-title>
   </programme>
-<programme start="20261125110000 -0600" stop="20261125113000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">StuGo Campamento de verano T</title>
+<programme start="20261125075800 -0600" stop="20261125082800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">PANTelevisión / Trenza infinita</sub-title>
   </programme>
-<programme start="20261125113000 -0600" stop="20261125120000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
+<programme start="20261125082800 -0600" stop="20261125085900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Re- último año / Quiero una zoda</sub-title>
   </programme>
-<programme start="20261125120000 -0600" stop="20261125123000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S4</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261125085900 -0600" stop="20261125093200 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Phineas y Ferb La noche de los farmaceúticos vivientes</title>
+    <sub-title lang="es">Bravucón gritón / Armatoste en casa</sub-title>
   </programme>
-<programme start="20261125123000 -0600" stop="20261125130000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de L</title>
+<programme start="20261125093200 -0600" stop="20261125095800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Chrysalis</sub-title>
   </programme>
-<programme start="20261125130000 -0600" stop="20261125133000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125095800 -0600" stop="20261125102300 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">¡Buena suerte, Charlie!</title>
-    <episode-num system="onscreen">S1</episode-num>
+    <sub-title lang="es">Los Duncan tienen talento</sub-title>
   </programme>
-<programme start="20261125133000 -0600" stop="20261125140000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125102300 -0600" stop="20261125104800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">¡Buena suerte, Charlie!</title>
-    <episode-num system="onscreen">S1</episode-num>
+    <sub-title lang="es">La chica pollo</sub-title>
   </programme>
-<programme start="20261125140000 -0600" stop="20261125143000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125104800 -0600" stop="20261125111600 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">¡Buena suerte, Charlie!</title>
-    <episode-num system="onscreen">S1</episode-num>
+    <sub-title lang="es">La chica muerde al perro</sub-title>
   </programme>
-<programme start="20261125143000 -0600" stop="20261125150000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los hechiceros más allá de Wav</title>
+<programme start="20261125111600 -0600" stop="20261125112800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Cola de rata</sub-title>
   </programme>
-<programme start="20261125150000 -0600" stop="20261125153000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Moon Girl y Devil, el dinosaur</title>
+<programme start="20261125112800 -0600" stop="20261125120000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Wizards Beyond Waverly Place</title>
+    <sub-title lang="es">Magos en el fin del mundo - Primera parte</sub-title>
   </programme>
-<programme start="20261125153000 -0600" stop="20261125160000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125120000 -0600" stop="20261125123000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">La chica de las fiestas</sub-title>
+  </programme>
+<programme start="20261125123000 -0600" stop="20261125125800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Kiff</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Roncas cuentos / ¿Patty la mala</sub-title>
   </programme>
-<programme start="20261125160000 -0600" stop="20261125163000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
+<programme start="20261125125800 -0600" stop="20261125132900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Un mini bar demasiado lejos/ El Ter-men-nator</sub-title>
   </programme>
-<programme start="20261125163000 -0600" stop="20261125170000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-    <desc lang="es">Después de algunas peleas audaces con monstruos de otro mundo, la princesa adolescente mágica Star Butterfly, amante de la diversión, es enviada por sus padres de la realeza a vivir con la familia Díaz en la Tierra, trayendo su propio estilo interdimensional único a su nuevo planeta. Con Marco, el hijo adolescente de la familia Diaz, esta estudiante de intercambio de otra dimensión se embarca en nuevas aventuras luchando contra villanos malvados en todo el multiverso y en la escuela secundaria, todo en un esfuerzo por proteger a su poderosa varita mágica que todavía está descubriendo cómo utilizar.</desc>
-    <credits>
-      <director>Dominic Bisignano</director>
-      <writer>Daron Nefcy</writer>
-      <producer>Aaron Hammersley</producer>
-      <producer>Dominic Bisignano</producer>
-      <composer>Brad Breeck</composer>
-      <composer>Ego Plum</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
+<programme start="20261125132900 -0600" stop="20261125135900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Maizbol; La lección de Meteora</sub-title>
   </programme>
-<programme start="20261125170000 -0600" stop="20261125173000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Gravity Falls</title>
-    <episode-num system="onscreen">S2</episode-num>
+<programme start="20261125135900 -0600" stop="20261125142900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+    <sub-title lang="es">Raromageddon 3: Recuperando Gravity Falls</sub-title>
   </programme>
-<programme start="20261125173000 -0600" stop="20261125180000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de L</title>
+<programme start="20261125142900 -0600" stop="20261125145900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Desamor</sub-title>
   </programme>
-<programme start="20261125180000 -0600" stop="20261125183500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S5</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261125145900 -0600" stop="20261125153300 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Chicas bravas / Suéter grande</sub-title>
   </programme>
-<programme start="20261125183500 -0600" stop="20261125190000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125153300 -0600" stop="20261125153400 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Dragon Striker estrellas del gorotama</title>
+    <sub-title lang="es">Kamoho Ali Kamo</sub-title>
+  </programme>
+<programme start="20261125153400 -0600" stop="20261125160100 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Dragon Striker</title>
-    <episode-num system="onscreen">S1</episode-num>
+    <sub-title lang="es">Revelaciones</sub-title>
   </programme>
-<programme start="20261125190000 -0600" stop="20261125193000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125160100 -0600" stop="20261125163100 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S4</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+    <sub-title lang="es">Los Expedientes O.S.B.A. - Segunda parte</sub-title>
   </programme>
-<programme start="20261125193000 -0600" stop="20261125200000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los hechiceros más allá de Wav</title>
+<programme start="20261125163100 -0600" stop="20261125170200 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Wizards Beyond Waverly Place</title>
+    <sub-title lang="es">Magos en el fin del mundo - Primera parte</sub-title>
   </programme>
-<programme start="20261125200000 -0600" stop="20261125203000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Vampirina Una Vampirina adole</title>
+<programme start="20261125170200 -0600" stop="20261125172900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Vampirina Teenage Vampire</title>
+    <sub-title lang="es">El primer viaje</sub-title>
   </programme>
-<programme start="20261125203000 -0600" stop="20261125210000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125172900 -0600" stop="20261125180000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S3</episode-num>
+    <sub-title lang="es">Ruptura y desventura</sub-title>
   </programme>
-<programme start="20261125210000 -0600" stop="20261125211500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Academia de brujas</title>
-    <episode-num system="onscreen">S1</episode-num>
+<programme start="20261125180000 -0600" stop="20261125181200 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Coven Academy El secreto de las brujas</title>
+    <sub-title lang="es">Lo que ella vio</sub-title>
   </programme>
-<programme start="20261125211500 -0600" stop="20261125213000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Academia de brujas</title>
-    <episode-num system="onscreen">S1</episode-num>
+<programme start="20261125181200 -0600" stop="20261125183400 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Coven Academy El secreto de las brujas</title>
+    <sub-title lang="es">Acción de Brujas</sub-title>
   </programme>
-<programme start="20261125213000 -0600" stop="20261125220000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125183400 -0600" stop="20261125190000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Hannah Montana</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">El novio de mi mejor amiga</sub-title>
   </programme>
-<programme start="20261125220000 -0600" stop="20261125223000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125190000 -0600" stop="20261125192800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">¡Buena suerte, Charlie!</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Cosa de monos</sub-title>
   </programme>
-<programme start="20261125223000 -0600" stop="20261125230000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Electric Bloom La mejor banda</title>
+<programme start="20261125192800 -0600" stop="20261125195700 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Electric Bloom La mejor banda del mundo</title>
+    <sub-title lang="es">Cómo (no) hacer un video musical</sub-title>
   </programme>
-<programme start="20261125230000 -0600" stop="20261125233000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125195700 -0600" stop="20261125202600 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Acampados</title>
-    <episode-num system="onscreen">S3</episode-num>
+    <sub-title lang="es">Sanitarios y tiaras</sub-title>
   </programme>
-<programme start="20261125233000 -0600" stop="20261126000000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Vampirina Una Vampirina adole</title>
+<programme start="20261125202600 -0600" stop="20261125205200 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Vampirina Una vampirina adolescente</title>
+    <sub-title lang="es">Segundo verso</sub-title>
   </programme>
-<programme start="20261126000000 -0600" stop="20261126003000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125205200 -0600" stop="20261125211900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Amphibia</title>
-    <desc lang="es">Anfibilandia narra las aventuras cómicas de Anne Boonchuy, de 13 años, quien después de robar una misteriosa caja de música, es transportada mágicamente al mundo de Anfibilandia, un pantano salvaje lleno de ranas parlantes. Con la ayuda de una joven rana aventurera y curiosa llamada Sprig, Anne se transformará de monstruo a héroe y descubrirá la primera amistad verdadera de su vida.</desc>
-    <credits>
-      <director>Derek Kirk Kim</director>
-      <director>Bert Youn</director>
-      <writer>Matt Braly</writer>
-      <producer>Jack Ferraiolo</producer>
-      <producer>Tara Badawy</producer>
-      <composer>Doug Petty</composer>
-      <composer>Anne's Theme</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
+    <sub-title lang="es">De-lirio tailandés / Todo o nada</sub-title>
   </programme>
-<programme start="20261126003000 -0600" stop="20261126010000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261125211900 -0600" stop="20261125214400 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Phineas y Ferb La noche de los farmaceúticos vivientes</title>
+    <sub-title lang="es">Haz una pregunta tonta / El monotrema equivocado</sub-title>
   </programme>
-<programme start="20261126010000 -0600" stop="20261126013000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">StuGo Campamento de verano T</title>
+<programme start="20261125214400 -0600" stop="20261125220700 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Drama en el diorama / Alboroto de cabras</sub-title>
   </programme>
-<programme start="20261126013000 -0600" stop="20261126014500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
+<programme start="20261125220700 -0600" stop="20261125221800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Quiero una soda</sub-title>
   </programme>
-<programme start="20261126014500 -0600" stop="20261126020000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261125221800 -0600" stop="20261125223100 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Tara Duncan</title>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
-<programme start="20261126020000 -0600" stop="20261126023000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de</title>
+<programme start="20261125223100 -0600" stop="20261125225500 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Reunion</sub-title>
   </programme>
-<programme start="20261126023000 -0600" stop="20261126030000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">The Owl House La Casa Búho</title>
+<programme start="20261125225500 -0600" stop="20261125231700 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">The Owl House - La casa búho</title>
+    <sub-title lang="es">La casa ambulante de Hooty</sub-title>
   </programme>
-<programme start="20261126030000 -0600" stop="20261126033000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261125231700 -0600" stop="20261125234000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">El amigo menor / El jardín zen</sub-title>
   </programme>
-<programme start="20261126033000 -0600" stop="20261126040000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los hechiceros más allá de Wav</title>
+<programme start="20261125234000 -0600" stop="20261126000600 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Wizards Beyond Waverly Place</title>
+    <sub-title lang="es">Magos en el fin del mundo - Primera parte</sub-title>
   </programme>
-<programme start="20261126040000 -0600" stop="20261126043000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126000600 -0600" stop="20261126002900 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S3</episode-num>
+    <sub-title lang="es">No se necesita empleada</sub-title>
   </programme>
-<programme start="20261126043000 -0600" stop="20261126050000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Hechiceros de Waverly Pla</title>
+<programme start="20261126002900 -0600" stop="20261126005200 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Hechiceros contra vampiros bocadillos</sub-title>
   </programme>
-<programme start="20261126050000 -0600" stop="20261126053000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-    <desc lang="es">Después de algunas peleas audaces con monstruos de otro mundo, la princesa adolescente mágica Star Butterfly, amante de la diversión, es enviada por sus padres de la realeza a vivir con la familia Díaz en la Tierra, trayendo su propio estilo interdimensional único a su nuevo planeta. Con Marco, el hijo adolescente de la familia Diaz, esta estudiante de intercambio de otra dimensión se embarca en nuevas aventuras luchando contra villanos malvados en todo el multiverso y en la escuela secundaria, todo en un esfuerzo por proteger a su poderosa varita mágica que todavía está descubriendo cómo utilizar.</desc>
-    <credits>
-      <director>Dominic Bisignano</director>
-      <writer>Daron Nefcy</writer>
-      <producer>Aaron Hammersley</producer>
-      <producer>Dominic Bisignano</producer>
-      <composer>Brad Breeck</composer>
-      <composer>Ego Plum</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
+<programme start="20261126005200 -0600" stop="20261126011500 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Conquista</sub-title>
   </programme>
-<programme start="20261126053000 -0600" stop="20261126060000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261126011500 -0600" stop="20261126013700 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">El día del desfile / Hágalo usted mismo</sub-title>
   </programme>
-<programme start="20261126060000 -0600" stop="20261126063000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous</title>
-    <episode-num system="onscreen">S3</episode-num>
+<programme start="20261126013700 -0600" stop="20261126020000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Ikari Gozen</sub-title>
   </programme>
-<programme start="20261126063000 -0600" stop="20261126070000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Las aventuras enredadas de Ra</title>
+<programme start="20261126020000 -0600" stop="20261126022300 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Las aventuras enredadas de Rapunzel</title>
+    <sub-title lang="es">Ten mucho miedo</sub-title>
   </programme>
-<programme start="20261126070000 -0600" stop="20261126071500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Las Aventuras de Pilar</title>
-    <episode-num system="onscreen">S1</episode-num>
+<programme start="20261126022300 -0600" stop="20261126023500 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Vine para ayudar</sub-title>
   </programme>
-<programme start="20261126071500 -0600" stop="20261126073000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126023500 -0600" stop="20261126024700 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">Aprender la lección</sub-title>
+  </programme>
+<programme start="20261126024700 -0600" stop="20261126031000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Zombesito</sub-title>
+  </programme>
+<programme start="20261126031000 -0600" stop="20261126033300 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Tropey McTropeFace / Biblio-Bomba</sub-title>
+  </programme>
+<programme start="20261126033300 -0600" stop="20261126040000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Velada desencantadora</sub-title>
+  </programme>
+<programme start="20261126040000 -0600" stop="20261126041100 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">O Tambo Dos Incas</sub-title>
+  </programme>
+<programme start="20261126041100 -0600" stop="20261126042200 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Mickey Mouse</title>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
-<programme start="20261126073000 -0600" stop="20261126080000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261126042200 -0600" stop="20261126050000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Phineas y Ferb La noche de los farmaceúticos vivientes</title>
+    <sub-title lang="es">El código del bravucón / Buscando a Mary McGuffin</sub-title>
   </programme>
-<programme start="20261126080000 -0600" stop="20261126083000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Gravity Falls</title>
-    <episode-num system="onscreen">S2</episode-num>
+<programme start="20261126050000 -0600" stop="20261126053000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+    <sub-title lang="es">Atracciones de carretera</sub-title>
   </programme>
-<programme start="20261126083000 -0600" stop="20261126090000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S5</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261126053000 -0600" stop="20261126060000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Chicas bravas / Suéter grande</sub-title>
   </programme>
-<programme start="20261126090000 -0600" stop="20261126093000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126060000 -0600" stop="20261126062500 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Kiff</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <sub-title lang="es">Dos verdades y un Barry / Apodos</sub-title>
   </programme>
-<programme start="20261126093000 -0600" stop="20261126100000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126062500 -0600" stop="20261126063000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Visita al veterinario</sub-title>
+  </programme>
+<programme start="20261126063000 -0600" stop="20261126070000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Amphibia</title>
-    <desc lang="es">Anfibilandia narra las aventuras cómicas de Anne Boonchuy, de 13 años, quien después de robar una misteriosa caja de música, es transportada mágicamente al mundo de Anfibilandia, un pantano salvaje lleno de ranas parlantes. Con la ayuda de una joven rana aventurera y curiosa llamada Sprig, Anne se transformará de monstruo a héroe y descubrirá la primera amistad verdadera de su vida.</desc>
-    <credits>
-      <director>Derek Kirk Kim</director>
-      <director>Bert Youn</director>
-      <writer>Matt Braly</writer>
-      <producer>Jack Ferraiolo</producer>
-      <producer>Tara Badawy</producer>
-      <composer>Doug Petty</composer>
-      <composer>Anne's Theme</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
+    <sub-title lang="es">La Hora de la Verdad</sub-title>
   </programme>
-<programme start="20261126100000 -0600" stop="20261126103000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126070000 -0600" stop="20261126073000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Hamster &amp; Gretel</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <sub-title lang="es">Viernes de miedo / El gusano de la oreja</sub-title>
   </programme>
-<programme start="20261126103000 -0600" stop="20261126110000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126073000 -0600" stop="20261126080000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">El fantasma y Molly McGee</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Una muñeca para morirse / Más allá de la fiesta</sub-title>
   </programme>
-<programme start="20261126110000 -0600" stop="20261126113000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">StuGo Campamento de verano T</title>
+<programme start="20261126080000 -0600" stop="20261126083000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">StuGo Campamento de verano</title>
+    <sub-title lang="es">Miedo primate / La última gota de Francis</sub-title>
   </programme>
-<programme start="20261126113000 -0600" stop="20261126120000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
+<programme start="20261126083000 -0600" stop="20261126090000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Enojados con la expendedora / Jóvenes, salvajes y hora libre</sub-title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126123000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S4</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261126090000 -0600" stop="20261126093000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Phineas y Ferb La noche de los farmaceúticos vivientes</title>
+    <sub-title lang="es">El Kindelümper / Muchos postres</sub-title>
   </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de L</title>
+<programme start="20261126093000 -0600" stop="20261126100000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Desamor</sub-title>
   </programme>
-<programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126100000 -0600" stop="20261126103000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Embriagado de amor</sub-title>
   </programme>
-<programme start="20261126133000 -0600" stop="20261126140000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126103000 -0600" stop="20261126110000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">¿Por qué los tontos se enamoran</sub-title>
   </programme>
-<programme start="20261126140000 -0600" stop="20261126143000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126110000 -0600" stop="20261126113000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Las chicas sólo quieren pertenecer</sub-title>
   </programme>
-<programme start="20261126143000 -0600" stop="20261126150000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los hechiceros más allá de Wav</title>
+<programme start="20261126113000 -0600" stop="20261126120000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Wizards Beyond Waverly Place</title>
+    <sub-title lang="es">Magos en el fin del mundo - Segunda parte</sub-title>
   </programme>
-<programme start="20261126150000 -0600" stop="20261126153000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Moon Girl y Devil, el dinosaur</title>
+<programme start="20261126120000 -0600" stop="20261126123000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Moon Girl y Devil, el dinosaurio</title>
+    <sub-title lang="es">Adivina Quién Viene A Cenar</sub-title>
   </programme>
-<programme start="20261126153000 -0600" stop="20261126160000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Kiff</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Las pendientes / Mini Minis y su pianista</sub-title>
   </programme>
-<programme start="20261126160000 -0600" stop="20261126163000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
+<programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Zombies la serie re-animada</title>
+    <sub-title lang="es">Agitado y confundido / Abandonen a Zip</sub-title>
   </programme>
-<programme start="20261126163000 -0600" stop="20261126170000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-    <desc lang="es">Después de algunas peleas audaces con monstruos de otro mundo, la princesa adolescente mágica Star Butterfly, amante de la diversión, es enviada por sus padres de la realeza a vivir con la familia Díaz en la Tierra, trayendo su propio estilo interdimensional único a su nuevo planeta. Con Marco, el hijo adolescente de la familia Diaz, esta estudiante de intercambio de otra dimensión se embarca en nuevas aventuras luchando contra villanos malvados en todo el multiverso y en la escuela secundaria, todo en un esfuerzo por proteger a su poderosa varita mágica que todavía está descubriendo cómo utilizar.</desc>
-    <credits>
-      <director>Dominic Bisignano</director>
-      <writer>Daron Nefcy</writer>
-      <producer>Aaron Hammersley</producer>
-      <producer>Dominic Bisignano</producer>
-      <composer>Brad Breeck</composer>
-      <composer>Ego Plum</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
+<programme start="20261126133000 -0600" stop="20261126140000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+    <sub-title lang="es">El turno del Caballero; Reina secuestrada</sub-title>
   </programme>
-<programme start="20261126170000 -0600" stop="20261126173000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Gravity Falls</title>
-    <episode-num system="onscreen">S2</episode-num>
+<programme start="20261126140000 -0600" stop="20261126143000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+    <sub-title lang="es">Raromageddon 4: En algún lugar del bosque</sub-title>
   </programme>
-<programme start="20261126173000 -0600" stop="20261126180000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de L</title>
+<programme start="20261126143000 -0600" stop="20261126150000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Miraculous Las aventuras de Ladybug</title>
+    <sub-title lang="es">Manageman</sub-title>
   </programme>
-<programme start="20261126180000 -0600" stop="20261126183500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S5</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261126150000 -0600" stop="20261126153000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Blame Game / Chicken Coup</sub-title>
   </programme>
-<programme start="20261126183500 -0600" stop="20261126190000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126153000 -0600" stop="20261126153500 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Dragon Striker estrellas del gorotama</title>
+    <sub-title lang="es">Ragno Garathar</sub-title>
+  </programme>
+<programme start="20261126153500 -0600" stop="20261126160000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Dragon Striker</title>
-    <episode-num system="onscreen">S1</episode-num>
+    <sub-title lang="es">El Despertar</sub-title>
   </programme>
-<programme start="20261126190000 -0600" stop="20261126193000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126160000 -0600" stop="20261126163000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S5</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+    <sub-title lang="es">El nuevo verano / Nublado con probabilidad de mamá</sub-title>
   </programme>
-<programme start="20261126193000 -0600" stop="20261126200000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los hechiceros más allá de Wav</title>
+<programme start="20261126163000 -0600" stop="20261126170000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Wizards Beyond Waverly Place</title>
+    <sub-title lang="es">Magos en el fin del mundo - Segunda parte</sub-title>
   </programme>
-<programme start="20261126200000 -0600" stop="20261126203000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Vampirina Una Vampirina adole</title>
+<programme start="20261126170000 -0600" stop="20261126173000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
+    <title lang="es">Vampirina Teenage Vampire</title>
+    <sub-title lang="es">La primera mascota</sub-title>
   </programme>
-<programme start="20261126203000 -0600" stop="20261126210000 -0600" channel="Canal.Disney.Channel.(México).sv">
+<programme start="20261126173000 -0600" stop="20261126180000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-<programme start="20261126210000 -0600" stop="20261126211500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Academia de brujas</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-<programme start="20261126211500 -0600" stop="20261126213000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Academia de brujas</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-<programme start="20261126213000 -0600" stop="20261126220000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Hannah Montana</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-<programme start="20261126220000 -0600" stop="20261126223000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">¡Buena suerte, Charlie!</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-<programme start="20261126223000 -0600" stop="20261126230000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Electric Bloom La mejor banda</title>
-  </programme>
-<programme start="20261126230000 -0600" stop="20261126233000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Acampados</title>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-<programme start="20261126233000 -0600" stop="20261127000000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Vampirina Una Vampirina adole</title>
-  </programme>
-<programme start="20261127000000 -0600" stop="20261127003000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Amphibia</title>
-    <desc lang="es">Anfibilandia narra las aventuras cómicas de Anne Boonchuy, de 13 años, quien después de robar una misteriosa caja de música, es transportada mágicamente al mundo de Anfibilandia, un pantano salvaje lleno de ranas parlantes. Con la ayuda de una joven rana aventurera y curiosa llamada Sprig, Anne se transformará de monstruo a héroe y descubrirá la primera amistad verdadera de su vida.</desc>
-    <credits>
-      <director>Derek Kirk Kim</director>
-      <director>Bert Youn</director>
-      <writer>Matt Braly</writer>
-      <producer>Jack Ferraiolo</producer>
-      <producer>Tara Badawy</producer>
-      <composer>Doug Petty</composer>
-      <composer>Anne's Theme</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127003000 -0600" stop="20261127010000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127010000 -0600" stop="20261127013000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">StuGo Campamento de verano T</title>
-  </programme>
-<programme start="20261127013000 -0600" stop="20261127014500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
-  </programme>
-<programme start="20261127014500 -0600" stop="20261127020000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Tara Duncan</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-<programme start="20261127020000 -0600" stop="20261127023000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-<programme start="20261127023000 -0600" stop="20261127030000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">The Owl House La Casa Búho</title>
-  </programme>
-<programme start="20261127030000 -0600" stop="20261127033000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127033000 -0600" stop="20261127040000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los hechiceros más allá de Wav</title>
-  </programme>
-<programme start="20261127040000 -0600" stop="20261127043000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Jessie</title>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-<programme start="20261127043000 -0600" stop="20261127050000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Hechiceros de Waverly Pla</title>
-  </programme>
-<programme start="20261127050000 -0600" stop="20261127053000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-    <desc lang="es">Después de algunas peleas audaces con monstruos de otro mundo, la princesa adolescente mágica Star Butterfly, amante de la diversión, es enviada por sus padres de la realeza a vivir con la familia Díaz en la Tierra, trayendo su propio estilo interdimensional único a su nuevo planeta. Con Marco, el hijo adolescente de la familia Diaz, esta estudiante de intercambio de otra dimensión se embarca en nuevas aventuras luchando contra villanos malvados en todo el multiverso y en la escuela secundaria, todo en un esfuerzo por proteger a su poderosa varita mágica que todavía está descubriendo cómo utilizar.</desc>
-    <credits>
-      <director>Dominic Bisignano</director>
-      <writer>Daron Nefcy</writer>
-      <producer>Aaron Hammersley</producer>
-      <producer>Dominic Bisignano</producer>
-      <composer>Brad Breeck</composer>
-      <composer>Ego Plum</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127053000 -0600" stop="20261127060000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127060000 -0600" stop="20261127063000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous</title>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-<programme start="20261127063000 -0600" stop="20261127070000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Las aventuras enredadas de Ra</title>
-  </programme>
-<programme start="20261127070000 -0600" stop="20261127071500 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Las Aventuras de Pilar</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-<programme start="20261127071500 -0600" stop="20261127073000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Mickey Mouse</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-<programme start="20261127073000 -0600" stop="20261127080000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127080000 -0600" stop="20261127083000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Gravity Falls</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-<programme start="20261127083000 -0600" stop="20261127090000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Los Vecinos Green</title>
-    <desc lang="es">¡Cricket Green se mudará a la gran ciudad! Junto con su hermana mayor, Tilly, su padre Bill y la salvaje abuela Alice, estos simples campesinos deben aprender a vivir en una metrópolis bulliciosa. La curiosidad y el entusiasmo de Cricket llevan a su familia salvajemente fuera de lugar en viajes épicos y en los corazones de sus nuevos vecinos. ¡Nunca hay un día aburrido para una familia pequeña que puede encontrar grandes aventuras sin importar dónde se encuentren!</desc>
-    <credits>
-      <director>Shane Houghton</director>
-      <director>Chris Houghton</director>
-      <writer>Los Hermanos Houghton</writer>
-      <producer>Jason Wyatt</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
-    <episode-num system="onscreen">S5</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127090000 -0600" stop="20261127093000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Kiff</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-<programme start="20261127093000 -0600" stop="20261127100000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Amphibia</title>
-    <desc lang="es">Anfibilandia narra las aventuras cómicas de Anne Boonchuy, de 13 años, quien después de robar una misteriosa caja de música, es transportada mágicamente al mundo de Anfibilandia, un pantano salvaje lleno de ranas parlantes. Con la ayuda de una joven rana aventurera y curiosa llamada Sprig, Anne se transformará de monstruo a héroe y descubrirá la primera amistad verdadera de su vida.</desc>
-    <credits>
-      <director>Derek Kirk Kim</director>
-      <director>Bert Youn</director>
-      <writer>Matt Braly</writer>
-      <producer>Jack Ferraiolo</producer>
-      <producer>Tara Badawy</producer>
-      <composer>Doug Petty</composer>
-      <composer>Anne's Theme</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127100000 -0600" stop="20261127103000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Hamster &amp; Gretel</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-<programme start="20261127103000 -0600" stop="20261127110000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">El fantasma y Molly McGee</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-<programme start="20261127110000 -0600" stop="20261127113000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">StuGo Campamento de verano T</title>
-  </programme>
-<programme start="20261127113000 -0600" stop="20261127120000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">ZOMBIES La serie re-animada T</title>
-  </programme>
-<programme start="20261127120000 -0600" stop="20261127123000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">La escuela está cerrada por el verano, y los hermanastros Phineas y Ferb deciden hacer de cada día una aventura, desde construir una montaña rusa que desafía a la muerte hasta surfear olas de marea para localizar el cerebro de Frankenstein. Sus audaces aventuras siempre terminan obstaculizando el estilo de su hermana adolescente, Candace, quien hace todo lo posible para exponer a mamá a lo que realmente está sucediendo, pero de alguna manera siempre parece fallar. Mientras tanto, el ornitorrinco mascota de mente simple de la familia lleva una doble vida como "Agente P" secreto y se enfrenta al malvado Dr. Doofenshmirtz para salvar el mundo. Hay muchas cosas que hacer antes de que empiecen las clases y Phineas y Ferb planean hacerlo todo.</desc>
-    <credits>
-      <writer>Dan Povenmire</writer>
-      <writer>Jeff "Swampy" Marsh</writer>
-      <producer>Robert F. Hughes</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/phineas_y_ferb.jpg" />
-    <episode-num system="onscreen">S4</episode-num>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261127123000 -0600" stop="20261127130000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Miraculous Las aventuras de L</title>
-  </programme>
-<programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.Disney.Channel.(México).sv">
-    <title lang="es">Hannah Montana</title>
-    <episode-num system="onscreen">S2</episode-num>
+    <sub-title lang="es">Diario de una periodista desquiciada</sub-title>
   </programme>
 <programme start="20261125060000 -0600" stop="20261125080000 -0600" channel="Canal.ESPN.Premium.(Chile).sv">
     <title lang="es">Palmeiras vs. Fluminense</title>
@@ -15874,6 +15166,37 @@ En Vivo</title>
   </programme>
 <programme start="20261127114600 -0600" stop="20261127132300 -0600" channel="Canal.HBO.Xtreme.sv">
     <title lang="es">Sting Araña asesina</title>
+  </programme>
+<programme start="20261127132300 -0600" stop="20261127154200 -0600" channel="Canal.HBO.Xtreme.sv">
+    <title lang="es">Jurassic World: Renace</title>
+    <desc lang="es">Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad.</desc>
+    <credits>
+      <director>Gareth Edwards</director>
+      <actor>Scarlett Johansson</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Jonathan Bailey</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Manuel García-Rulfo</actor>
+      <actor>Luna Blaise</actor>
+      <actor>David Iacono</actor>
+      <actor>Audrina Miranda</actor>
+      <producer>Frank Marshall</producer>
+      <producer>Patrick Crowley</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
   </programme>
 <programme start="20261125050000 -0600" stop="20261125090000 -0600" channel="Canal.HTV.sv">
     <title lang="es">HTV</title>
@@ -20156,12 +19479,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127140000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
-  </programme>
-<programme start="20261125071400 -0600" stop="20261125072100 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Sheep en la Gran Ciudad</title>
-  </programme>
-<programme start="20261125072100 -0600" stop="20261125072300 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Sheep en la Gran Ciudad</title>
   </programme>
 <programme start="20261125072300 -0600" stop="20261125072700 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Sheep en la Gran Ciudad</title>
