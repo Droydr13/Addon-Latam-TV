@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-video-rola-sv",
     "type": "tv",
     "name": "Video Rola",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-video-rola-sv.png?v=220c778c",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-video-rola-sv.png?v=220c778c",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=220c778c",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-video-rola-sv.png?v=6a7c86dd",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-video-rola-sv.png?v=6a7c86dd",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=6a7c86dd",
     "posterShape": "landscape",
     "genres": [
       "Musica"

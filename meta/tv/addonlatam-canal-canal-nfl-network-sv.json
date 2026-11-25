@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-nfl-network-sv",
+    "type": "tv",
+    "name": "NFL Network",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-nfl-network-sv.png?v=6a7c86dd",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-nfl-network-sv.png?v=6a7c86dd",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=6a7c86dd",
+    "posterShape": "landscape",
+    "genres": [
+      "TV"
+    ],
+    "description": "Canal en vivo — NFL Network. Vía Addon Latam."
+  }
+}
