@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-ingenio-fm-sv",
     "type": "tv",
     "name": "Ingenio FM Argentina",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ingenio-fm-sv.png?v=45a8d303",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ingenio-fm-sv.png?v=45a8d303",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=45a8d303",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ingenio-fm-sv.png?v=220c778c",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-ingenio-fm-sv.png?v=220c778c",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=220c778c",
     "posterShape": "landscape",
     "genres": [
       "Musica"
