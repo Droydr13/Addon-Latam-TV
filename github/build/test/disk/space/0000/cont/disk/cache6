@@ -1777,6 +1777,9 @@ http://190.102.120.20:8000/play/a03p/index.m3u8?hls
 #EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" tvg-logo="http://miarea.vip:8080/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="Deportes",Win Sports OP4
 http://190.102.120.20:8000/play/a056/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="Canal.NFL.Network.sv" tvg-name="NFL Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="TV",NFL Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports
