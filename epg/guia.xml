@@ -335,6 +335,12 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+<channel id="Canal.NFL.Network.sv">
+    <display-name lang="es">Canal NFL Network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
 <channel id="Canal.NickMusic.sv">
     <display-name lang="es">Canal NickMusic</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nick_music-mediano.png" />
@@ -812,8 +818,8 @@ En Vivo</title>
     <title lang="es">Cuéntamelo Ya!
 En Vivo</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Bebés llorones</title>
+<programme start="20261127133000 -0600" stop="20261127143000 -0600" channel="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx">
+    <title lang="es">Como dice el dicho</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.5.de.México.(XHGC).mx">
     <title lang="es">Bely y Beto</title>
@@ -1312,9 +1318,6 @@ En Vivo</title>
 <programme start="20261126170000 -0600" stop="20261126180000 -0600" channel="Canal.TV.Azteca.Corazón.mx">
     <title lang="es">La mujer de Judas</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Unicable.(México).mx">
-    <title lang="es">Universo Unicable</title>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125095500 -0600" channel="Canal.Unicable.(México).mx">
     <title lang="es">Por siempre Joan Sebastian</title>
   </programme>
@@ -1500,6 +1503,10 @@ En Vivo</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
 <programme start="20261127124500 -0600" stop="20261127133000 -0600" channel="Canal.Unicable.(México).mx">
+    <title lang="es">Esta historia me suena</title>
+    <episode-num system="onscreen">S4</episode-num>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127142000 -0600" channel="Canal.Unicable.(México).mx">
     <title lang="es">Esta historia me suena</title>
     <episode-num system="onscreen">S4</episode-num>
   </programme>
@@ -2046,6 +2053,9 @@ En Vivo</title>
   </programme>
 <programme start="20261127124000 -0600" stop="20261127133000 -0600" channel="Canal.Telemundo.(México).mx">
     <title lang="es">Caso Cerrado</title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127151000 -0600" channel="Canal.Telemundo.(México).mx">
+    <title lang="es">La dona</title>
   </programme>
 <programme start="20261125071100 -0600" stop="20261125090300 -0600" channel="Canal.Discovery.Kids.(México).mx">
     <title lang="es">Academia Unicórnio</title>
@@ -3834,10 +3844,6 @@ En Vivo</title>
       <value>8.0</value>
     </star-rating>
   </programme>
-<programme start="20261125063500 -0600" stop="20261125072600 -0600" channel="Canal.History.2.(México).mx">
-    <title lang="es">La historia secreta de la 2da</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
 <programme start="20261125072600 -0600" stop="20261125075600 -0600" channel="Canal.History.2.(México).mx">
     <title lang="es">Boys toys</title>
     <episode-num system="onscreen">S1 E13</episode-num>
@@ -4942,9 +4948,6 @@ En Vivo</title>
     <sub-title lang="es">Bradley Cooper en los cañones de Wyoming</sub-title>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.María.Visión.mx">
-    <title lang="es">Despertando Católicos</title>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125083000 -0600" channel="Canal.María.Visión.mx">
     <title lang="es">Santa misa, desde Guerrero</title>
   </programme>
@@ -5109,6 +5112,9 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.María.Visión.mx">
     <title lang="es">Caravana por la paz</title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127143000 -0600" channel="Canal.María.Visión.mx">
+    <title lang="es">Santa misa Santuario Nacional</title>
   </programme>
 <programme start="20261125060000 -0600" stop="20261125081500 -0600" channel="Canal.HBO.2.Latinoamérica.mx">
     <title lang="es">El rey de marfil</title>
@@ -7490,32 +7496,12 @@ En Vivo</title>
     <category lang="en">Miscellaneous</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27049351_b_v8_ac.jpg" />
   </programme>
-<programme start="20261125070500 -0600" stop="20261125073000 -0600" channel="Canal.Comedy.Central.(México).mx">
-    <title lang="es">Frasier</title>
-    <desc lang="es">Frasier narra las vidas del presentador de radio Dr. Frasier Crane y sus familiares y compañeros de trabajo. Frasier combina brillantes personajes, sofisticados e ingeniosos juegos de palabras como también hilarante comedia física, que prueba que la risa es la mejor terapia.</desc>
-    <credits>
-      <actor>Kelsey Grammer</actor>
-      <actor>Jane Leeves</actor>
-      <actor>David Hyde Pierce</actor>
-      <actor>Peri Gilpin</actor>
-      <actor>John Mahoney</actor>
-      <actor>Dan Butler</actor>
-      <writer>David Angell</writer>
-      <writer>Peter Casey</writer>
-      <producer>Maggie Blanc</producer>
-      <composer>Bruce Miller</composer>
-      <composer>Darryl Phinnesse</composer>
-    </credits>
-    <date>1993</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/frasier.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
+<programme start="20261127143000 -0500" stop="20261127145000 -0500" channel="ESPN.2.mx">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg" />
   </programme>
 <programme start="20261125073000 -0600" stop="20261125075000 -0600" channel="Canal.Comedy.Central.(México).mx">
     <title lang="es">Frasier</title>
@@ -8963,9 +8949,6 @@ En Vivo</title>
     <title lang="es">LOSC Lille (Fra) vs. Bayern Múnich</title>
     <sub-title lang="es">UEFA Champions League</sub-title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.AMC.(México).sv">
-    <title lang="es">Planet Action</title>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.AMC.(México).sv">
     <title lang="es">Planet Action</title>
   </programme>
@@ -9332,9 +9315,6 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127143000 -0600" channel="Canal.ATV.sv">
     <title lang="es">La mujer en el espejo</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.BabyFirst.TV.sv">
-    <title lang="es">Pandilla de Colores</title>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.BabyFirst.TV.sv">
     <title lang="es">Mamá y Yo - Preescolar</title>
   </programme>
@@ -9647,8 +9627,8 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.BabyFirst.TV.sv">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-<programme start="20261125061000 -0600" stop="20261125073000 -0600" channel="Canal.Bandamax.sv">
-    <title lang="es">Las mas sonadas</title>
+<programme start="20261127133000 -0600" stop="20261127140000 -0600" channel="Canal.BabyFirst.TV.sv">
+    <title lang="es">Floreciendo temprano</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Bandamax.sv">
     <title lang="es">Viejitas pero Sabrosas</title>
@@ -9820,9 +9800,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127150000 -0600" channel="Canal.Bandamax.sv">
     <title lang="es">Vivo Pa'la banda</title>
-  </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.CNN.Internacional.sv">
-    <title lang="es">CNN News Central</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.CNN.Internacional.sv">
     <title lang="es">World Sport</title>
@@ -10210,9 +10187,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127120000 -0600" stop="20261127140000 -0600" channel="Canal.CNN.en.Español.sv">
     <title lang="es">Redacción con Nacho Girón</title>
-  </programme>
-<programme start="20261125060500 -0600" stop="20261125073000 -0600" channel="Canal.Cine.Mexicano.sv">
-    <title lang="es">Vivir de sueños</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Cine.Mexicano.sv">
     <title lang="es">Televenta</title>
@@ -10902,6 +10876,9 @@ En Vivo</title>
 <programme start="20261127120000 -0600" stop="20261127133000 -0600" channel="Canal.City.TV.sv">
     <title lang="es">Citynoticias</title>
     <sub-title lang="es">del mediodía</sub-title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127143000 -0600" channel="Canal.City.TV.sv">
+    <title lang="es">La Corona TV</title>
   </programme>
 <programme start="20261125063000 -0600" stop="20261125084000 -0600" channel="Canal.DHE.sv">
     <title lang="es">El camino del lobo</title>
@@ -12009,6 +11986,11 @@ En Vivo</title>
     <sub-title lang="es">Audi TT</sub-title>
     <episode-num system="onscreen">S11 E10</episode-num>
   </programme>
+<programme start="20261127132600 -0600" stop="20261127141200 -0600" channel="Canal.Discovery.Turbo.(Latinoamérica).sv">
+    <title lang="es">Joyas Sobre Ruedas</title>
+    <sub-title lang="es">VW Split-Screen</sub-title>
+    <episode-num system="onscreen">S11 E11</episode-num>
+  </programme>
 <programme start="20261125072400 -0600" stop="20261125081200 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
     <title lang="es">Pioneros de Polonia</title>
   </programme>
@@ -12302,10 +12284,6 @@ En Vivo</title>
 <programme start="20261126174800 -0600" stop="20261126181200 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
     <title lang="es">Mi casa en la montaña</title>
     <sub-title lang="es">Cohetes y cabanas</sub-title>
-  </programme>
-<programme start="20261125065600 -0600" stop="20261125073000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
-    <title lang="es">Hamster &amp; Gretel</title>
-    <sub-title lang="es">Castigada / ¿Amiga o enemiga</sub-title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125075800 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">El fantasma y Molly McGee</title>
@@ -12818,10 +12796,6 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127141000 -0600" channel="Canal.ESPN.Premium.(Chile).sv">
     <title lang="es">Automovilismo Fórmula 1</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Elgourmet.sv">
-    <title lang="es">Mapa de los sabores de México</title>
-    <episode-num system="onscreen">E18</episode-num>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Elgourmet.sv">
     <title lang="es">Puebla de los ángeles..</title>
     <episode-num system="onscreen">S1 E5</episode-num>
@@ -13246,8 +13220,9 @@ En Vivo</title>
     <title lang="es">Fogones tradicionales Esp</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-<programme start="20261125071200 -0600" stop="20261125073000 -0600" channel="Canal.Euronews.sv">
-    <title lang="es">News</title>
+<programme start="20261127133000 -0600" stop="20261127140000 -0600" channel="Canal.Elgourmet.sv">
+    <title lang="es">Los imperdibles Buenos Aires</title>
+    <episode-num system="onscreen">E8</episode-num>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125074200 -0600" channel="Canal.Euronews.sv">
     <title lang="es">Euronews Now</title>
@@ -13887,6 +13862,9 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.Euronews.sv">
     <title lang="es">News</title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127134200 -0600" channel="Canal.Euronews.sv">
+    <title lang="es">The European debrief</title>
   </programme>
 <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="Canal.Foro.TV.sv">
     <title lang="es">Estrictamente PersonalEn Vivo</title>
@@ -15242,6 +15220,182 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127170000 -0600" channel="Canal.HTV.sv">
     <title lang="es">HTV</title>
+  </programme>
+<programme start="20261125070000 -0600" stop="20261125090000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Good morning football</title>
+  </programme>
+<programme start="20261125090000 -0600" stop="20261125110000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Good morning football</title>
+  </programme>
+<programme start="20261125110000 -0600" stop="20261125120000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Total Access</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261125120000 -0600" stop="20261125130000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Total Access</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261125130000 -0600" stop="20261125160000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Football</title>
+  </programme>
+<programme start="20261125160000 -0600" stop="20261125170000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Fantasy Live</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261125170000 -0600" stop="20261125180000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Live</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261125180000 -0600" stop="20261125190000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Los Angeles Rams vs. Green Bay Packers</title>
+    <sub-title lang="es">NFL GameDay Kickoff</sub-title>
+    <desc lang="es">Los Angeles Rams y los Green Bay Packers se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/los_angeles_rams_vs_green_bay_packers.png" />
+  </programme>
+<programme start="20261125190000 -0600" stop="20261125220000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Football</title>
+  </programme>
+<programme start="20261125220000 -0600" stop="20261125223000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">A Football Life Origins</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261125223000 -0600" stop="20261125233000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Gameday Final</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261125233000 -0600" stop="20261126020000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Green Bay Packers vs. Los Angeles Rams</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Green Bay Packers y Los Angeles Rams se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/green_bay_packers_vs_los_angeles_rams.png" />
+  </programme>
+<programme start="20261126020000 -0600" stop="20261126030000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Gameday Final</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261126030000 -0600" stop="20261126040000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Gameday Final</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261126040000 -0600" stop="20261126070000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Green Bay Packers vs. Los Angeles Rams</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Green Bay Packers y Los Angeles Rams se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/green_bay_packers_vs_los_angeles_rams.png" />
+  </programme>
+<programme start="20261126070000 -0600" stop="20261126090000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Good morning football</title>
+  </programme>
+<programme start="20261126090000 -0600" stop="20261126120000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Detroit Lions vs. Chicago Bears</title>
+    <sub-title lang="es">NFL Gameday Morning</sub-title>
+    <desc lang="es">Los Detroit Lions y los Chicago Bears se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/detroit_lions_vs_chicago_bears.png" />
+  </programme>
+<programme start="20261126120000 -0600" stop="20261126150000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Philadelphia Eagles vs. Dallas Cowboys</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Philadelphia Eagles y los Dallas Cowboys se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/philadelphia_eagles_vs_dallas_cowboys.png" />
+  </programme>
+<programme start="20261126150000 -0600" stop="20261126153000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Dallas Cowboys vs. Philadelphia Eagles</title>
+    <sub-title lang="es">NFL GameDay Highlights</sub-title>
+    <desc lang="es">Los Dallas Cowboys y los Philadelphia Eagles se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/dallas_cowboys_vs_philadelphia_eagles.png" />
+  </programme>
+<programme start="20261126153000 -0600" stop="20261126183000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Green Bay Packers vs. Los Angeles Rams</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Green Bay Packers y Los Angeles Rams se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/green_bay_packers_vs_los_angeles_rams.png" />
+  </programme>
+<programme start="20261126183000 -0600" stop="20261126193000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Buffalo Bills vs. Kansas City Chiefs</title>
+    <sub-title lang="es">NFL GameDay Highlights</sub-title>
+    <desc lang="es">Los Buffalo Bills y los Kansas City Chiefs se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/buffalo_bills_vs_kansas_city_chiefs.png" />
+  </programme>
+<programme start="20261126193000 -0600" stop="20261126223000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Philadelphia Eagles vs. Dallas Cowboys</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Philadelphia Eagles y los Dallas Cowboys se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/philadelphia_eagles_vs_dallas_cowboys.png" />
+  </programme>
+<programme start="20261126223000 -0600" stop="20261126233000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Gameday Final</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261126233000 -0600" stop="20261127020000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Chicago Bears vs. Detroit Lions</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Chicago Bears y los Detroit Lions se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/chicago_bears_vs_detroit_lions.png" />
+  </programme>
+<programme start="20261127020000 -0600" stop="20261127043000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Philadelphia Eagles vs. Dallas Cowboys</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Philadelphia Eagles y los Dallas Cowboys se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/philadelphia_eagles_vs_dallas_cowboys.png" />
+  </programme>
+<programme start="20261127043000 -0600" stop="20261127070000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Kansas City Chiefs vs. Buffalo Bills</title>
+    <sub-title lang="es">NFL Football</sub-title>
+    <desc lang="es">Los Kansas City Chiefs y los Buffalo Bills se enfrentan en un partido de fútbol americano.</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol Americano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/kansas_city_chiefs_vs_buffalo_bills.png" />
+  </programme>
+<programme start="20261127070000 -0600" stop="20261127090000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Good morning football</title>
+  </programme>
+<programme start="20261127090000 -0600" stop="20261127110000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">Good morning football</title>
+  </programme>
+<programme start="20261127110000 -0600" stop="20261127120000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Total Access</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261127120000 -0600" stop="20261127130000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Total Access</title>
+    <sub-title lang="es">NFL</sub-title>
+  </programme>
+<programme start="20261127130000 -0600" stop="20261127150000 -0600" channel="Canal.NFL.Network.sv">
+    <title lang="es">NFL Football</title>
   </programme>
 <programme start="20261125050000 -0600" stop="20261125090000 -0600" channel="Canal.NickMusic.sv">
     <title lang="es">Canal no disponible</title>
@@ -17324,10 +17478,6 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127140000 -0600" channel="Canal.RTS.sv">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Sun.Channel.sv">
-    <title lang="es">Latin American Foodie</title>
-    <sub-title lang="es">Caracas - Parte II Venezuela</sub-title>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Sun.Channel.sv">
     <title lang="es">Viajeros del alma</title>
     <sub-title lang="es">Carabobo</sub-title>
@@ -18324,9 +18474,6 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127143000 -0600" channel="Canal.Teleantioquia.sv">
     <title lang="es">Las Tres Gracias</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Telecafé.sv">
-    <title lang="es">Alianza Regional Informativa</title>
-  </programme>
 <programme start="20261125073000 -0600" stop="20261125105800 -0600" channel="Canal.Telecafé.sv">
     <title lang="es">Mañanas Eje</title>
   </programme>
@@ -18567,8 +18714,8 @@ En Vivo</title>
 <programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.Telecafé.sv">
     <title lang="es">Programa Pagado</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Telecaribe.sv">
-    <title lang="es">Días Saludables</title>
+<programme start="20261127133000 -0600" stop="20261127140000 -0600" channel="Canal.Telecafé.sv">
+    <title lang="es">Campo al campo</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Telecaribe.sv">
     <title lang="es">Nuestras mañanas</title>
@@ -18903,6 +19050,10 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.Telecaribe.sv">
     <title lang="es">Atlántico para el mundo. Embajadores de la tradición</title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127133300 -0600" channel="Canal.Telecaribe.sv">
+    <title lang="es">Sorteo</title>
+    <sub-title lang="es">El Sinuano</sub-title>
   </programme>
 <programme start="20261125065500 -0600" stop="20261125075000 -0600" channel="Canal.Telehit.Música.sv">
     <title lang="es">Reggaetown</title>
@@ -19479,9 +19630,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127140000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
-  </programme>
-<programme start="20261125072300 -0600" stop="20261125072700 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Sheep en la Gran Ciudad</title>
   </programme>
 <programme start="20261125072700 -0600" stop="20261125073500 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Sheep en la Gran Ciudad</title>
@@ -21166,6 +21314,9 @@ En Vivo</title>
 <programme start="20261127132000 -0600" stop="20261127133000 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Los autos locos</title>
   </programme>
+<programme start="20261127133000 -0600" stop="20261127134200 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Los autos locos</title>
+  </programme>
 <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="Canal.Universo.sv">
     <title lang="es">Escape Perfecto</title>
     <sub-title lang="es">Preguntas muy sencillas</sub-title>
@@ -21452,8 +21603,8 @@ En Vivo</title>
     <title lang="es">Caso Cerrado</title>
     <sub-title lang="es">El robo de la uva</sub-title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.Video.Rola.sv">
-    <title lang="es">Música Para Tus Ojos</title>
+<programme start="20261127133000 -0600" stop="20261127135500 -0600" channel="Canal.Universo.sv">
+    <title lang="es">Fútbol estelar</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.Video.Rola.sv">
     <title lang="es">Música Para Tus Ojos</title>
@@ -21740,6 +21891,9 @@ En Vivo</title>
     <title lang="es">Las 3 más pedidas</title>
     <sub-title lang="es">Urbano</sub-title>
   </programme>
+<programme start="20261127133000 -0600" stop="20261127140000 -0600" channel="Canal.Video.Rola.sv">
+    <title lang="es">Música Para Tus Ojos</title>
+  </programme>
 <programme start="20261125070000 -0600" stop="20261125083000 -0600" channel="Canal.Vía.X.sv">
     <title lang="es">Cadena nacional</title>
   </programme>
@@ -21856,6 +22010,9 @@ En Vivo</title>
   </programme>
 <programme start="20261127120000 -0600" stop="20261127133000 -0600" channel="Canal.Vía.X.sv">
     <title lang="es">Cadena nacional</title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127150000 -0600" channel="Canal.Vía.X.sv">
+    <title lang="es">Not News</title>
   </programme>
 <programme start="20261125070000 -0600" stop="20261125090000 -0600" channel="Canal.Zona.Latina.sv">
     <title lang="es">Zona de Estrellas</title>
@@ -21974,8 +22131,8 @@ En Vivo</title>
 <programme start="20261127123000 -0600" stop="20261127133000 -0600" channel="Canal.Zona.Latina.sv">
     <title lang="es">Bloque de Dos</title>
   </programme>
-<programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="Canal.¡HOLA!.TV.sv">
-    <title lang="es">Programa Pagado</title>
+<programme start="20261127133000 -0600" stop="20261127153000 -0600" channel="Canal.Zona.Latina.sv">
+    <title lang="es">Zona de Estrellas</title>
   </programme>
 <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="Canal.¡HOLA!.TV.sv">
     <title lang="es">Vidas Reales</title>
@@ -22301,5 +22458,8 @@ En Vivo</title>
   </programme>
 <programme start="20261127130000 -0600" stop="20261127133000 -0600" channel="Canal.¡HOLA!.TV.sv">
     <title lang="es">Stars in Style</title>
+  </programme>
+<programme start="20261127133000 -0600" stop="20261127140000 -0600" channel="Canal.¡HOLA!.TV.sv">
+    <title lang="es">Código royal</title>
   </programme>
 </tv>
