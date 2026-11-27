@@ -1758,7 +1758,14 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="Deportes",TUDN
-http://play.pelusa.online:8080/4SpexjF76RbM1/AW4m6zLkCqNt/31129
+http://181.119.177.253:8000/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="Deportes",TUDN OP2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="Deportes",TUDN OP3
+http://186.33.1.71:8000/play/a0bx/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" group-title="Deportes",Fox Sports
 http://liontv.es:8080/Euphoria/Euphoria2023/388690
