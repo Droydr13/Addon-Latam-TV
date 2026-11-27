@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-rewind-sv",
     "type": "tv",
     "name": "Rewind Chile",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-rewind-sv.png?v=f2c3fa34",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-rewind-sv.png?v=f2c3fa34",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=f2c3fa34",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-rewind-sv.png?v=fcbbf393",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-rewind-sv.png?v=fcbbf393",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=fcbbf393",
     "posterShape": "landscape",
     "genres": [
       "General"
