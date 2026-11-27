@@ -2,7 +2,15 @@
   "streams": [
     {
       "title": "TUDN",
-      "url": "http://play.pelusa.online:8080/4SpexjF76RbM1/AW4m6zLkCqNt/31129"
+      "url": "http://181.119.177.253:8000/play/a0ds/index.m3u8"
+    },
+    {
+      "title": "TUDN OP2",
+      "url": "http://179.60.224.196:8000/play/a0f4/index.m3u8"
+    },
+    {
+      "title": "TUDN OP3",
+      "url": "http://186.33.1.71:8000/play/a0bx/index.m3u8"
     }
   ]
 }

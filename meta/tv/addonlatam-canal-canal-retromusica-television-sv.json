@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-retromusica-television-sv",
     "type": "tv",
     "name": "Retromusica Television Chile",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-retromusica-television-sv.png?v=04107d58",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-retromusica-television-sv.png?v=04107d58",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=04107d58",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-retromusica-television-sv.png?v=190c4282",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-retromusica-television-sv.png?v=190c4282",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=190c4282",
     "posterShape": "landscape",
     "genres": [
       "Musica"
