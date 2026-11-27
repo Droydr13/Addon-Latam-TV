@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "addonlatam-canal-canal-azteca-7-mexico-sv",
+    "type": "tv",
+    "name": "Azteca 7",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-azteca-7-mexico-sv.png?v=defb82b8",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-azteca-7-mexico-sv.png?v=defb82b8",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=defb82b8",
+    "posterShape": "landscape",
+    "genres": [
+      "Mundo"
+    ],
+    "description": "Canal en vivo — Azteca 7 (MX). Vía Addon Latam."
+  }
+}

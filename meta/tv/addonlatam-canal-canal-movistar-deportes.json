@@ -3,9 +3,9 @@
     "id": "addonlatam-canal-canal-movistar-deportes",
     "type": "tv",
     "name": "Movistar Deportes",
-    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-movistar-deportes.png?v=fcbbf393",
-    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-movistar-deportes.png?v=fcbbf393",
-    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=fcbbf393",
+    "poster": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-movistar-deportes.png?v=defb82b8",
+    "logo": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/logos/addonlatam-canal-canal-movistar-deportes.png?v=defb82b8",
+    "background": "https://raw.githubusercontent.com/Droydr13/Addon-Latam-TV/main/fondo/fondo-canales.png?v=defb82b8",
     "posterShape": "landscape",
     "genres": [
       "Deportes"
