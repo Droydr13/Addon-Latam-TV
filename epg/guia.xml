@@ -460,12 +460,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-<programme start="20261126110000 -0600" stop="20261126130000 -0600" channel="Canal.Azteca.Uno.mx">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Azteca.Uno.mx">
     <title lang="es">Ventaneando</title>
   </programme>
@@ -629,6 +623,20 @@
     <title lang="es">Yo soy Betty, la fea</title>
   </programme>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.Azteca.Uno.mx">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa donde las televidentes pueden enviar sus historias y estas son llevadas en forma de un programa donde tratan de resolverles el problema. El programa trata sobre todo a esos casos de Silencio ya que de ahí se origina el nombre de la serie, y trata estos casos que en mayor parte no son aceptados por la sociedad.Entre los problemas que se tratan de resolver están celos, violencia familiar, suicidio, niños de la calle, embarazos no deseados, delincuencia, drogas, pornografía, entre otros.Al final de cada episodio se da un listado para que el televidente pueda pedir ayuda en caso de tener un problema similar al dramatizado por ese capítulo.</desc>
+    <credits>
+      <director>Alberto Cervantes</director>
+      <director>Carlos Guerra</director>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.Azteca.Uno.mx">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa donde las televidentes pueden enviar sus historias y estas son llevadas en forma de un programa donde tratan de resolverles el problema. El programa trata sobre todo a esos casos de Silencio ya que de ahí se origina el nombre de la serie, y trata estos casos que en mayor parte no son aceptados por la sociedad.Entre los problemas que se tratan de resolver están celos, violencia familiar, suicidio, niños de la calle, embarazos no deseados, delincuencia, drogas, pornografía, entre otros.Al final de cada episodio se da un listado para que el televidente pueda pedir ayuda en caso de tener un problema similar al dramatizado por ese capítulo.</desc>
     <credits>
@@ -828,30 +836,8 @@ En Vivo</title>
 <programme start="20261128163000 -0600" stop="20261128190000 -0600" channel="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx">
     <title lang="es">¿Quién es la máscara?</title>
   </programme>
-<programme start="20261126113000 -0600" stop="20261126130000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">The Loud House</title>
-    <desc lang="es">¿Alguna vez te has preguntado cómo es crecer en una gran familia? Lincoln Loud, de 11 años, ofrece a los espectadores una mirada interna sobre cómo sobrevivir al caos de una gran familia, ¡especialmente como el único niño con diez hermanas!</desc>
-    <credits>
-      <director>Chris Savino</director>
-      <director>Kyle Marshall</director>
-      <writer>Chris Savino</writer>
-      <producer>Karen Malach</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Corto</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
+<programme start="20261128190000 -0600" stop="20261128210000 -0600" channel="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx">
+    <title lang="es">Como dice el dicho</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126143000 -0600" channel="Canal.5.de.México.(XHGC).mx">
     <title lang="es">Miraculous Ladybug</title>
@@ -1261,8 +1247,8 @@ En Vivo</title>
 <programme start="20261128170000 -0600" stop="20261128185000 -0600" channel="Canal.5.de.México.(XHGC).mx">
     <title lang="es">Cigüeñas La Historia que</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.TV.Azteca.Corazón.mx">
-    <title lang="es">Quererte así</title>
+<programme start="20261128185000 -0600" stop="20261128210000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Liga MX Apertura 2026</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.TV.Azteca.Corazón.mx">
     <title lang="es">Los Rey</title>
@@ -1340,10 +1326,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127170000 -0600" stop="20261127180000 -0600" channel="Canal.TV.Azteca.Corazón.mx">
     <title lang="es">La mujer de Judas</title>
-  </programme>
-<programme start="20261126113000 -0600" stop="20261126124500 -0600" channel="Canal.Unicable.(México).mx">
-    <title lang="es">La mujer del diablo</title>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
 <programme start="20261126124500 -0600" stop="20261126133000 -0600" channel="Canal.Unicable.(México).mx">
     <title lang="es">Esta historia me suena</title>
@@ -1498,6 +1480,10 @@ En Vivo</title>
   </programme>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.Unicable.(México).mx">
     <title lang="es">De noche ya se armó</title>
+  </programme>
+<programme start="20261128190000 -0600" stop="20261128230000 -0600" channel="Canal.Unicable.(México).mx">
+    <title lang="es">La Reina del Sur</title>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
 <programme start="20261126123000 -0600" stop="20261126141500 -0600" channel="Canal.Distrito.Comedia.mx">
     <title lang="es">¿Tú crees? T.3 (final)</title>
@@ -1659,6 +1645,10 @@ En Vivo</title>
 <programme start="20261128161500 -0600" stop="20261128184500 -0600" channel="Canal.Distrito.Comedia.mx">
     <title lang="es">Vecinos</title>
     <episode-num system="onscreen">S9</episode-num>
+  </programme>
+<programme start="20261128184500 -0600" stop="20261128200000 -0600" channel="Canal.Distrito.Comedia.mx">
+    <title lang="es">Nosotros los guapos</title>
+    <episode-num system="onscreen">S2</episode-num>
   </programme>
 <programme start="20261126123000 -0600" stop="20261126140500 -0600" channel="Canal.TLNovelas.(México).mx">
     <title lang="es">El privilegio de amar</title>
@@ -2014,6 +2004,9 @@ En Vivo</title>
 <programme start="20261128165000 -0600" stop="20261128185000 -0600" channel="Canal.Telemundo.(México).mx">
     <title lang="es">Caso Cerrado</title>
   </programme>
+<programme start="20261128185000 -0600" stop="20261128205000 -0600" channel="Canal.Telemundo.(México).mx">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
 <programme start="20261126123600 -0600" stop="20261126144200 -0600" channel="Canal.Discovery.Kids.(México).mx">
     <title lang="es">Tres espías sin límite</title>
   </programme>
@@ -2207,6 +2200,10 @@ En Vivo</title>
   </programme>
 <programme start="20261128183300 -0600" stop="20261128185500 -0600" channel="Canal.Discovery.Kids.(México).mx">
     <title lang="es">Tres espías sin límite</title>
+  </programme>
+<programme start="20261128185500 -0600" stop="20261128191700 -0600" channel="Canal.Discovery.Kids.(México).mx">
+    <title lang="es">Shasha y Milo</title>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
 <programme start="20261126120000 -0600" stop="20261126140000 -0600" channel="Canal.Cartoon.Network.(México).mx">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3041,8 +3038,30 @@ En Vivo</title>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.Cartoon.Network.(México).mx">
     <title lang="es">El mundo de Craig</title>
   </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Cartoonito.(México).mx">
-    <title lang="es">Bugs Bunny Builders</title>
+<programme start="20261128190000 -0600" stop="20261128193000 -0600" channel="Canal.Cartoon.Network.(México).mx">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <desc lang="es">¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. "¡No lo es!" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión….</desc>
+    <credits>
+      <writer>Michael Jelenic</writer>
+      <writer>Aaron Horvath</writer>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Cartoonito.(México).mx">
     <title lang="es">Batwheels</title>
@@ -3604,9 +3623,8 @@ En Vivo</title>
 <programme start="20261128183000 -0600" stop="20261128190000 -0600" channel="Canal.Cartoonito.(México).mx">
     <title lang="es">Cuquín</title>
   </programme>
-<programme start="20261126122100 -0600" stop="20261126130900 -0600" channel="Canal.History.2.(México).mx">
-    <title lang="es">Inventos legendarios</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.Cartoonito.(México).mx">
+    <title lang="es">La casa de muñecas de Gabby</title>
   </programme>
 <programme start="20261126130900 -0600" stop="20261126140400 -0600" channel="Canal.History.2.(México).mx">
     <title lang="es">Milagros decodificados</title>
@@ -3896,6 +3914,10 @@ En Vivo</title>
 <programme start="20261128172700 -0600" stop="20261128190200 -0600" channel="Canal.History.2.(México).mx">
     <title lang="es">La existencia de Dios</title>
   </programme>
+<programme start="20261128190200 -0600" stop="20261128195200 -0600" channel="Canal.History.2.(México).mx">
+    <title lang="es">Gigantes de la industria</title>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
 <programme start="20261126123100 -0600" stop="20261126141000 -0600" channel="Canal.Discovery.Channel.(México).mx">
     <title lang="es">Supervivencia al desnudo el</title>
     <episode-num system="onscreen">E9</episode-num>
@@ -4164,9 +4186,9 @@ En Vivo</title>
     <title lang="es">Mexicánicos sin fronteras</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-<programme start="20261126122400 -0600" stop="20261126131200 -0600" channel="Canal.Animal.Planet.(México).mx">
-    <title lang="es">El acuario</title>
-    <episode-num system="onscreen">S1 E8</episode-num>
+<programme start="20261128191000 -0600" stop="20261128200000 -0600" channel="Canal.Discovery.Channel.(México).mx">
+    <title lang="es">Mexicánicos</title>
+    <episode-num system="onscreen">S10 E1</episode-num>
   </programme>
 <programme start="20261126131200 -0600" stop="20261126140000 -0600" channel="Canal.Animal.Planet.(México).mx">
     <title lang="es">Guaridas con estilo</title>
@@ -4434,10 +4456,9 @@ En Vivo</title>
     <title lang="es">El acuario</title>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-<programme start="20261126120300 -0600" stop="20261126130300 -0600" channel="Canal.National.Geographic.(México).mx">
-    <title lang="es">Gordon Ramsay Sabores extremos</title>
-    <sub-title lang="es">Nueva Zelanda</sub-title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+<programme start="20261128184800 -0600" stop="20261128193600 -0600" channel="Canal.Animal.Planet.(México).mx">
+    <title lang="es">Unión salvaje</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
 <programme start="20261126130300 -0600" stop="20261126140400 -0600" channel="Canal.National.Geographic.(México).mx">
     <title lang="es">Salvajemente famosos el desafío</title>
@@ -4710,9 +4731,6 @@ En Vivo</title>
     <title lang="es">Ancient Bodies: Secrets Revealed</title>
     <sub-title lang="es">La mujer de Haraldskær: La identidad de la momia</sub-title>
     <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.María.Visión.mx">
-    <title lang="es">El santísimo sacramento</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.María.Visión.mx">
     <title lang="es">Caravana por la paz</title>
@@ -5764,6 +5782,40 @@ En Vivo</title>
       <value>7.0</value>
     </star-rating>
   </programme>
+<programme start="20261128190000 -0600" stop="20261128203300 -0600" channel="Canal.HBO.Family.Latinoamérica.mx">
+    <title lang="es">Las Aventuras de Dog Man</title>
+    <desc lang="es">Cuando un fiel perro policía y su dueño humano, también oficial de policía, resultan heridos juntos en el trabajo, una cirugía disparatada pero salvadora los une y nace Dog Man (Peter Hastings). Dog Man está comprometido a proteger y servir… y también a traer objetos, sentarse y dar vueltas.Mientras Dog Man acepta su nueva identidad y se esfuerza por impresionar a su Jefe (Lil Rel Howery), debe detener los malignos planes del supervillano felino Petey el Gato (Pete Davidson). El último plan de Petey es clonarse a sí mismo, creando al gatito Lil Petey (Lucas Hopkins), para duplicar su capacidad para cometer delitos. Sin embargo, las cosas se complican cuando Lil Petey forja un vínculo con Dog Man.Cuando Lil Petey cae en las garras de un enemigo común, Dog Man y Petey se ven obligados a unir fuerzas en una trepidante carrera contra el tiempo para rescatar al joven gatito. En el proceso, descubren el poder de la familia (¡y de los gatitos!) para unir incluso a los rivales más hostiles.</desc>
+    <credits>
+      <director>Peter Hastings</director>
+      <actor>Peter Hastings</actor>
+      <actor>Pete Davidson</actor>
+      <actor>Lucas Hopkins</actor>
+      <actor>Lil Rel Howery</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Stephen Root</actor>
+      <producer>Karen Foster</producer>
+      <composer>Tom Howe</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_aventuras_de_dog_man.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
 <programme start="20261126124000 -0600" stop="20261126153500 -0600" channel="Canal.HBO.Plus.mx">
     <title lang="es">Interstellar</title>
   </programme>
@@ -6265,6 +6317,9 @@ En Vivo</title>
       <value>4.0</value>
     </star-rating>
   </programme>
+<programme start="20261128184300 -0600" stop="20261128203000 -0600" channel="Canal.Golden.(México).mx">
+    <title lang="es">Matilda</title>
+  </programme>
 <programme start="20261126115800 -0600" stop="20261126134900 -0600" channel="Canal.Golden.Edge.mx">
     <title lang="es">Son como niños</title>
   </programme>
@@ -6541,9 +6596,6 @@ En Vivo</title>
 <programme start="20261128163000 -0600" stop="20261128194900 -0600" channel="Canal.Golden.Edge.mx">
     <title lang="es">King Kong</title>
   </programme>
-<programme start="20261126110800 -0600" stop="20261126125100 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Sabor a sangre</title>
-  </programme>
 <programme start="20261126125100 -0600" stop="20261126143400 -0600" channel="Canal.De.Película.mx">
     <title lang="es">Una buena forma de morir</title>
   </programme>
@@ -6639,10 +6691,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128180200 -0600" stop="20261128195200 -0600" channel="Canal.De.Película.mx">
     <title lang="es">El Chanfle 2</title>
-  </programme>
-<programme start="20261126110000 -0600" stop="20261126130000 -0600" channel="Canal.TUDN.(México).mx">
-    <title lang="es">América vs. Toluca</title>
-    <sub-title lang="es">Fútbol Mexicano Primera División</sub-title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126143000 -0600" channel="Canal.TUDN.(México).mx">
     <title lang="es">Lucha libre CMLL</title>
@@ -6800,6 +6848,13 @@ En Vivo</title>
   </programme>
 <programme start="20261128180000 -0600" stop="20261128185000 -0600" channel="Canal.TUDN.(México).mx">
     <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20261128185000 -0600" stop="20261128210000 -0600" channel="Canal.TUDN.(México).mx">
+    <title lang="es">Atlas vs. Toluca</title>
+    <sub-title lang="es">Fútbol Mexicano Primera División</sub-title>
+    <desc lang="es">El Atlas Fútbol Club de Guadalajara se enfrenta al Deportivo Toluca Fútbol Club.</desc>
+    <category lang="es">Deporte</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/atlas_vs_toluca.png" />
   </programme>
 <programme start="20261126120000 -0600" stop="20261126140000 -0600" channel="Canal.AYM.Sports.mx">
     <title lang="es">Abejas de León vs. Dorados de Chihuahua</title>
@@ -6977,9 +7032,6 @@ En Vivo</title>
 <programme start="20261128180000 -0600" stop="20261128193000 -0600" channel="Canal.AYM.Sports.mx">
     <title lang="es">Boxeo</title>
     <sub-title lang="es">Fernando Garza vs. Octavio Sandoval</sub-title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Milenio.TV.mx">
-    <title lang="es">Milenio Noticias del Mediodía</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Milenio.TV.mx">
     <title lang="es">Milenio Noticias Tania Díaz</title>
@@ -7225,6 +7277,12 @@ En Vivo</title>
     <title lang="es">Motores al día</title>
   </programme>
 <programme start="20261128170000 -0600" stop="20261128184500 -0600" channel="Canal.Milenio.TV.mx">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+<programme start="20261128184500 -0600" stop="20261128190000 -0600" channel="Canal.Milenio.TV.mx">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+<programme start="20261128190000 -0600" stop="20261128204500 -0600" channel="Canal.Milenio.TV.mx">
     <title lang="es">Milenio noticias</title>
   </programme>
 <programme start="20261126123000 -0500" stop="20261126144000 -0500" channel="ESPN.2.mx">
@@ -7566,8 +7624,12 @@ En Vivo</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg" />
   </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Comedy.Central.(México).mx">
-    <title lang="es">Spin City</title>
+<programme start="20261128194500 -0500" stop="20261128220000 -0500" channel="ESPN.2.mx">
+    <title lang="en">Live: SportsCenter</title>
+    <desc lang="en">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186674_b_v11_ab.jpg" />
   </programme>
 <programme start="20261126130000 -0600" stop="20261126132000 -0600" channel="Canal.Comedy.Central.(México).mx">
     <title lang="es">Un Hombre, Un Plan</title>
@@ -8517,6 +8579,9 @@ En Vivo</title>
 <programme start="20261128183500 -0600" stop="20261128185500 -0600" channel="Canal.Comedy.Central.(México).mx">
     <title lang="es">Spin City</title>
   </programme>
+<programme start="20261128185500 -0600" stop="20261128192000 -0600" channel="Canal.Comedy.Central.(México).mx">
+    <title lang="es">The Exes</title>
+  </programme>
 <programme start="20261126120000 -0600" stop="20261126140000 -0600" channel="ESPN.3.mx">
     <title lang="es">Maryland vs. San Diego State</title>
   </programme>
@@ -8658,12 +8723,8 @@ En Vivo</title>
 <programme start="20261128154500 -0600" stop="20261128190000 -0600" channel="ESPN.3.mx">
     <title lang="es">Premier Padel México Major</title>
   </programme>
-<programme start="20261126110000 -0600" stop="20261126130000 -0600" channel="ESPN.5.mx">
-    <title lang="es">Sporting CP vs. Manchester United</title>
-    <sub-title lang="es">UEFA Champions League</sub-title>
-    <desc lang="es">El Sporting Clube de Portugal de Lisboa se enfrenta al Manchester United Football Club.</desc>
-    <category lang="es">Deporte</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/sporting_cp_vs_manchester_united.png" />
+<programme start="20261128190000 -0600" stop="20261128220000 -0600" channel="ESPN.3.mx">
+    <title lang="es">Premier Padel México Major</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126150000 -0600" channel="ESPN.5.mx">
     <title lang="es">Real Madrid vs. PSV Eindhoven</title>
@@ -9027,9 +9088,6 @@ En Vivo</title>
       <value>8.0</value>
     </star-rating>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.ATV.sv">
-    <title lang="es">Andrea</title>
-  </programme>
 <programme start="20261126130000 -0600" stop="20261126143000 -0600" channel="Canal.ATV.sv">
     <title lang="es">La mujer en el espejo</title>
   </programme>
@@ -9239,9 +9297,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128173000 -0600" stop="20261128200000 -0600" channel="Canal.ATV.sv">
     <title lang="es">Terremoto</title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.BabyFirst.TV.sv">
-    <title lang="es">Música y arte</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.BabyFirst.TV.sv">
     <title lang="es">Programas para el desarrollo del bebé</title>
@@ -9555,8 +9610,8 @@ En Vivo</title>
 <programme start="20261128183000 -0600" stop="20261128190000 -0600" channel="Canal.BabyFirst.TV.sv">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-<programme start="20261126114000 -0600" stop="20261126130000 -0600" channel="Canal.Bandamax.sv">
-    <title lang="es">Las mas sonadas</title>
+<programme start="20261128190000 -0600" stop="20261128193000 -0600" channel="Canal.BabyFirst.TV.sv">
+    <title lang="es">Fabuloso vocabulario</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126150000 -0600" channel="Canal.Bandamax.sv">
     <title lang="es">Vivo Pa'la banda</title>
@@ -9735,8 +9790,8 @@ En Vivo</title>
 <programme start="20261128182500 -0600" stop="20261128185000 -0600" channel="Canal.Bandamax.sv">
     <title lang="es">Acceso grupero</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.CNN.Internacional.sv">
-    <title lang="es">Amanpour</title>
+<programme start="20261128185000 -0600" stop="20261128201500 -0600" channel="Canal.Bandamax.sv">
+    <title lang="es">Las imperdibles BDX</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.CNN.Internacional.sv">
     <title lang="es">Isa Soares Tonight</title>
@@ -9957,6 +10012,9 @@ En Vivo</title>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.CNN.Internacional.sv">
     <title lang="es">CNN Newsroom</title>
   </programme>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.CNN.Internacional.sv">
+    <title lang="es">Smerconish</title>
+  </programme>
 <programme start="20261126120000 -0600" stop="20261126140000 -0600" channel="Canal.CNN.en.Español.sv">
     <title lang="es">Redacción con Nacho Girón</title>
   </programme>
@@ -10128,6 +10186,9 @@ En Vivo</title>
 <programme start="20261128183000 -0600" stop="20261128190000 -0600" channel="Canal.CNN.en.Español.sv">
     <title lang="es">Conexión Global</title>
   </programme>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.CNN.en.Español.sv">
+    <title lang="es">Cnn dinero</title>
+  </programme>
 <programme start="20261126122000 -0600" stop="20261126135000 -0600" channel="Canal.Cine.Mexicano.sv">
     <title lang="es">Las Coronelas</title>
   </programme>
@@ -10257,8 +10318,8 @@ En Vivo</title>
 <programme start="20261128165500 -0600" stop="20261128185000 -0600" channel="Canal.Cine.Mexicano.sv">
     <title lang="es">Río salvaje</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.CineClick.sv">
-    <title lang="es">Bewitched</title>
+<programme start="20261128185000 -0600" stop="20261128202000 -0600" channel="Canal.Cine.Mexicano.sv">
+    <title lang="es">La Soldadera</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.CineClick.sv">
     <title lang="es">Mangiando</title>
@@ -10559,8 +10620,8 @@ En Vivo</title>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.CineClick.sv">
     <title lang="es">Numb3rs</title>
   </programme>
-<programme start="20261126114500 -0600" stop="20261126130500 -0600" channel="Canal.Cinelatino.sv">
-    <title lang="es">La jaula</title>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.CineClick.sv">
+    <title lang="es">Fringe</title>
   </programme>
 <programme start="20261126130500 -0600" stop="20261126144500 -0600" channel="Canal.Cinelatino.sv">
     <title lang="es">Luis</title>
@@ -11044,11 +11105,6 @@ En Vivo</title>
 <programme start="20261128182500 -0600" stop="20261128201500 -0600" channel="Canal.DHE.sv">
     <title lang="es">Traición en el aire</title>
   </programme>
-<programme start="20261126121200 -0600" stop="20261126130000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).sv">
-    <title lang="es">Houdini's Last Secrets</title>
-    <sub-title lang="es">The Torture Escape</sub-title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
 <programme start="20261126130000 -0600" stop="20261126134800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).sv">
     <title lang="es">Moonshiners</title>
     <sub-title lang="es">Mordida de serpiente</sub-title>
@@ -11382,10 +11438,6 @@ En Vivo</title>
     <title lang="es">Moonshiners</title>
     <sub-title lang="es">Highway to Hell</sub-title>
     <episode-num system="onscreen">S7 E13</episode-num>
-  </programme>
-<programme start="20261126121200 -0600" stop="20261126130000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).sv">
-    <title lang="es">Supercargas</title>
-    <sub-title lang="es">Military Moves</sub-title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126134800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).sv">
     <title lang="es">Expedición a lo desconocido</title>
@@ -11888,9 +11940,10 @@ En Vivo</title>
     <sub-title lang="es">Lowrider - Three Wheel Motion</sub-title>
     <episode-num system="onscreen">S10 E16</episode-num>
   </programme>
-<programme start="20261126123600 -0600" stop="20261126130000 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
-    <title lang="es">Tocinolandia</title>
-    <sub-title lang="es">La Zombie-hamburguesa</sub-title>
+<programme start="20261128184900 -0600" stop="20261128193600 -0600" channel="Canal.Discovery.Turbo.(Latinoamérica).sv">
+    <title lang="es">Texas Metal</title>
+    <sub-title lang="es">Camión diesel</sub-title>
+    <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126132400 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
     <title lang="es">Pantano Se vende</title>
@@ -12139,10 +12192,6 @@ En Vivo</title>
 <programme start="20261127174800 -0600" stop="20261127181200 -0600" channel="Canal.Discovery.World.Latinoamérica.sv">
     <title lang="es">Mi casa en la montaña</title>
     <sub-title lang="es">Rascacielos en la montaña</sub-title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
-    <title lang="es">Kiff</title>
-    <sub-title lang="es">Las pendientes / Mini Minis y su pianista</sub-title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Disney.Channel.(Centro).sv">
     <title lang="es">Zombies la serie re-animada</title>
@@ -12543,10 +12592,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128170000 -0600" stop="20261128210000 -0600" channel="Canal.ESPN.Premium.(Chile).sv">
     <title lang="es">ESPN Premium Chile</title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Elgourmet.sv">
-    <title lang="es">Sonia en su huerta</title>
-    <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Elgourmet.sv">
     <title lang="es">Fogones tradicionales España</title>
@@ -12968,11 +13013,9 @@ En Vivo</title>
     <title lang="es">Pueblos para comerselos Méx</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-<programme start="20261126123000 -0600" stop="20261126124200 -0600" channel="Canal.Euronews.sv">
-    <title lang="es">The European debrief</title>
-  </programme>
-<programme start="20261126124200 -0600" stop="20261126130000 -0600" channel="Canal.Euronews.sv">
-    <title lang="es">News</title>
+<programme start="20261128190000 -0600" stop="20261128193000 -0600" channel="Canal.Elgourmet.sv">
+    <title lang="es">Fogones tradicionales Esp</title>
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Euronews.sv">
     <title lang="es">News</title>
@@ -13667,8 +13710,11 @@ En Vivo</title>
 <programme start="20261128183500 -0600" stop="20261128190000 -0600" channel="Canal.Euronews.sv">
     <title lang="es">The Ring</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Foro.TV.sv">
-    <title lang="es">Paralelo 23En Vivo</title>
+<programme start="20261128190000 -0600" stop="20261128191200 -0600" channel="Canal.Euronews.sv">
+    <title lang="es">Global Week-End</title>
+  </programme>
+<programme start="20261128191200 -0600" stop="20261128193000 -0600" channel="Canal.Euronews.sv">
+    <title lang="es">News</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Foro.TV.sv">
     <title lang="es">Las Noticias de las 1300En Vivo</title>
@@ -13801,9 +13847,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128180000 -0600" stop="20261128220000 -0600" channel="Canal.Foro.TV.sv">
     <title lang="es">Las noticiasEn Vivo</title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Gamavisión.sv">
-    <title lang="es">Los Protagonistas</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Gamavisión.sv">
     <title lang="es">Tv Médica</title>
@@ -14729,8 +14772,8 @@ En Vivo</title>
       <value>9.0</value>
     </star-rating>
   </programme>
-<programme start="20261126105400 -0600" stop="20261126125900 -0600" channel="Canal.HBO.Xtreme.sv">
-    <title lang="es">Bugonia</title>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.HBO.Signature.Latinoamérica.sv">
+    <title lang="es">HBO Movies</title>
   </programme>
 <programme start="20261126125900 -0600" stop="20261126151700 -0600" channel="Canal.HBO.Xtreme.sv">
     <title lang="es">El escuadrón suicida</title>
@@ -15106,8 +15149,8 @@ En Vivo</title>
       <value>7.0</value>
     </star-rating>
   </programme>
-<programme start="20261126090000 -0600" stop="20261126130000 -0600" channel="Canal.HTV.sv">
-    <title lang="es">HTV</title>
+<programme start="20261128190200 -0600" stop="20261128210000 -0600" channel="Canal.HBO.Xtreme.sv">
+    <title lang="es">Amigos de armas</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126170000 -0600" channel="Canal.HTV.sv">
     <title lang="es">HTV</title>
@@ -15347,9 +15390,6 @@ En Vivo</title>
     <category lang="es">Fútbol Americano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/kansas_city_chiefs_vs_buffalo_bills.png" />
   </programme>
-<programme start="20261126090000 -0600" stop="20261126130000 -0600" channel="Canal.NickMusic.sv">
-    <title lang="es">Canal no disponible</title>
-  </programme>
 <programme start="20261126130000 -0600" stop="20261126170000 -0600" channel="Canal.NickMusic.sv">
     <title lang="es">Canal no disponible</title>
   </programme>
@@ -15391,9 +15431,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128170000 -0600" stop="20261128210000 -0600" channel="Canal.NickMusic.sv">
     <title lang="es">Canal no disponible</title>
-  </programme>
-<programme start="20261126123500 -0600" stop="20261126130000 -0600" channel="Canal.Nickelodeon.(México).sv">
-    <title lang="es">Henry Danger</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126132000 -0600" channel="Canal.Nickelodeon.(México).sv">
     <title lang="es">That Girl Lay Lay</title>
@@ -17308,8 +17345,8 @@ En Vivo</title>
       <value>7.0</value>
     </star-rating>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.RCN.Novelas.sv">
-    <title lang="es">El Joe</title>
+<programme start="20261128190000 -0600" stop="20261128192500 -0600" channel="Canal.Nickelodeon.(México).sv">
+    <title lang="es">That Girl Lay Lay</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.RCN.Novelas.sv">
     <title lang="es">Francisco, el matemático</title>
@@ -17397,9 +17434,6 @@ En Vivo</title>
   </programme>
 <programme start="20261127170000 -0600" stop="20261127180000 -0600" channel="Canal.RCN.Novelas.sv">
     <title lang="es">Novia para dos</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.RTS.sv">
-    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.RTS.sv">
     <title lang="es">La Rosa de Guadalupe</title>
@@ -17579,10 +17613,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128170000 -0600" stop="20261128180000 -0600" channel="Canal.RTS.sv">
     <title lang="es">María, la del barrio</title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Sun.Channel.sv">
-    <title lang="es">Saberes milenarios</title>
-    <sub-title lang="es">El Beni. Ecos del pasado</sub-title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Sun.Channel.sv">
     <title lang="es">Enológica</title>
@@ -17785,37 +17815,6 @@ En Vivo</title>
 <programme start="20261127173000 -0600" stop="20261127180000 -0600" channel="Canal.Sun.Channel.sv">
     <title lang="es">Saberes milenarios</title>
     <sub-title lang="es">El Beni. Ecos del pasado</sub-title>
-  </programme>
-<programme start="20261126102900 -0600" stop="20261126125900 -0600" channel="Canal.TNT.(México).sv">
-    <title lang="es">El Hombre de Acero</title>
-    <desc lang="es">(Man of Steel) Un joven reportero criado por sus padres adoptivos luego de que fuera transportado a la tierra en su infancia desde el moribundo planeta Kriptón se encuentra en sí mismo en la posición de salvar la humanidad luego de que la tierra sea atacada.</desc>
-    <credits>
-      <director>Zack Snyder</director>
-      <actor>Henry Cavill</actor>
-      <actor>Amy Adams</actor>
-      <actor>Michael Shannon</actor>
-      <actor>Kevin Costner</actor>
-      <actor>Diane Lane</actor>
-      <actor>Laurence Fishburne</actor>
-      <actor>Antje Traue</actor>
-      <actor>Ayelet Zurer</actor>
-      <producer>Christopher Nolan</producer>
-      <producer>Emma Thomas</producer>
-      <composer>Hans Zimmer</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_hombre_de_acero.jpg" />
-    <country lang="es">Canadá</country>
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
   </programme>
 <programme start="20261126125900 -0600" stop="20261126152500 -0600" channel="Canal.TNT.(México).sv">
     <title lang="es">El sorprendente hombre araña</title>
@@ -18401,12 +18400,6 @@ En Vivo</title>
 <programme start="20261128170000 -0600" stop="20261128190000 -0600" channel="Canal.Teleamazonas.sv">
     <title lang="es">Sábados de cine</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Teleantioquia.sv">
-    <title lang="es">Teleantioquia Noticias</title>
-  </programme>
-<programme start="20261126130000 -0600" stop="20261126130500 -0600" channel="Canal.Teleantioquia.sv">
-    <title lang="es">Lo más de Bello</title>
-  </programme>
 <programme start="20261126130500 -0600" stop="20261126143000 -0600" channel="Canal.Teleantioquia.sv">
     <title lang="es">Las Tres Gracias</title>
   </programme>
@@ -18613,9 +18606,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128160000 -0600" stop="20261128180000 -0600" channel="Canal.Teleantioquia.sv">
     <title lang="es">Te hacemos la tarde</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Telecafé.sv">
-    <title lang="es">TVA Noticias</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Telecafé.sv">
     <title lang="es">Salud Para Todos</title>
@@ -18868,9 +18858,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128173000 -0600" stop="20261128180000 -0600" channel="Canal.Telecafé.sv">
     <title lang="es">Pueblando</title>
-  </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Telecaribe.sv">
-    <title lang="es">La Ventana</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.Telecaribe.sv">
     <title lang="es">Magdaleson</title>
@@ -19189,9 +19176,6 @@ En Vivo</title>
 <programme start="20261128173000 -0600" stop="20261128180000 -0600" channel="Canal.Telecaribe.sv">
     <title lang="es">Detrás del Ring</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126125500 -0600" channel="Canal.Telehit.Música.sv">
-    <title lang="es">Super Hits</title>
-  </programme>
 <programme start="20261126125500 -0600" stop="20261126135000 -0600" channel="Canal.Telehit.Música.sv">
     <title lang="es">Mixología</title>
   </programme>
@@ -19380,6 +19364,9 @@ En Vivo</title>
   </programme>
 <programme start="20261128180000 -0600" stop="20261128185500 -0600" channel="Canal.Telehit.Música.sv">
     <title lang="es">Mixología</title>
+  </programme>
+<programme start="20261128185500 -0600" stop="20261128195000 -0600" channel="Canal.Telehit.Música.sv">
+    <title lang="es">Turbo Fiesta</title>
   </programme>
 <programme start="20261126122500 -0600" stop="20261126132000 -0600" channel="Canal.Telehit.sv">
     <title lang="es">Super beats</title>
@@ -19597,9 +19584,6 @@ En Vivo</title>
 <programme start="20261128183000 -0600" stop="20261128192500 -0600" channel="Canal.Telehit.sv">
     <title lang="es">Reggaepop</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Telenostalgia.sv">
-    <title lang="es">Programación videos</title>
-  </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
   </programme>
@@ -19762,39 +19746,8 @@ En Vivo</title>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.Telenostalgia.sv">
     <title lang="es">Programación videos</title>
   </programme>
-<programme start="20261126121800 -0600" stop="20261126124400 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Los Picapiedra</title>
-    <desc lang="es">Únete a la diversión en la ciudad de Piedradura con esta fabulosamente famosa familia moderna de la Edad de Piedra. Cortar el césped con un dinosaurio de dientes de sierra, bañarse con agua rociada del tronco de un mamut lanudo y comer hamburguesas de brontosaurios son eventos cotidianos para los adorables Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol. Vivir en tiempos prehistóricos tiene sus inconvenientes, pero los Picapiedra y sus vecinos sobreviven con estilo.</desc>
-    <credits>
-      <director>William Hanna</director>
-      <director>Joseph Barbera</director>
-      <writer>William Hanna</writer>
-      <writer>Joseph Barbera</writer>
-      <producer>William Hanna</producer>
-      <producer>Joseph Barbera</producer>
-    </credits>
-    <date>1960</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_picapiedra.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-<programme start="20261126124400 -0600" stop="20261126125400 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Los autos locos</title>
-  </programme>
-<programme start="20261126125400 -0600" stop="20261126130400 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Los autos locos</title>
-  </programme>
-<programme start="20261126130400 -0600" stop="20261126131400 -0600" channel="Canal.Tooncast.sv">
-    <title lang="es">Los autos locos</title>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.Telenostalgia.sv">
+    <title lang="es">El mano a mano</title>
   </programme>
 <programme start="20261126131400 -0600" stop="20261126132400 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Los autos locos</title>
@@ -21516,9 +21469,20 @@ En Vivo</title>
 <programme start="20261128183800 -0600" stop="20261128184900 -0600" channel="Canal.Tooncast.sv">
     <title lang="es">Mike, Lu y Og</title>
   </programme>
-<programme start="20261126120000 -0600" stop="20261126130000 -0600" channel="Canal.Universo.sv">
-    <title lang="es">Historias de la vírgen morena</title>
-    <sub-title lang="es">La Justicia en Tus Manos</sub-title>
+<programme start="20261128184900 -0600" stop="20261128190200 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+<programme start="20261128190200 -0600" stop="20261128190300 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+<programme start="20261128190300 -0600" stop="20261128190600 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+<programme start="20261128190600 -0600" stop="20261128191300 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+<programme start="20261128191300 -0600" stop="20261128191800 -0600" channel="Canal.Tooncast.sv">
+    <title lang="es">Sheep en la Gran Ciudad</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Universo.sv">
     <title lang="es">Lo que callamos las mujeres</title>
@@ -21778,9 +21742,8 @@ En Vivo</title>
 <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Canal.Universo.sv">
     <title lang="es">Acércate a Rocío</title>
   </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.Video.Rola.sv">
-    <title lang="es">Videografía</title>
-    <sub-title lang="es">Valentín Elizalde</sub-title>
+<programme start="20261128190000 -0600" stop="20261128210000 -0600" channel="Canal.Universo.sv">
+    <title lang="es">Acércate a Rocío al límite</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126140000 -0600" channel="Canal.Video.Rola.sv">
     <title lang="es">Beat urbano</title>
@@ -22061,6 +22024,10 @@ En Vivo</title>
     <title lang="es">Más Show</title>
     <sub-title lang="es">Valentín Elizalde</sub-title>
   </programme>
+<programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Canal.Video.Rola.sv">
+    <title lang="es">En Concierto</title>
+    <sub-title lang="es">Valentín Elizalde</sub-title>
+  </programme>
 <programme start="20261126120000 -0600" stop="20261126133000 -0600" channel="Canal.Vía.X.sv">
     <title lang="es">Cadena nacional</title>
   </programme>
@@ -22291,9 +22258,6 @@ En Vivo</title>
   </programme>
 <programme start="20261128163000 -0600" stop="20261128183000 -0600" channel="Canal.Zona.Latina.sv">
     <title lang="es">Que te lo digo</title>
-  </programme>
-<programme start="20261126123000 -0600" stop="20261126130000 -0600" channel="Canal.¡HOLA!.TV.sv">
-    <title lang="es">Íntimo y personal</title>
   </programme>
 <programme start="20261126130000 -0600" stop="20261126133000 -0600" channel="Canal.¡HOLA!.TV.sv">
     <title lang="es">Stars in Style</title>
@@ -22619,6 +22583,10 @@ En Vivo</title>
     <title lang="es">Las consejeras de estilo</title>
   </programme>
 <programme start="20261128183000 -0600" stop="20261128190000 -0600" channel="Canal.¡HOLA!.TV.sv">
+    <title lang="es">Especiales Realeza</title>
+    <sub-title lang="es">William y Kate, reinventando la paternidad</sub-title>
+  </programme>
+<programme start="20261128190000 -0600" stop="20261128193000 -0600" channel="Canal.¡HOLA!.TV.sv">
     <title lang="es">Especiales Realeza</title>
     <sub-title lang="es">William y Kate, reinventando la paternidad</sub-title>
   </programme>
